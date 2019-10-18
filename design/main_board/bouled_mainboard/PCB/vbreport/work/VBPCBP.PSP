@@ -1,0 +1,194 @@
+PadID	Name                                                            	Shape                    	Width       	Height      	ThermalClearance	XOffset     	YOffset     
+1    	Round 32                                                        	ROUND                    	0.813       	0.000       	0.000           	0.000       	0.000       
+2    	Round 26                                                        	ROUND                    	0.660       	0.000       	0.000           	0.000       	0.000       
+3    	Round 0.6                                                       	ROUND                    	0.600       	0.000       	0.000           	0.000       	0.000       
+4    	Round 0.7                                                       	ROUND                    	0.700       	0.000       	0.000           	0.000       	0.000       
+5    	Round 1                                                         	ROUND                    	1.000       	0.000       	0.000           	0.000       	0.000       
+6    	Round 0.65                                                      	ROUND                    	0.650       	0.000       	0.000           	0.000       	0.000       
+7    	Rectangle 0.3x1.5                                               	RECTANGLE                	0.300       	1.500       	0.000           	0.000       	0.000       
+8    	Rectangle 0.45x1.65                                             	RECTANGLE                	0.450       	1.650       	0.000           	0.000       	0.000       
+9    	Rectangle 0.33x2                                                	RECTANGLE                	0.330       	2.000       	0.000           	0.000       	0.000       
+10   	Rectangle 0.4x1.6                                               	RECTANGLE                	0.400       	1.600       	0.000           	0.000       	0.000       
+11   	Rectangle 1.5x0.3                                               	RECTANGLE                	1.500       	0.300       	0.000           	0.000       	0.000       
+12   	Rectangle 1.65x0.45                                             	RECTANGLE                	1.650       	0.450       	0.000           	0.000       	0.000       
+13   	Round 0.9                                                       	ROUND                    	0.900       	0.000       	0.000           	0.000       	0.000       
+14   	Round 1.05                                                      	ROUND                    	1.050       	0.000       	0.000           	0.000       	0.000       
+15   	Rectangle 0.2x0.8                                               	RECTANGLE                	0.200       	0.800       	0.000           	0.000       	0.000       
+16   	Rectangle 0.275x0.875                                           	RECTANGLE                	0.275       	0.875       	0.000           	0.000       	0.000       
+17   	Rectangle 0.6x1                                                 	RECTANGLE                	0.600       	1.000       	0.000           	0.000       	0.000       
+18   	Rectangle 0.75x1.15                                             	RECTANGLE                	0.750       	1.150       	0.000           	0.000       	0.000       
+19   	Rectangle 0.67x1.5                                              	RECTANGLE                	0.670       	1.500       	0.000           	0.000       	0.000       
+20   	Rectangle 0.82x1.65                                             	RECTANGLE                	0.820       	1.650       	0.000           	0.000       	0.000       
+21   	Rectangle 0.7x0.4                                               	RECTANGLE                	0.700       	0.400       	0.000           	0.000       	0.000       
+22   	Rectangle 0.85x0.55                                             	RECTANGLE                	0.850       	0.550       	0.000           	0.000       	0.000       
+23   	Rectangle 0.9x1.6                                               	RECTANGLE                	0.900       	1.600       	0.000           	0.000       	0.000       
+24   	Rectangle 1.05x1.75                                             	RECTANGLE                	1.050       	1.750       	0.000           	0.000       	0.000       
+25   	Rectangle 1x0.6                                                 	RECTANGLE                	1.000       	0.600       	0.000           	0.000       	0.000       
+26   	Rectangle 1.15x0.75                                             	RECTANGLE                	1.150       	0.750       	0.000           	0.000       	0.000       
+27   	Rectangle 1x1.8                                                 	RECTANGLE                	1.000       	1.800       	0.000           	0.000       	0.000       
+28   	Rectangle 1.15x1.95                                             	RECTANGLE                	1.150       	1.950       	0.000           	0.000       	0.000       
+29   	Rectangle 1.2x1.1                                               	RECTANGLE                	1.200       	1.100       	0.000           	0.000       	0.000       
+30   	Rectangle 1.35x1.25                                             	RECTANGLE                	1.350       	1.250       	0.000           	0.000       	0.000       
+31   	Rectangle 1.3x2.5                                               	RECTANGLE                	1.300       	2.500       	0.000           	0.000       	0.000       
+32   	Rectangle 1.45x2.65                                             	RECTANGLE                	1.450       	2.650       	0.000           	0.000       	0.000       
+33   	Square 4.6                                                      	SQUARE                   	4.600       	4.600       	0.000           	0.000       	0.000       
+34   	Square 4.675                                                    	SQUARE                   	4.675       	4.675       	0.000           	0.000       	0.000       
+35   	Square 3.45                                                     	SQUARE                   	3.450       	3.450       	0.000           	0.000       	0.000       
+36   	Square 11                                                       	SQUARE                   	11.000      	11.000      	0.000           	0.000       	0.000       
+37   	Square 11.15                                                    	SQUARE                   	11.150      	11.150      	0.000           	0.000       	0.000       
+38   	Round 2.5                                                       	ROUND                    	2.500       	0.000       	0.000           	0.000       	0.000       
+39   	Round 2.6                                                       	ROUND                    	2.600       	0.000       	0.000           	0.000       	0.000       
+40   	Therm Rnd 4X 3.5 Width 0.6 WebClear 0.4                         	4_WEB_ROUND_THERMAL_45   	3.500       	0.600       	0.400           	0.000       	0.000       
+41   	Rectangle 0.3x1.6                                               	RECTANGLE                	0.300       	1.600       	0.000           	0.000       	0.000       
+42   	Rectangle 0.375x1.675                                           	RECTANGLE                	0.375       	1.675       	0.000           	0.000       	0.000       
+43   	Rectangle 3x2.8                                                 	RECTANGLE                	3.000       	2.800       	0.000           	0.000       	0.000       
+44   	Rectangle 3.15x2.95                                             	RECTANGLE                	3.150       	2.950       	0.000           	0.000       	0.000       
+45   	Rectangle 0.8x3.1                                               	RECTANGLE                	0.800       	3.100       	0.000           	0.000       	0.000       
+46   	Rectangle 0.95x3.25                                             	RECTANGLE                	0.950       	3.250       	0.000           	0.000       	0.000       
+47   	Round 2.2                                                       	ROUND                    	2.200       	0.000       	0.000           	0.000       	0.000       
+48   	Round 2.35                                                      	ROUND                    	2.350       	0.000       	0.000           	0.000       	0.000       
+49   	Round 4                                                         	ROUND                    	4.000       	0.000       	0.000           	0.000       	0.000       
+50   	Round 2                                                         	ROUND                    	2.000       	0.000       	0.000           	0.000       	0.000       
+51   	Rectangle 0.375x1.575                                           	RECTANGLE                	0.375       	1.575       	0.000           	0.000       	0.000       
+52   	Rectangle 1.575x0.375                                           	RECTANGLE                	1.575       	0.375       	0.000           	0.000       	0.000       
+53   	Round 3                                                         	ROUND                    	3.000       	0.000       	0.000           	0.000       	0.000       
+54   	RECT210_210_CH10                                                	RECTANGLE                	2.100       	2.100       	0.000           	0.000       	0.000       
+55   	RECT210_210_CH10_SM                                             	RECTANGLE                	2.240       	2.240       	0.000           	0.000       	0.000       
+56   	RECT210_210_CH10_SP                                             	RECTANGLE                	1.100       	1.100       	0.000           	0.000       	0.000       
+57   	RECT410_350_CH10                                                	RECTANGLE                	4.100       	3.500       	0.000           	0.000       	0.000       
+58   	RECT410_350_CH10_SM                                             	RECTANGLE                	4.240       	3.640       	0.000           	0.000       	0.000       
+59   	RECT410_350_CH10_SP                                             	RECTANGLE                	2.700       	2.100       	0.000           	0.000       	0.000       
+60   	Rectangle 0.275x0.25                                            	RECTANGLE                	0.275       	0.250       	0.000           	0.000       	0.000       
+61   	Rectangle 0.35x0.325                                            	RECTANGLE                	0.350       	0.325       	0.000           	0.000       	0.000       
+62   	Rectangle 0.45x0.8                                              	RECTANGLE                	0.450       	0.800       	0.000           	0.000       	0.000       
+63   	Rectangle 0.6x0.95                                              	RECTANGLE                	0.600       	0.950       	0.000           	0.000       	0.000       
+64   	Rectangle 0.45x1.6                                              	RECTANGLE                	0.450       	1.600       	0.000           	0.000       	0.000       
+65   	Rectangle 0.6x1.75                                              	RECTANGLE                	0.600       	1.750       	0.000           	0.000       	0.000       
+66   	Rectangle 0.6x0.35                                              	RECTANGLE                	0.600       	0.350       	0.000           	0.000       	0.000       
+67   	Rectangle 0.675x0.425                                           	RECTANGLE                	0.675       	0.425       	0.000           	0.000       	0.000       
+68   	Rectangle 0.75x0.7                                              	RECTANGLE                	0.750       	0.700       	0.000           	0.000       	0.000       
+69   	Rectangle 0.825x0.775                                           	RECTANGLE                	0.825       	0.775       	0.000           	0.000       	0.000       
+70   	Rectangle 1.5x2.2                                               	RECTANGLE                	1.500       	2.200       	0.000           	0.000       	0.000       
+71   	Rectangle 1.75x2.35                                             	RECTANGLE                	1.750       	2.350       	0.000           	0.000       	0.000       
+72   	Rectangle 1.9x1.18                                              	RECTANGLE                	1.900       	1.180       	0.000           	0.000       	0.000       
+73   	Rectangle 1.975x1.255                                           	RECTANGLE                	1.975       	1.255       	0.000           	0.000       	0.000       
+74   	Rectangle 1.9x1.3                                               	RECTANGLE                	1.900       	1.300       	0.000           	0.000       	0.000       
+75   	Rectangle 2.05x1.45                                             	RECTANGLE                	2.050       	1.450       	0.000           	0.000       	0.000       
+76   	Rectangle 1.9x2.375                                             	RECTANGLE                	1.900       	2.375       	0.000           	0.000       	0.000       
+77   	Rectangle 1.975x2.45                                            	RECTANGLE                	1.975       	2.450       	0.000           	0.000       	0.000       
+78   	Rectangle 2x3                                                   	RECTANGLE                	2.000       	3.000       	0.000           	0.000       	0.000       
+79   	Rectangle 2.15x3.15                                             	RECTANGLE                	2.150       	3.150       	0.000           	0.000       	0.000       
+80   	Square 1                                                        	SQUARE                   	1.000       	1.000       	0.000           	0.000       	0.000       
+81   	Square 1.075                                                    	SQUARE                   	1.075       	1.075       	0.000           	0.000       	0.000       
+82   	Round 1.9                                                       	ROUND                    	1.900       	0.000       	0.000           	0.000       	0.000       
+83   	Rectangle 1.25x2.55                                             	RECTANGLE                	1.250       	2.550       	0.000           	0.000       	0.000       
+84   	Rectangle 1.4x2.7                                               	RECTANGLE                	1.400       	2.700       	0.000           	0.000       	0.000       
+85   	Rectangle 1.2x1.6                                               	RECTANGLE                	1.200       	1.600       	0.000           	0.000       	0.000       
+86   	Rectangle 1.35x1.75                                             	RECTANGLE                	1.350       	1.750       	0.000           	0.000       	0.000       
+87   	Rectangle 1.2x1.3                                               	RECTANGLE                	1.200       	1.300       	0.000           	0.000       	0.000       
+88   	Rectangle 1.35x1.45                                             	RECTANGLE                	1.350       	1.450       	0.000           	0.000       	0.000       
+89   	Chamfer Rect 0.22x0.2 Chamfer 0.03                              	CHAMFERED_RECTANGLE      	0.220       	0.200       	0.030           	0.000       	0.000       
+90   	Rectangle 0.375x0.35                                            	RECTANGLE                	0.375       	0.350       	0.000           	0.000       	0.000       
+91   	Rectangle 1x0.8                                                 	RECTANGLE                	1.000       	0.800       	0.000           	0.000       	0.000       
+92   	Rectangle 1.15x0.95                                             	RECTANGLE                	1.150       	0.950       	0.000           	0.000       	0.000       
+93   	Rectangle 0.35x0.3                                              	RECTANGLE                	0.350       	0.300       	0.000           	0.000       	0.000       
+94   	Rectangle 0.45x0.4                                              	RECTANGLE                	0.450       	0.400       	0.000           	0.000       	0.000       
+95   	Rectangle 0.9x2.2                                               	RECTANGLE                	0.900       	2.200       	0.000           	0.000       	0.000       
+96   	Rectangle 1.05x2.35                                             	RECTANGLE                	1.050       	2.350       	0.000           	0.000       	0.000       
+97   	Square 1.2                                                      	SQUARE                   	1.200       	1.200       	0.000           	0.000       	0.000       
+98   	Square 1.275                                                    	SQUARE                   	1.275       	1.275       	0.000           	0.000       	0.000       
+99   	Rectangle 0.9x0.8                                               	RECTANGLE                	0.900       	0.800       	0.000           	0.000       	0.000       
+100  	Rectangle 0.975x0.875                                           	RECTANGLE                	0.975       	0.875       	0.000           	0.000       	0.000       
+101  	Round 0.787                                                     	ROUND                    	0.787       	0.000       	0.000           	0.000       	0.000       
+102  	Round 1.3                                                       	ROUND                    	1.300       	0.000       	0.000           	0.000       	0.000       
+103  	Round 1.1                                                       	ROUND                    	1.100       	0.000       	0.000           	0.000       	0.000       
+104  	WSON12_EPAD                                                     	RECTANGLE                	3.400       	0.900       	0.000           	0.000       	0.000       
+105  	WSON12_EPAD_SM                                                  	RECTANGLE                	3.550       	0.900       	0.000           	0.000       	0.000       
+106  	WSON12_EPAD_SP                                                  	RECTANGLE                	3.400       	0.750       	0.000           	0.000       	0.000       
+107  	PAD1_MICROMATCH                                                 	RECTANGLE                	1.500       	2.700       	0.000           	0.000       	0.000       
+108  	PAD1VE_MICROMATCH                                               	RECTANGLE                	1.650       	2.850       	0.000           	0.000       	0.000       
+109  	Rectangle 0.5x0.28                                              	RECTANGLE                	0.500       	0.280       	0.000           	0.000       	0.000       
+110  	Rectangle 0.575x0.355                                           	RECTANGLE                	0.575       	0.355       	0.000           	0.000       	0.000       
+111  	Radius Rect 0.9x0.2 Radius 0.075                                	ROUNDED_RECTANGLE        	0.900       	0.200       	0.075           	0.000       	0.000       
+112  	Radius Rect 0.975x0.275 Radius 0.075                            	ROUNDED_RECTANGLE        	0.975       	0.275       	0.075           	0.000       	0.000       
+113  	Rectangle 1x1.6                                                 	RECTANGLE                	1.000       	1.600       	0.000           	0.000       	0.000       
+114  	Rectangle 1.15x1.75                                             	RECTANGLE                	1.150       	1.750       	0.000           	0.000       	0.000       
+115  	Rectangle 2.55x1                                                	RECTANGLE                	2.550       	1.000       	0.000           	0.000       	0.000       
+116  	Rectangle 2.625x1.075                                           	RECTANGLE                	2.625       	1.075       	0.000           	0.000       	0.000       
+117  	Rectangle 1.5x3.1                                               	RECTANGLE                	1.500       	3.100       	0.000           	0.000       	0.000       
+118  	Rectangle 1.65x3.25                                             	RECTANGLE                	1.650       	3.250       	0.000           	0.000       	0.000       
+119  	Rectangle 1.5x4.8                                               	RECTANGLE                	1.500       	4.800       	0.000           	0.000       	0.000       
+120  	Rectangle 1.65x4.95                                             	RECTANGLE                	1.650       	4.950       	0.000           	0.000       	0.000       
+121  	Rectangle 1.6x0.3                                               	RECTANGLE                	1.600       	0.300       	0.000           	0.000       	0.000       
+122  	Rectangle 1.675x0.375                                           	RECTANGLE                	1.675       	0.375       	0.000           	0.000       	0.000       
+123  	Radius Rect 1.7x1.54 Radius 0.15                                	ROUNDED_RECTANGLE        	1.700       	1.540       	0.150           	0.000       	0.000       
+124  	Radius Rect 1.775x1.615 Radius 0.15                             	ROUNDED_RECTANGLE        	1.775       	1.615       	0.150           	0.000       	0.000       
+125  	Rectangle 1.7x2.5                                               	RECTANGLE                	1.700       	2.500       	0.000           	0.000       	0.000       
+126  	Rectangle 1.85x2.65                                             	RECTANGLE                	1.850       	2.650       	0.000           	0.000       	0.000       
+127  	Rectangle 1.9x5.3                                               	RECTANGLE                	1.900       	5.300       	0.000           	0.000       	0.000       
+128  	Rectangle 2.05x5.45                                             	RECTANGLE                	2.050       	5.450       	0.000           	0.000       	0.000       
+129  	Square 1.5                                                      	SQUARE                   	1.500       	1.500       	0.000           	0.000       	0.000       
+130  	Round 1.6                                                       	ROUND                    	1.600       	0.000       	0.000           	0.000       	0.000       
+131  	Therm Rnd 4X 2.3 Width 0.5 WebClear 0.3                         	4_WEB_ROUND_THERMAL_45   	2.300       	0.500       	0.300           	0.000       	0.000       
+132  	Square 1.65                                                     	SQUARE                   	1.650       	1.650       	0.000           	0.000       	0.000       
+133  	Square 1.6                                                      	SQUARE                   	1.600       	1.600       	0.000           	0.000       	0.000       
+134  	Therm Rnd 4X 2.4 Width 0.5 WebClear 0.3                         	4_WEB_ROUND_THERMAL_45   	2.400       	0.500       	0.300           	0.000       	0.000       
+135  	Square 1.75                                                     	SQUARE                   	1.750       	1.750       	0.000           	0.000       	0.000       
+136  	Round 1.4                                                       	ROUND                    	1.400       	0.000       	0.000           	0.000       	0.000       
+137  	Round 1.5                                                       	ROUND                    	1.500       	0.000       	0.000           	0.000       	0.000       
+138  	Round 1.8                                                       	ROUND                    	1.800       	0.000       	0.000           	0.000       	0.000       
+139  	Therm Rnd 4X 2.2 Width 0.4 WebClear 0.3                         	4_WEB_ROUND_THERMAL_45   	2.200       	0.400       	0.300           	0.000       	0.000       
+140  	Round 1.55                                                      	ROUND                    	1.550       	0.000       	0.000           	0.000       	0.000       
+141  	Round 1.65                                                      	ROUND                    	1.650       	0.000       	0.000           	0.000       	0.000       
+142  	Round 1.7                                                       	ROUND                    	1.700       	0.000       	0.000           	0.000       	0.000       
+143  	Square 1.7                                                      	SQUARE                   	1.700       	1.700       	0.000           	0.000       	0.000       
+144  	Square 1.85                                                     	SQUARE                   	1.850       	1.850       	0.000           	0.000       	0.000       
+145  	Round 1.75                                                      	ROUND                    	1.750       	0.000       	0.000           	0.000       	0.000       
+146  	Rectangle 0.3x2                                                 	RECTANGLE                	0.300       	2.000       	0.000           	0.000       	0.000       
+147  	Rectangle 0.375x2.075                                           	RECTANGLE                	0.375       	2.075       	0.000           	0.000       	0.000       
+148  	Rectangle 1.15x1.8                                              	RECTANGLE                	1.150       	1.800       	0.000           	0.000       	0.000       
+149  	Rectangle 1.3x1.95                                              	RECTANGLE                	1.300       	1.950       	0.000           	0.000       	0.000       
+150  	Rectangle 1.5x3.8                                               	RECTANGLE                	1.500       	3.800       	0.000           	0.000       	0.000       
+151  	Rectangle 1.65x3.95                                             	RECTANGLE                	1.650       	3.950       	0.000           	0.000       	0.000       
+152  	Rectangle 2.5x3.5                                               	RECTANGLE                	2.500       	3.500       	0.000           	0.000       	0.000       
+153  	Rectangle 2.65x3.65                                             	RECTANGLE                	2.650       	3.650       	0.000           	0.000       	0.000       
+154  	Rectangle 3.8x2.1                                               	RECTANGLE                	3.800       	2.100       	0.000           	0.000       	0.000       
+155  	Rectangle 3.95x2.25                                             	RECTANGLE                	3.950       	2.250       	0.000           	0.000       	0.000       
+156  	Rectangle 1.8x4.6                                               	RECTANGLE                	1.800       	4.600       	0.000           	0.000       	0.000       
+157  	Rectangle 1.95x4.75                                             	RECTANGLE                	1.950       	4.750       	0.000           	0.000       	0.000       
+158  	Round 3.7                                                       	ROUND                    	3.700       	0.000       	0.000           	0.000       	0.000       
+159  	Square 1.3                                                      	SQUARE                   	1.300       	1.300       	0.000           	0.000       	0.000       
+160  	Therm Rnd 4X 2.1 Width 0.4 WebClear 0.3                         	4_WEB_ROUND_THERMAL_45   	2.100       	0.400       	0.300           	0.000       	0.000       
+161  	Square 1.45                                                     	SQUARE                   	1.450       	1.450       	0.000           	0.000       	0.000       
+162  	Round 1.45                                                      	ROUND                    	1.450       	0.000       	0.000           	0.000       	0.000       
+163  	Therm Rnd 4X 2.7 Width 0.5 WebClear 0.3                         	4_WEB_ROUND_THERMAL_45   	2.700       	0.500       	0.300           	0.000       	0.000       
+164  	Square 1.8                                                      	SQUARE                   	1.800       	1.800       	0.000           	0.000       	0.000       
+165  	Square 1.95                                                     	SQUARE                   	1.950       	1.950       	0.000           	0.000       	0.000       
+166  	Round 1.85                                                      	ROUND                    	1.850       	0.000       	0.000           	0.000       	0.000       
+167  	Radius Rect 0.8x0.15 Radius 0.075                               	ROUNDED_RECTANGLE        	0.800       	0.150       	0.075           	0.000       	0.000       
+168  	Rectangle 0.3x1.9                                               	RECTANGLE                	0.300       	1.900       	0.000           	0.000       	0.000       
+169  	Rectangle 0.375x1.975                                           	RECTANGLE                	0.375       	1.975       	0.000           	0.000       	0.000       
+170  	Rectangle 0.33x1.5                                              	RECTANGLE                	0.330       	1.500       	0.000           	0.000       	0.000       
+171  	Rectangle 0.48x1.65                                             	RECTANGLE                	0.480       	1.650       	0.000           	0.000       	0.000       
+172  	Rectangle 1.15x3.2                                              	RECTANGLE                	1.150       	3.200       	0.000           	0.000       	0.000       
+173  	Rectangle 1.3x3.35                                              	RECTANGLE                	1.300       	3.350       	0.000           	0.000       	0.000       
+174  	Rectangle 1.3x1.8                                               	RECTANGLE                	1.300       	1.800       	0.000           	0.000       	0.000       
+175  	Rectangle 1.45x1.95                                             	RECTANGLE                	1.450       	1.950       	0.000           	0.000       	0.000       
+176  	Rectangle 1.8x0.8                                               	RECTANGLE                	1.800       	0.800       	0.000           	0.000       	0.000       
+177  	Rectangle 1.95x0.95                                             	RECTANGLE                	1.950       	0.950       	0.000           	0.000       	0.000       
+178  	Rectangle 1.8x1.3                                               	RECTANGLE                	1.800       	1.300       	0.000           	0.000       	0.000       
+179  	Rectangle 1.95x1.45                                             	RECTANGLE                	1.950       	1.450       	0.000           	0.000       	0.000       
+180  	Rectangle 1.8x1.4                                               	RECTANGLE                	1.800       	1.400       	0.000           	0.000       	0.000       
+181  	Rectangle 1.95x1.55                                             	RECTANGLE                	1.950       	1.550       	0.000           	0.000       	0.000       
+182  	Rectangle 1.9x0.3                                               	RECTANGLE                	1.900       	0.300       	0.000           	0.000       	0.000       
+183  	Rectangle 1.975x0.375                                           	RECTANGLE                	1.975       	0.375       	0.000           	0.000       	0.000       
+184  	Rectangle 4x1.5                                                 	RECTANGLE                	4.000       	1.500       	0.000           	0.000       	0.000       
+185  	Rectangle 4.15x1.65                                             	RECTANGLE                	4.150       	1.650       	0.000           	0.000       	0.000       
+186  	Rectangle 0.35x2                                                	RECTANGLE                	0.350       	2.000       	0.000           	0.000       	0.000       
+187  	Rectangle 0.5x2.15                                              	RECTANGLE                	0.500       	2.150       	0.000           	0.000       	0.000       
+188  	Square 1.4                                                      	SQUARE                   	1.400       	1.400       	0.000           	0.000       	0.000       
+189  	Square 1.55                                                     	SQUARE                   	1.550       	1.550       	0.000           	0.000       	0.000       
+190  	Rectangle 2.55x1.3                                              	RECTANGLE                	2.550       	1.300       	0.000           	0.000       	0.000       
+191  	Rectangle 2.7x1.45                                              	RECTANGLE                	2.700       	1.450       	0.000           	0.000       	0.000       
+192  	Rectangle 5.3x2                                                 	RECTANGLE                	5.300       	2.000       	0.000           	0.000       	0.000       
+193  	Rectangle 5.6x2.3                                               	RECTANGLE                	5.600       	2.300       	0.000           	0.000       	0.000       

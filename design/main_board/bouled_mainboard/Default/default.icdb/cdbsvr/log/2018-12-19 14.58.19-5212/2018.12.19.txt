@@ -1,0 +1,257 @@
+[2018.12.19 14:58:19] [0000m.00s.068ms] [0] WELCOME
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Base flow version [VX.2.4]
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [5212]
+[2018.12.19 14:58:19] [0000m.00s.068ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] Current working dir [E:\design\main_board\bouled_mainboard]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] SDD_PLATFORM [win32]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [2] S: Loading config files
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] Config file [E:\design\main_board\bouled_mainboard\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.19 14:58:19] [0000m.00s.093ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.19 14:58:19] [0000m.00s.093ms] [3] S: Config loaded
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Project path [E:\design\main_board\bouled_mainboard\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Project global path [\\vboxsrv\bouled\design\main_board\bouled_mainboard\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.19 14:58:19] [0000m.00s.567ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Multi-user mode (config)
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Event polling mode autodetection
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Started up automatically by iCDB Client: DESKTOP-GIDMTNA:Zor:3508
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Auto close mode
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Database ID [ef94-213f-dbef-7160-f374-a1c4-474a-1c50-3c5f-cf6f-60ef-fec8]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: BEGIN dumping
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\bouled\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\mentor\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\mentor\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [\\vboxsrv\bouled\] -> [E:\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [\\VBOXSVR\mentor\] -> [F:\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [G:\]
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] PathTranslator: END dumping
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: START
+[2018.12.19 14:58:19] [0000m.00s.567ms] [0] S: Server startup lock file created
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Listening for client connections on port [10000]
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Server network ID [DESKTOP-GIDMTNA:10.0.2.15,DESKTOP-GIDMTNA:10000]
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Server GUID [cbf5-a742-341e-173c-b7e4-a1c0-8e4a-1c50-7690-df6f-60ef-fec8]
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Project GUID [ef94-213f-dbef-7160-f374-a1c4-474a-1c50-3c5f-cf6f-60ef-fec8]
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Wrote data to server address file
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] S: Server startup lock file removed
+[2018.12.19 14:58:19] [0000m.00s.591ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.19 14:58:20] [0000m.00s.670ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.19 14:58:20] [0000m.00s.670ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.19 14:58:20] [0000m.00s.670ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.19 14:58:20] [0000m.00s.670ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.19 14:58:20] [0000m.00s.694ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.19 14:58:20] [0000m.00s.694ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.19 14:58:20] [0000m.00s.694ms] [0] S: Local disc access time: 97 us
+[2018.12.19 14:58:20] [0000m.00s.694ms] [0] S: File server access time: 2507 us
+[2018.12.19 14:58:20] [0000m.00s.694ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] Single file [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] size [210696 (205.8 kB)]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [1] Single file [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] Database GUARD OK: [210696]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] Database GUARD OK: [210696]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] Database GUARD OK: [210696]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.717ms] [0] Database GUARD OK: [210696]
+[2018.12.19 14:58:20] [0000m.00s.739ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.739ms] [0] Database GUARD OK: [210696]
+[2018.12.19 14:58:20] [0000m.00s.739ms] [0] SingleFile: [0078-9263-931a-9c89] SFI version check [1009] [1009]
+[2018.12.19 14:58:20] [0000m.00s.809ms] [0] SingleFile: [0078-9263-931a-9c89] Database SFI header has been read in [47ms 903us]
+[2018.12.19 14:58:20] [0000m.00s.809ms] [0] iCDB Server PI: Server & plugin session [4505]
+[2018.12.19 14:58:20] [0000m.00s.809ms] [0] iCDB Server PI: Opening database [E:\design\main_board\bouled_mainboard\Default\default.icdb]
+[2018.12.19 14:58:20] [0000m.00s.809ms] [0] iCDB Server PI: Database [E:\design\main_board\bouled_mainboard\Default\default.icdb] opened
+[2018.12.19 14:58:20] [0000m.00s.862ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.19 14:58:20] [0000m.00s.862ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.19 14:58:20] [0000m.00s.957ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8] up to date
+[2018.12.19 14:58:20] [0000m.01s.001ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.19 14:58:20] [0000m.01s.001ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.19 14:58:20] [0000m.01s.001ms] [0] S: iCDB database loaded
+[2018.12.19 14:58:20] [0000m.01s.027ms] [0] S: Starting threads
+[2018.12.19 14:58:20] [0000m.01s.027ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.19 14:58:20] [0000m.01s.027ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.19 14:58:20] [0000m.01s.027ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.19 14:58:20] [0000m.01s.027ms] [0] IT: Session [4506] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3508] created
+[2018.12.19 14:58:20] [0000m.01s.027ms] [1] SC[4506]: Registered sub-client [DCDV] with ID [1] for session ID [4506] host [DESKTOP-GIDMTNA] user [Zor] process ID [3508]
+[2018.12.19 14:58:20] [0000m.01s.027ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.19 14:58:20] [0000m.01s.203ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:01:07] [0002m.48s.611ms] [0] DFAMT: File server access time: 1939 us
+[2018.12.19 15:11:24] [0013m.05s.047ms] [0] IT: Session [4507] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6184] created
+[2018.12.19 15:11:24] [0013m.05s.085ms] [1] SC[4507]: Registered sub-client [ICDBC] with ID [1] for session ID [4507] host [DESKTOP-GIDMTNA] user [Zor] process ID [6184]
+[2018.12.19 15:11:24] [0013m.05s.125ms] [1] CMT: There are [2] clients now: 4506, 4507
+[2018.12.19 15:11:24] [0013m.05s.169ms] [1] SC[4507]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [4507] host [DESKTOP-GIDMTNA] user [Zor] process ID [6184]
+[2018.12.19 15:11:25] [0013m.06s.273ms] [1] SC[4507]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [4507] host [DESKTOP-GIDMTNA] user [Zor] process ID [6184]
+[2018.12.19 15:11:25] [0013m.06s.275ms] [1] SC[4507]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [4507] host [DESKTOP-GIDMTNA] user [Zor] process ID [6184]
+[2018.12.19 15:11:25] [0013m.06s.412ms] [1] CMT: Removed client [4507]
+[2018.12.19 15:11:25] [0013m.06s.412ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:11:27] [0013m.07s.911ms] [0] IT: Session [4508] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [4520] created
+[2018.12.19 15:11:27] [0013m.07s.911ms] [1] SC[4508]: Registered sub-client [Packager_4516531] with ID [1] for session ID [4508] host [DESKTOP-GIDMTNA] user [Zor] process ID [4520]
+[2018.12.19 15:11:27] [0013m.08s.035ms] [1] CMT: There are [2] clients now: 4506, 4508
+[2018.12.19 15:11:29] [0013m.10s.208ms] [1] SC[4508]: UnRegistered sub-client [Packager_4516531] with ID [1] for session ID [4508] host [DESKTOP-GIDMTNA] user [Zor] process ID [4520]
+[2018.12.19 15:11:29] [0013m.10s.304ms] [1] CMT: Removed client [4508]
+[2018.12.19 15:11:29] [0013m.10s.304ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:11:55] [0013m.35s.855ms] [0] IT: Session [4509] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3804] created
+[2018.12.19 15:11:55] [0013m.35s.855ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[DESKTOP-GIDMTNA] # ClientUserName[Zor] # ClientProcessID[3804] # SessionID[4509] # Type[0]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\bouled_mainboard.prj], global path [\\vboxsrv\bouled\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\bouled_mainboard.prj]
+[2018.12.19 15:11:55] [0013m.35s.919ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:11:55] [0013m.36s.035ms] [1] SC[4509]: Registered sub-client [Expedition PCB_4539281] with ID [1] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:55] [0013m.36s.192ms] [1] SC[4509]: Registered sub-client [EEVM] with ID [2] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:55] [0013m.36s.453ms] [1] SC[4509]: UnRegistered sub-client [EEVM] with ID [2] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:56] [0013m.37s.437ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4540718] with ID [3] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:56] [0013m.37s.457ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4540718] with ID [3] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:58] [0013m.39s.103ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4542203] with ID [4] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:11:58] [0013m.39s.118ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4542203] with ID [4] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:44] [0014m.25s.317ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4593921] with ID [5] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:44] [0014m.25s.347ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4593921] with ID [5] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:44] [0014m.25s.563ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4594171] with ID [6] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:44] [0014m.25s.592ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4594171] with ID [6] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:45] [0014m.25s.735ms] [1] SC[4509]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:45] [0014m.25s.751ms] [1] SC[4509]: Registered sub-client [StartServerClient19cc] with ID [8] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:12:45] [0014m.25s.751ms] [1] SC[4509]: UnRegistered sub-client [StartServerClient19cc] with ID [8] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:44] [0015m.24s.936ms] [1] SC[4509]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:44] [0015m.24s.954ms] [1] SC[4509]: Registered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:44] [0015m.24s.954ms] [1] SC[4509]: UnRegistered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:44] [0015m.25s.332ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4649343] with ID [10] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:44] [0015m.25s.373ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4649343] with ID [10] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:47] [0015m.27s.845ms] [1] SC[4509]: Registered sub-client [JobPrefsDBPI_4651906] with ID [11] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:47] [0015m.27s.878ms] [1] SC[4509]: UnRegistered sub-client [JobPrefsDBPI_4651906] with ID [11] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:48] [0015m.28s.734ms] [0] IT: Session [4510] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [4956] created
+[2018.12.19 15:13:48] [0015m.28s.734ms] [1] SC[4510]: Registered sub-client [Packager_4652812] with ID [1] for session ID [4510] host [DESKTOP-GIDMTNA] user [Zor] process ID [4956]
+[2018.12.19 15:13:48] [0015m.28s.751ms] [1] CMT: There are [3] clients now: 4506, 4509, 4510
+[2018.12.19 15:13:48] [0015m.29s.297ms] [1] SC[4510]: UnRegistered sub-client [Packager_4652812] with ID [1] for session ID [4510] host [DESKTOP-GIDMTNA] user [Zor] process ID [4956]
+[2018.12.19 15:13:48] [0015m.29s.387ms] [1] CMT: Removed client [4510]
+[2018.12.19 15:13:48] [0015m.29s.387ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:13:49] [0015m.30s.286ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\main_board\bouled_mainboard\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2018.12.19 15:13:50] [0015m.31s.052ms] [0] IT: Session [4511] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6588] created
+[2018.12.19 15:13:50] [0015m.31s.052ms] [1] SC[4511]: Registered sub-client [Expedition_4655375] with ID [1] for session ID [4511] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:50] [0015m.31s.110ms] [1] SC[4511]: UnRegistered sub-client [Expedition_4655375] with ID [1] for session ID [4511] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:50] [0015m.31s.152ms] [1] CMT: There are [3] clients now: 4506, 4509, 4511
+[2018.12.19 15:13:50] [0015m.31s.152ms] [1] CMT: Removed client [4511]
+[2018.12.19 15:13:50] [0015m.31s.152ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:13:51] [0015m.32s.143ms] [0] IT: Session [4512] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6588] created
+[2018.12.19 15:13:51] [0015m.32s.143ms] [1] SC[4512]: Registered sub-client [JobPrefsDBPI_4656593] with ID [1] for session ID [4512] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:51] [0015m.32s.157ms] [1] CMT: There are [3] clients now: 4506, 4509, 4512
+[2018.12.19 15:13:51] [0015m.32s.186ms] [1] SC[4512]: UnRegistered sub-client [JobPrefsDBPI_4656593] with ID [1] for session ID [4512] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:51] [0015m.32s.289ms] [1] CMT: Removed client [4512]
+[2018.12.19 15:13:51] [0015m.32s.289ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:13:52] [0015m.32s.810ms] [0] IT: Session [4513] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6588] created
+[2018.12.19 15:13:52] [0015m.32s.810ms] [1] SC[4513]: Registered sub-client [JobPrefsDBPI_4657328] with ID [1] for session ID [4513] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:52] [0015m.32s.838ms] [1] SC[4513]: UnRegistered sub-client [JobPrefsDBPI_4657328] with ID [1] for session ID [4513] host [DESKTOP-GIDMTNA] user [Zor] process ID [6588]
+[2018.12.19 15:13:52] [0015m.32s.899ms] [1] CMT: There are [3] clients now: 4506, 4509, 4513
+[2018.12.19 15:13:52] [0015m.32s.913ms] [1] CMT: Removed client [4513]
+[2018.12.19 15:13:52] [0015m.32s.913ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:13:53] [0015m.34s.540ms] [0] IT: Session [4514] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [384] created
+[2018.12.19 15:13:53] [0015m.34s.540ms] [1] SC[4514]: Registered sub-client [JobPrefsDBPI_4659203] with ID [1] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:53] [0015m.34s.583ms] [1] CMT: There are [3] clients now: 4506, 4509, 4514
+[2018.12.19 15:13:53] [0015m.34s.611ms] [1] SC[4514]: Registered sub-client [Expedition_4659390] with ID [2] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:54] [0015m.34s.668ms] [1] SC[4514]: UnRegistered sub-client [JobPrefsDBPI_4659203] with ID [1] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:54] [0015m.34s.710ms] [1] SC[4514]: Registered sub-client [Expedition_4659500] with ID [3] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:54] [0015m.34s.725ms] [1] SC[4514]: UnRegistered sub-client [Expedition_4659500] with ID [3] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:54] [0015m.34s.838ms] [1] SC[4514]: UnRegistered sub-client [Expedition_4659390] with ID [2] for session ID [4514] host [DESKTOP-GIDMTNA] user [Zor] process ID [384]
+[2018.12.19 15:13:54] [0015m.34s.925ms] [1] CMT: Removed client [4514]
+[2018.12.19 15:13:54] [0015m.34s.939ms] [1] CMT: There are [2] clients now: 4506, 4509
+[2018.12.19 15:13:54] [0015m.35s.494ms] [1] SC[4509]: Registered sub-client [EEVM_EEVM_253942676] with ID [12] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:54] [0015m.35s.494ms] [1] SC[4509]: UnRegistered sub-client [EEVM_EEVM_253942676] with ID [12] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:54] [0015m.35s.522ms] [1] SC[4509]: Registered sub-client [EEVM_EEVM_253942676] with ID [13] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:54] [0015m.35s.522ms] [1] SC[4509]: UnRegistered sub-client [EEVM_EEVM_253942676] with ID [13] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:54] [0015m.35s.536ms] [1] SC[4509]: Registered sub-client [EEVM_EEVM_253942164] with ID [14] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:54] [0015m.35s.551ms] [1] SC[4509]: UnRegistered sub-client [EEVM_EEVM_253942164] with ID [14] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:55] [0015m.36s.555ms] [1] SC[4509]: UnRegistered sub-client [Expedition PCB_4539281] with ID [1] for session ID [4509] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:55] [0015m.36s.593ms] [1] CMT: Removed client [4509]
+[2018.12.19 15:13:55] [0015m.36s.593ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:13:56] [0015m.36s.952ms] [0] IT: Session [4515] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3804] created
+[2018.12.19 15:13:56] [0015m.36s.952ms] [1] SC[4515]: Registered sub-client [Expedition PCB_4661984] with ID [1] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:56] [0015m.36s.964ms] [1] CMT: There are [2] clients now: 4506, 4515
+[2018.12.19 15:13:56] [0015m.37s.234ms] [1] SC[4515]: Registered sub-client [JobPrefsDBPI_4662406] with ID [2] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:13:56] [0015m.37s.247ms] [1] SC[4515]: UnRegistered sub-client [JobPrefsDBPI_4662406] with ID [2] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:14:28] [0016m.08s.954ms] [1] SC[4515]: Registered sub-client [JobPrefsDBPI_4696562] with ID [3] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:14:28] [0016m.08s.988ms] [1] SC[4515]: UnRegistered sub-client [JobPrefsDBPI_4696562] with ID [3] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:14:28] [0016m.09s.123ms] [1] SC[4515]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:23:31] [0025m.12s.316ms] [1] SC[4515]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:23:33] [0025m.13s.843ms] [1] SC[4515]: UnRegistered sub-client [Expedition PCB_4661984] with ID [1] for session ID [4515] host [DESKTOP-GIDMTNA] user [Zor] process ID [3804]
+[2018.12.19 15:23:33] [0025m.13s.941ms] [1] CMT: Removed client [4515]
+[2018.12.19 15:23:33] [0025m.13s.955ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:24:20] [0026m.00s.862ms] [0] IT: Session [4516] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6576] created
+[2018.12.19 15:24:20] [0026m.00s.862ms] [1] SC[4516]: Registered sub-client [Expedition PCB_5286656] with ID [1] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:20] [0026m.00s.974ms] [1] CMT: There are [2] clients now: 4506, 4516
+[2018.12.19 15:24:20] [0026m.00s.991ms] [1] SC[4516]: Registered sub-client [EEVM] with ID [2] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:20] [0026m.01s.186ms] [1] SC[4516]: UnRegistered sub-client [EEVM] with ID [2] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:21] [0026m.01s.993ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5287859] with ID [3] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:21] [0026m.02s.010ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5287859] with ID [3] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:22] [0026m.03s.406ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5289156] with ID [4] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:24:22] [0026m.03s.437ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5289156] with ID [4] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:12] [0026m.53s.610ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5339484] with ID [5] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.53s.658ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5339484] with ID [5] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.53s.878ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5339734] with ID [6] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.53s.909ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5339734] with ID [6] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.54s.146ms] [1] SC[4516]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.54s.161ms] [1] SC[4516]: Registered sub-client [StartServerClient12f0] with ID [8] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:25:13] [0026m.54s.161ms] [1] SC[4516]: UnRegistered sub-client [StartServerClient12f0] with ID [8] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:19] [0030m.00s.023ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5525875] with ID [9] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:19] [0030m.00s.134ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5526000] with ID [10] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:19] [0030m.00s.363ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5525875] with ID [9] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:19] [0030m.00s.378ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5526000] with ID [10] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:23] [0030m.03s.840ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5529703] with ID [11] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:23] [0030m.03s.857ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5529703] with ID [11] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:23] [0030m.03s.954ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5529812] with ID [12] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:23] [0030m.03s.986ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5529812] with ID [12] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:23] [0030m.04s.621ms] [0] IT: Session [4517] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3120] created
+[2018.12.19 15:28:23] [0030m.04s.621ms] [1] SC[4517]: Registered sub-client [JobPrefsDBPI_5530359] with ID [1] for session ID [4517] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:23] [0030m.04s.638ms] [1] CMT: There are [3] clients now: 4506, 4516, 4517
+[2018.12.19 15:28:23] [0030m.04s.638ms] [1] SC[4517]: UnRegistered sub-client [JobPrefsDBPI_5530359] with ID [1] for session ID [4517] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:24] [0030m.04s.754ms] [1] CMT: Removed client [4517]
+[2018.12.19 15:28:24] [0030m.04s.754ms] [1] CMT: There are [2] clients now: 4506, 4516
+[2018.12.19 15:28:24] [0030m.05s.360ms] [0] IT: Session [4518] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3120] created
+[2018.12.19 15:28:24] [0030m.05s.360ms] [1] SC[4518]: Registered sub-client [JobPrefsDBPI_5531156] with ID [1] for session ID [4518] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:24] [0030m.05s.423ms] [1] CMT: There are [3] clients now: 4506, 4516, 4518
+[2018.12.19 15:28:24] [0030m.05s.456ms] [1] SC[4518]: Registered sub-client [JobPrefsDBPI_5531296] with ID [2] for session ID [4518] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:24] [0030m.05s.506ms] [1] SC[4518]: UnRegistered sub-client [JobPrefsDBPI_5531156] with ID [1] for session ID [4518] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:24] [0030m.05s.506ms] [1] SC[4518]: UnRegistered sub-client [JobPrefsDBPI_5531296] with ID [2] for session ID [4518] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:24] [0030m.05s.555ms] [1] CMT: Removed client [4518]
+[2018.12.19 15:28:24] [0030m.05s.570ms] [1] CMT: There are [2] clients now: 4506, 4516
+[2018.12.19 15:28:25] [0030m.06s.084ms] [0] IT: Session [4519] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [3120] created
+[2018.12.19 15:28:25] [0030m.06s.084ms] [1] SC[4519]: Registered sub-client [JobPrefsDBPI_5531843] with ID [1] for session ID [4519] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:25] [0030m.06s.180ms] [1] CMT: There are [3] clients now: 4506, 4516, 4519
+[2018.12.19 15:28:25] [0030m.06s.229ms] [1] SC[4519]: Registered sub-client [JobPrefsDBPI_5532093] with ID [2] for session ID [4519] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:26] [0030m.06s.832ms] [1] SC[4519]: UnRegistered sub-client [JobPrefsDBPI_5532093] with ID [2] for session ID [4519] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:26] [0030m.06s.832ms] [1] SC[4519]: UnRegistered sub-client [JobPrefsDBPI_5531843] with ID [1] for session ID [4519] host [DESKTOP-GIDMTNA] user [Zor] process ID [3120]
+[2018.12.19 15:28:26] [0030m.06s.945ms] [1] CMT: Removed client [4519]
+[2018.12.19 15:28:26] [0030m.06s.945ms] [1] CMT: There are [2] clients now: 4506, 4516
+[2018.12.19 15:28:26] [0030m.07s.279ms] [1] SC[4516]: Registered sub-client [JobPrefsDBPI_5533125] with ID [13] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:26] [0030m.07s.293ms] [1] SC[4516]: UnRegistered sub-client [JobPrefsDBPI_5533125] with ID [13] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:34] [0030m.15s.234ms] [1] SC[4516]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:36] [0030m.16s.732ms] [1] SC[4516]: UnRegistered sub-client [Expedition PCB_5286656] with ID [1] for session ID [4516] host [DESKTOP-GIDMTNA] user [Zor] process ID [6576]
+[2018.12.19 15:28:36] [0030m.16s.856ms] [1] CMT: Removed client [4516]
+[2018.12.19 15:28:36] [0030m.16s.856ms] [1] CMT: There are [1] clients now: 4506
+[2018.12.19 15:29:26] [0031m.06s.686ms] [1] SC[4506]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4506] host [DESKTOP-GIDMTNA] user [Zor] process ID [3508]
+[2018.12.19 15:29:26] [0031m.06s.817ms] [1] CMT: Removed client [4506]
+[2018.12.19 15:29:26] [0031m.06s.817ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.19 15:29:28] [0031m.08s.729ms] [0] CMT: Starting server auto-close
+[2018.12.19 15:29:28] [0031m.08s.776ms] [0] S: Closing server
+[2018.12.19 15:29:28] [0031m.08s.862ms] [0] iCDB Server PI: Closing plugins
+[2018.12.19 15:29:28] [0031m.08s.862ms] [0] iCDB Server PI: Plugins closed
+[2018.12.19 15:29:28] [0031m.08s.862ms] [0] iCDB Server PI: Unloading database
+[2018.12.19 15:29:28] [0031m.08s.862ms] [0] iCDB Server PI: Saving storage
+[2018.12.19 15:29:28] [0031m.08s.862ms] [0] iCDB Server PI: Closing database
+[2018.12.19 15:29:28] [0031m.08s.862ms] [1] iCDB Server PI: Stats: Database defragmentation: max[4] avg[1] holes[9%] data[95%]
+[2018.12.19 15:29:28] [0031m.08s.862ms] [1] iCDB Server PI: Stats: Database file size [258016 (252.0 kB)]
+[2018.12.19 15:29:28] [0031m.08s.898ms] [0] iCDB Server PI: Database closed
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [410973] ticks
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [41097] microseconds
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [437]
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [10633] commands per second
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: Mem[36175872]
+[2018.12.19 15:29:28] [0031m.08s.898ms] [1] iCDB Server PI: Stats: MemPeak[43786240]
+[2018.12.19 15:29:28] [0031m.08s.898ms] [0] Single file [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] closed with size [258016 (252.0 kB)]
+[2018.12.19 15:29:28] [0031m.08s.995ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.19 15:29:28] [0031m.09s.000ms] [0] MWT: STOP
+[2018.12.19 15:29:28] [0031m.09s.000ms] [0] S: STOP

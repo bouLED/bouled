@@ -1,0 +1,2 @@
+C_SOURCES += $(SENTRAL)/sentral.c
+C_INCLUDES += -I$(SENTRAL)

@@ -1,0 +1,91 @@
+[2018.12.12 13:38:58] [0000m.00s.045ms] [0] WELCOME
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Base flow version [VX.2.4]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [4188]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Current working dir [E:\design\main_board\bouled_mainboard]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] SDD_PLATFORM [win32]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.12 13:38:58] [0000m.00s.060ms] [2] S: Loading config files
+[2018.12.12 13:38:58] [0000m.00s.076ms] [1] Config file [E:\design\main_board\bouled_mainboard\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.12 13:38:58] [0000m.00s.076ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.12 13:38:58] [0000m.00s.076ms] [3] S: Config loaded
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Project path [E:\design\main_board\bouled_mainboard\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Project global path [\\vboxsrv\bouled\design\main_board\bouled_mainboard\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.12 13:38:58] [0000m.00s.295ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Multi-user mode (config)
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Event polling mode autodetection
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Started up automatically by iCDB Client: DESKTOP-GIDMTNA:Zor:1168
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Auto close mode
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: Database ID [f76f-0c38-e00b-390d-6510-11cb-5101-1c50-baef-cf6f-60ef-fec8]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: BEGIN dumping
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\bouled\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\mentor\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\mentor\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [\\vboxsrv\bouled\] -> [E:\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [\\VBOXSVR\mentor\] -> [F:\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [G:\]
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] PathTranslator: END dumping
+[2018.12.12 13:38:58] [0000m.00s.295ms] [0] S: START
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Server startup lock file created
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Listening for client connections on port [10000]
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Server network ID [DESKTOP-GIDMTNA:10.0.2.15,DESKTOP-GIDMTNA:10000]
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Server GUID [3b83-54c8-4ea4-5af5-2610-11c7-6101-1c50-bdc0-df6f-60ef-fec8]
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Project GUID [f76f-0c38-e00b-390d-6510-11cb-5101-1c50-baef-cf6f-60ef-fec8]
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Wrote data to server address file
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] S: Server startup lock file removed
+[2018.12.12 13:38:58] [0000m.00s.312ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.12 13:38:58] [0000m.00s.361ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.12 13:38:58] [0000m.00s.361ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.12 13:38:58] [0000m.00s.361ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.12 13:38:58] [0000m.00s.361ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.12 13:38:58] [0000m.00s.375ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.12 13:38:58] [0000m.00s.375ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] S: Local disc access time: 57 us
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] S: File server access time: 531 us
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] Single file [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] size [273096 (266.7 kB)]
+[2018.12.12 13:38:58] [0000m.00s.375ms] [1] Single file [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.375ms] [0] Database GUARD OK: [273096]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] Database GUARD OK: [273096]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] Database GUARD OK: [273096]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] Database GUARD OK: [273096]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] Database GUARD OK: [273096]
+[2018.12.12 13:38:58] [0000m.00s.391ms] [0] SingleFile: [086f-ec63-b2eb-4436] SFI version check [1009] [1009]
+[2018.12.12 13:38:58] [0000m.00s.438ms] [0] SingleFile: [086f-ec63-b2eb-4436] Database SFI header has been read in [47ms 504us]
+[2018.12.12 13:38:58] [0000m.00s.438ms] [0] iCDB Server PI: Server & plugin session [4293]
+[2018.12.12 13:38:58] [0000m.00s.438ms] [0] iCDB Server PI: Opening database [E:\design\main_board\bouled_mainboard\Default\default.icdb]
+[2018.12.12 13:38:58] [0000m.00s.438ms] [0] iCDB Server PI: Database [E:\design\main_board\bouled_mainboard\Default\default.icdb] opened
+[2018.12.12 13:38:58] [0000m.00s.472ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.12 13:38:58] [0000m.00s.472ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.12 13:38:58] [0000m.00s.537ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8] up to date
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] S: iCDB database loaded
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] S: Starting threads
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.12 13:38:58] [0000m.00s.564ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.12 13:38:58] [0000m.00s.564ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.12 13:38:58] [0000m.00s.581ms] [0] IT: Session [4294] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [1168] created
+[2018.12.12 13:38:58] [0000m.00s.581ms] [1] SC[4294]: Registered sub-client [DCDV] with ID [1] for session ID [4294] host [DESKTOP-GIDMTNA] user [Zor] process ID [1168]
+[2018.12.12 13:38:58] [0000m.00s.581ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.12 13:38:58] [0000m.00s.708ms] [1] CMT: There are [1] clients now: 4294
+[2018.12.12 13:40:13] [0001m.15s.127ms] [0] DFAMT: File server access time: 2876 us
+[2018.12.12 15:06:54] [0087m.56s.727ms] [0] MWT: WM_QUERYENDSESSION
+[2018.12.12 15:06:54] [0087m.56s.784ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2018.12.12 15:06:54] [0087m.56s.786ms] [0] Removing server address file.

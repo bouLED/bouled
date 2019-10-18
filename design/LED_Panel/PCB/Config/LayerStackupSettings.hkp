@@ -1,0 +1,11 @@
+.FILETYPE LAYER_STACKUP_SETTINGS
+.VERSION "VX2.1"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Friday December 21 20:47:06 2018"
+
+.LayerStackup
+  ..FontName    "Arial"
+  ..FontSize     1270000
+  ..PenWidth 127000
+  ..IncludeMaster 1
+  ..MultipleUserLayers 0

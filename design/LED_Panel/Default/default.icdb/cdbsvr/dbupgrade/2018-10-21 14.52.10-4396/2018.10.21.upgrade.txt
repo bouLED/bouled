@@ -1,0 +1,87 @@
+[2018.10.21 14:52:11] [0000m.01s.592ms] [0] WELCOME
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Base flow version [VX.2.4]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Machine [DESKTOP-D6MOGOB]  IP [10.0.2.15,127.0.0.1]  User [alexis]  PID [4396]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] Current working dir [F:\Project_template]
+[2018.10.21 14:52:11] [0000m.01s.592ms] [1] PATH [C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\help;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\alexi\AppData\Local\Microsoft\WindowsApps]
+[2018.10.21 14:52:11] [0000m.01s.608ms] [1] SDD_HOME [C:\mentorgraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.10.21 14:52:11] [0000m.01s.608ms] [1] SDD_PLATFORM [win32]
+[2018.10.21 14:52:11] [0000m.01s.608ms] [1] WDIR [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.10.21 14:52:11] [0000m.01s.608ms] [1] Local iCDB working dir [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard\iCDB] on file system [NTFS]
+[2018.10.21 14:52:11] [0000m.01s.608ms] [0] Creating database content backup before upgrade
+[2018.10.21 14:52:11] [0000m.01s.702ms] [0] Database content backed up to [F:\Project_template\Default\default.icdb\cdbback\2018-10-21 14.52.11-4396.zip] of size [174 590 bytes (170.5 kB)] in [103ms 167us]
+[2018.10.21 14:52:11] [0000m.01s.715ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.56;user.cns=55f1-7e2a-a301-bcc1-2f34-1c97-f341-c950-ce00-609f-9fef-0fc8]
+[2018.10.21 14:52:11] [0000m.01s.903ms] [0] Upgrading snapshot [1:DCDV] from version [3300]
+[2018.10.21 14:52:11] [0000m.01s.919ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s1\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.01s.919ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s1\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [1] CORE: Upgrade snapshot DCDV completed successfully.
+[2018.10.21 14:52:11] [0000m.01s.950ms] [0] Snapshot [1:DCDV] upgraded to version [3500] in [48ms 671us]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [0] Upgrading constraint definitions for snapshot [1:DCDV]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] Constraint definitions for snapshot [1:DCDV] upgraded in [10ms 550us]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] Saving upgraded snapshot [1:DCDV]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] Upgraded snapshot [1:DCDV] saved in [5ms 855us]
+[2018.10.21 14:52:11] [0000m.01s.981ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:11] [0000m.02s.044ms] [0] Upgrading snapshot [2:PCB_Layout_Temp] from version [3300]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s2\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s2\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2018.10.21 14:52:11] [0000m.02s.059ms] [0] Snapshot [2:PCB_Layout_Temp] upgraded to version [3500] in [15ms 83us]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [0] Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [9ms 65us]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] Saving upgraded snapshot [2:PCB_Layout_Temp]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] Upgraded snapshot [2:PCB_Layout_Temp] saved in [4ms 124us]
+[2018.10.21 14:52:11] [0000m.02s.122ms] [0] Upgrading snapshot [3:PCB] from version [3300]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s3\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s3\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2018.10.21 14:52:11] [0000m.02s.137ms] [0] Snapshot [3:PCB] upgraded to version [3500] in [15ms 854us]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [0] Upgrading constraint definitions for snapshot [3:PCB]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] Constraint definitions for snapshot [3:PCB] upgraded in [8ms 337us]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] Saving upgraded snapshot [3:PCB]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] Upgraded snapshot [3:PCB] saved in [4ms 477us]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [0] Upgrading snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s4\cdbblks\f000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s4\cdbblks\f000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [1] CORE: Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded to version [3500] in [9ms 270us]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] Upgrading constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] Constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [192us]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] Saving upgraded snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] Upgraded snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [745us]
+[2018.10.21 14:52:12] [0000m.02s.231ms] [0] Upgrading snapshot [5:RefSync] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s5\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s5\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade snapshot RefSync completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.247ms] [0] Snapshot [5:RefSync] upgraded to version [3500] in [19ms 760us]
+[2018.10.21 14:52:12] [0000m.02s.262ms] [0] Upgrading constraint definitions for snapshot [5:RefSync]
+[2018.10.21 14:52:12] [0000m.02s.294ms] [0] Constraint definitions for snapshot [5:RefSync] upgraded in [33ms 125us]
+[2018.10.21 14:52:12] [0000m.02s.294ms] [0] Saving upgraded snapshot [5:RefSync]
+[2018.10.21 14:52:12] [0000m.02s.309ms] [0] Upgraded snapshot [5:RefSync] saved in [12ms 997us]
+[2018.10.21 14:52:12] [0000m.02s.309ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.372ms] [0] Upgrading snapshot [6:PCB_RefSync] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s6\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s6\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [1] CORE: Upgrade snapshot PCB_RefSync completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.403ms] [0] Snapshot [6:PCB_RefSync] upgraded to version [3500] in [20ms 775us]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [0] Upgrading constraint definitions for snapshot [6:PCB_RefSync]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] Constraint definitions for snapshot [6:PCB_RefSync] upgraded in [9ms 936us]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] Saving upgraded snapshot [6:PCB_RefSync]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] Upgraded snapshot [6:PCB_RefSync] saved in [6ms 647us]
+[2018.10.21 14:52:12] [0000m.02s.434ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.481ms] [0] Upgrading snapshot [7:PCB_LDDTemp] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.481ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s7\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.481ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s7\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Upgrade snapshot PCB_LDDTemp completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.497ms] [0] Snapshot [7:PCB_LDDTemp] upgraded to version [3500] in [22ms 545us]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [0] Upgrading constraint definitions for snapshot [7:PCB_LDDTemp]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] Constraint definitions for snapshot [7:PCB_LDDTemp] upgraded in [10ms 830us]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] Saving upgraded snapshot [7:PCB_LDDTemp]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] Upgraded snapshot [7:PCB_LDDTemp] saved in [4ms 572us]
+[2018.10.21 14:52:12] [0000m.02s.528ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.559ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.63]
+[2018.10.21 14:52:12] [0000m.02s.559ms] [0] DONE
+[2018.10.21 14:52:12] [0000m.02s.559ms] [0] .

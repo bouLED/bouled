@@ -1,0 +1,38 @@
+=======================================================================
+Xpedition Layout - Version 118.0.112.84664
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog31.txt
+
+Fri Dec 28 21:03:48 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Fri Dec 28 21:03:48 2018  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Fri Dec 28 21:03:48 2018  ---------------
+
+
+D2                              SMA                               SMA                             
+
+
+---------------    Fri Dec 28 21:03:48 2018  ---------------
+
+
+
+
+---------------    Fri Dec 28 21:03:48 2018  ---------------
+
+

@@ -1,0 +1,190 @@
+[2018.12.16 11:26:09] [0000m.00s.045ms] [0] WELCOME
+[2018.12.16 11:26:09] [0000m.00s.046ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.16 11:26:09] [0000m.00s.046ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.16 11:26:09] [0000m.00s.046ms] [1] Base flow version [VX.2.4]
+[2018.12.16 11:26:09] [0000m.00s.046ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.16 11:26:09] [0000m.00s.046ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Machine [LUCAS]  IP [127.0.0.1,137.194.121.215,192.168.1.20]  User [Lucas]  PID [6592]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Current working dir [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Lucas\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] SDD_PLATFORM [win32]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [2] S: Loading config files
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Config file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.16 11:26:09] [0000m.00s.047ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.16 11:26:09] [0000m.00s.047ms] [3] S: Config loaded
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Project path [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb] on file system [NTFS]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.16 11:26:09] [0000m.00s.094ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Multi-user mode (config)
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Event polling mode autodetection
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Started up automatically by iCDB Client: LUCAS:Lucas:8876
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Auto close mode
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Database ID [32e2-0bce-1845-ee85-e68e-41c3-78e4-1c50-272a-76a4-83fc-1da8]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] PathTranslator: BEGIN dumping
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] PathTranslator: END dumping
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: START
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Server startup lock file created
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Listening for client connections on port [10001]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Server network ID [Lucas:137.194.121.215,192.168.1.20,Lucas:10001]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Server GUID [f4f7-fbaf-0904-d04b-1482-61c6-4826-1c50-a9f9-76a4-83fc-1da8]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Project GUID [32e2-0bce-1845-ee85-e68e-41c3-78e4-1c50-272a-76a4-83fc-1da8]
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Wrote data to server address file
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] S: Server startup lock file removed
+[2018.12.16 11:26:09] [0000m.00s.094ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.16 11:26:09] [0000m.00s.125ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] S: Local disc access time: 93 us
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] S: File server access time: 102 us
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Single file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\icdb.dat] size [252496 (246.6 kB)]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [1] Single file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Database GUARD OK: [252496]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Database GUARD OK: [252496]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Database GUARD OK: [252496]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Database GUARD OK: [252496]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] Database GUARD OK: [252496]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [309b-c237-1427-189e] SFI version check [1009] [1009]
+[2018.12.16 11:26:09] [0000m.00s.141ms] [0] SingleFile: [309b-c237-1427-189e] Database SFI header has been read in [8ms 638us]
+[2018.12.16 11:26:09] [0000m.00s.156ms] [0] iCDB Server PI: Server & plugin session [4471]
+[2018.12.16 11:26:09] [0000m.00s.156ms] [0] iCDB Server PI: Opening database [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb]
+[2018.12.16 11:26:09] [0000m.00s.156ms] [0] iCDB Server PI: Database [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb] opened
+[2018.12.16 11:26:09] [0000m.00s.172ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.16 11:26:09] [0000m.00s.172ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.16 11:26:09] [0000m.00s.234ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=621c-f847-796c-93ac-4d71-dfb9-d71d-fb50-8289-86c4-d640-eca8] up to date
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] S: iCDB database loaded
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] S: Starting threads
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.16 11:26:10] [0000m.00s.360ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] IT: Session [4472] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [8876] created
+[2018.12.16 11:26:10] [0000m.00s.360ms] [1] SC[4472]: Registered sub-client [DCDV] with ID [1] for session ID [4472] host [Lucas] user [Lucas] process ID [8876]
+[2018.12.16 11:26:10] [0000m.00s.360ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.16 11:26:10] [0000m.00s.376ms] [0] IT: iCDB Server Monitor session [1] for host [Lucas] user [Lucas] with process ID [4360] created
+[2018.12.16 11:26:10] [0000m.00s.376ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2018.12.16 11:26:10] [0000m.00s.470ms] [1] CMT: There are [1] clients now: 4472
+[2018.12.16 11:26:27] [0000m.17s.714ms] [0] IT: Session [4473] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [804] created
+[2018.12.16 11:26:27] [0000m.17s.714ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[Lucas] # ClientUserName[Lucas] # ClientProcessID[804] # SessionID[4473] # Type[0]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\LED_Panel.prj], global path [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\LED_Panel.prj]
+[2018.12.16 11:26:27] [0000m.17s.768ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:26:27] [0000m.17s.863ms] [1] SC[4473]: Registered sub-client [Expedition PCB_320109234] with ID [1] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:27] [0000m.18s.044ms] [1] SC[4473]: Registered sub-client [EEVM] with ID [2] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:28] [0000m.18s.727ms] [1] SC[4473]: UnRegistered sub-client [EEVM] with ID [2] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:29] [0000m.19s.759ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320111312] with ID [3] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:29] [0000m.19s.759ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320111312] with ID [3] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:30] [0000m.20s.435ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320112015] with ID [4] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:30] [0000m.20s.451ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320112015] with ID [4] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:30] [0000m.20s.810ms] [1] PrjBackupMgr: Successfully created Project Backup [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-16 11.26.27 - auto.zip] with GUID [d661-d77d-f58d-7c6b-3582-61c8-5826-1c50-e6d8-76a4-83fc-1da8]
+[2018.12.16 11:26:30] [0000m.20s.810ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[5011-80cf-94ab-83a3-1bd1-41c6-bd14-1c50-ecfb-a9f8-3ae2-03e2] CreationTime[Friday, December 14, 2018 21:16:33] Type[Autosave] Creator[iCDB Server (2018-12-14 20.52.29-8072)] ApplicationName[iCDB Server (2018-12-14 20.52.29-8072)] UserName[Lucas] MachineName[LUCAS] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 22.16.33 - auto.zip] BackupFileSize[736332] Persistent[FALSE]
+[2018.12.16 11:26:30] [0000m.20s.810ms] [0] PrjBackupMgr: Project Backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 22.16.33 - auto.zip] with GUID [5011-80cf-94ab-83a3-1bd1-41c6-bd14-1c50-ecfb-a9f8-3ae2-03e2] removed
+[2018.12.16 11:26:30] [0000m.20s.810ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[d661-d77d-f58d-7c6b-3582-61c8-5826-1c50-e6d8-76a4-83fc-1da8] CreationTime[Sunday, December 16, 2018 10:26:27] Type[Autosave] Creator[iCDB Server (2018-12-16 11.26.09-6592)] ApplicationName[iCDB Server (2018-12-16 11.26.09-6592)] UserName[Lucas] MachineName[LUCAS] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-16 11.26.27 - auto.zip] BackupFileSize[701445] Persistent[FALSE]
+[2018.12.16 11:26:36] [0000m.27s.263ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320118828] with ID [5] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.285ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320118828] with ID [5] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.509ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320119078] with ID [6] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.540ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320119078] with ID [6] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.634ms] [1] SC[4473]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.634ms] [1] SC[4473]: Registered sub-client [StartServerClient2f64] with ID [8] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.634ms] [1] SC[4473]: UnRegistered sub-client [StartServerClient2f64] with ID [8] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:26:37] [0000m.27s.743ms] [0] DFAMT: File server access time: 144 us
+[2018.12.16 11:29:51] [0003m.42s.230ms] [1] SC[4473]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:51] [0003m.42s.246ms] [1] SC[4473]: Registered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:51] [0003m.42s.246ms] [1] SC[4473]: UnRegistered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:52] [0003m.42s.780ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320314343] with ID [10] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:52] [0003m.42s.812ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320314343] with ID [10] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:55] [0003m.45s.436ms] [1] SC[4473]: Registered sub-client [JobPrefsDBPI_320317015] with ID [11] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:55] [0003m.45s.461ms] [1] SC[4473]: UnRegistered sub-client [JobPrefsDBPI_320317015] with ID [11] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:29:55] [0003m.46s.234ms] [0] IT: Session [4474] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [13072] created
+[2018.12.16 11:29:55] [0003m.46s.234ms] [1] SC[4474]: Registered sub-client [Packager_320317750] with ID [1] for session ID [4474] host [Lucas] user [Lucas] process ID [13072]
+[2018.12.16 11:29:56] [0003m.46s.316ms] [1] CMT: There are [3] clients now: 4472, 4473, 4474
+[2018.12.16 11:29:56] [0003m.46s.551ms] [1] SC[4474]: UnRegistered sub-client [Packager_320317750] with ID [1] for session ID [4474] host [Lucas] user [Lucas] process ID [13072]
+[2018.12.16 11:29:56] [0003m.46s.645ms] [1] CMT: Removed client [4474]
+[2018.12.16 11:29:56] [0003m.46s.645ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:29:56] [0003m.47s.147ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2018.12.16 11:29:56] [0003m.47s.194ms] [0] iCDB Storage Server: WARNING: Pending removed files while trying to copy snapshot files: ProjectPath[C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb] Src[C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb] Dst[C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb]
+[2018.12.16 11:29:57] [0003m.48s.119ms] [0] IT: Session [4475] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [5368] created
+[2018.12.16 11:29:57] [0003m.48s.119ms] [1] SC[4475]: Registered sub-client [Expedition_320319640] with ID [1] for session ID [4475] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:57] [0003m.48s.150ms] [1] CMT: There are [3] clients now: 4472, 4473, 4475
+[2018.12.16 11:29:57] [0003m.48s.181ms] [1] SC[4475]: UnRegistered sub-client [Expedition_320319640] with ID [1] for session ID [4475] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:57] [0003m.48s.259ms] [1] CMT: Removed client [4475]
+[2018.12.16 11:29:57] [0003m.48s.259ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:29:58] [0003m.48s.980ms] [0] IT: Session [4476] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [5368] created
+[2018.12.16 11:29:58] [0003m.48s.980ms] [1] SC[4476]: Registered sub-client [JobPrefsDBPI_320320453] with ID [1] for session ID [4476] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:58] [0003m.49s.011ms] [1] CMT: There are [3] clients now: 4472, 4473, 4476
+[2018.12.16 11:29:58] [0003m.49s.011ms] [1] SC[4476]: UnRegistered sub-client [JobPrefsDBPI_320320453] with ID [1] for session ID [4476] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:58] [0003m.49s.122ms] [1] CMT: Removed client [4476]
+[2018.12.16 11:29:58] [0003m.49s.122ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:29:59] [0003m.49s.624ms] [0] IT: Session [4477] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [5368] created
+[2018.12.16 11:29:59] [0003m.49s.624ms] [1] SC[4477]: Registered sub-client [JobPrefsDBPI_320321125] with ID [1] for session ID [4477] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:59] [0003m.49s.640ms] [1] SC[4477]: UnRegistered sub-client [JobPrefsDBPI_320321125] with ID [1] for session ID [4477] host [Lucas] user [Lucas] process ID [5368]
+[2018.12.16 11:29:59] [0003m.49s.656ms] [1] CMT: There are [3] clients now: 4472, 4473, 4477
+[2018.12.16 11:29:59] [0003m.49s.656ms] [1] CMT: Removed client [4477]
+[2018.12.16 11:29:59] [0003m.49s.656ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:30:01] [0003m.51s.526ms] [0] IT: Session [4478] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [2628] created
+[2018.12.16 11:30:01] [0003m.51s.542ms] [1] SC[4478]: Registered sub-client [JobPrefsDBPI_320322968] with ID [1] for session ID [4478] host [Lucas] user [Lucas] process ID [2628]
+[2018.12.16 11:30:01] [0003m.51s.573ms] [1] SC[4478]: Registered sub-client [Expedition_320323125] with ID [2] for session ID [4478] host [Lucas] user [Lucas] process ID [2628]
+[2018.12.16 11:30:01] [0003m.51s.604ms] [1] CMT: There are [3] clients now: 4472, 4473, 4478
+[2018.12.16 11:30:01] [0003m.51s.622ms] [1] SC[4478]: UnRegistered sub-client [JobPrefsDBPI_320322968] with ID [1] for session ID [4478] host [Lucas] user [Lucas] process ID [2628]
+[2018.12.16 11:30:01] [0003m.51s.684ms] [1] SC[4478]: UnRegistered sub-client [Expedition_320323125] with ID [2] for session ID [4478] host [Lucas] user [Lucas] process ID [2628]
+[2018.12.16 11:30:01] [0003m.51s.716ms] [1] CMT: Removed client [4478]
+[2018.12.16 11:30:01] [0003m.51s.716ms] [1] CMT: There are [2] clients now: 4472, 4473
+[2018.12.16 11:30:01] [0003m.52s.105ms] [1] SC[4473]: Registered sub-client [EEVM_EEVM_609194564] with ID [12] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:01] [0003m.52s.121ms] [1] SC[4473]: UnRegistered sub-client [EEVM_EEVM_609194564] with ID [12] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:01] [0003m.52s.121ms] [1] SC[4473]: Registered sub-client [EEVM_EEVM_609194564] with ID [13] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:01] [0003m.52s.121ms] [1] SC[4473]: UnRegistered sub-client [EEVM_EEVM_609194564] with ID [13] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:01] [0003m.52s.121ms] [1] SC[4473]: Registered sub-client [EEVM_EEVM_609193540] with ID [14] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:01] [0003m.52s.136ms] [1] SC[4473]: UnRegistered sub-client [EEVM_EEVM_609193540] with ID [14] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:02] [0003m.53s.057ms] [1] SC[4473]: UnRegistered sub-client [Expedition PCB_320109234] with ID [1] for session ID [4473] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:02] [0003m.53s.136ms] [1] CMT: Removed client [4473]
+[2018.12.16 11:30:02] [0003m.53s.136ms] [1] CMT: There are [1] clients now: 4472
+[2018.12.16 11:30:03] [0003m.53s.339ms] [0] IT: Session [4479] for host [Lucas] user [Lucas] client type[0] clsvrPluginID[0] with process ID [804] created
+[2018.12.16 11:30:03] [0003m.53s.339ms] [1] SC[4479]: Registered sub-client [Expedition PCB_320324843] with ID [1] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:03] [0003m.53s.354ms] [1] CMT: There are [2] clients now: 4472, 4479
+[2018.12.16 11:30:03] [0003m.53s.698ms] [1] SC[4479]: Registered sub-client [JobPrefsDBPI_320325265] with ID [2] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:03] [0003m.53s.714ms] [1] SC[4479]: UnRegistered sub-client [JobPrefsDBPI_320325265] with ID [2] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:07] [0003m.58s.006ms] [1] SC[4479]: Registered sub-client [JobPrefsDBPI_320329578] with ID [3] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:07] [0003m.58s.006ms] [1] SC[4479]: UnRegistered sub-client [JobPrefsDBPI_320329578] with ID [3] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 11:30:07] [0003m.58s.037ms] [1] SC[4479]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 12:11:40] [0045m.30s.628ms] [1] SC[4479]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 12:11:41] [0045m.32s.088ms] [1] SC[4479]: UnRegistered sub-client [Expedition PCB_320324843] with ID [1] for session ID [4479] host [Lucas] user [Lucas] process ID [804]
+[2018.12.16 12:11:41] [0045m.32s.172ms] [1] CMT: Removed client [4479]
+[2018.12.16 12:11:41] [0045m.32s.172ms] [1] CMT: There are [1] clients now: 4472
+[2018.12.16 12:11:42] [0045m.33s.136ms] [1] SC[4472]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4472] host [Lucas] user [Lucas] process ID [8876]
+[2018.12.16 12:11:42] [0045m.33s.247ms] [1] CMT: Removed client [4472]
+[2018.12.16 12:11:42] [0045m.33s.247ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.16 12:11:43] [0045m.33s.637ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2018.12.16 12:11:44] [0045m.34s.342ms] [0] CMT: Starting server auto-close
+[2018.12.16 12:11:44] [0045m.34s.373ms] [0] S: Closing server
+[2018.12.16 12:11:44] [0045m.34s.498ms] [0] iCDB Server PI: Closing plugins
+[2018.12.16 12:11:44] [0045m.34s.498ms] [0] iCDB Server PI: Plugins closed
+[2018.12.16 12:11:44] [0045m.34s.498ms] [0] iCDB Server PI: Unloading database
+[2018.12.16 12:11:44] [0045m.34s.498ms] [0] iCDB Server PI: Saving storage
+[2018.12.16 12:11:44] [0045m.34s.498ms] [0] iCDB Server PI: Closing database
+[2018.12.16 12:11:44] [0045m.34s.529ms] [1] iCDB Server PI: Stats: Database defragmentation: max[4] avg[1] holes[8%] data[92%]
+[2018.12.16 12:11:44] [0045m.34s.529ms] [1] iCDB Server PI: Stats: Database file size [255608 (249.6 kB)]
+[2018.12.16 12:11:44] [0045m.34s.545ms] [0] iCDB Server PI: Database closed
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [160060] ticks
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [68447] microseconds
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [90]
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [1314] commands per second
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: Mem[37769216]
+[2018.12.16 12:11:44] [0045m.34s.545ms] [1] iCDB Server PI: Stats: MemPeak[44511232]
+[2018.12.16 12:11:44] [0045m.34s.545ms] [0] Single file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\icdb.dat] closed with size [255608 (249.6 kB)]
+[2018.12.16 12:11:44] [0045m.34s.607ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2018.12.16 12:11:44] [0045m.34s.701ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.16 12:11:44] [0045m.34s.701ms] [0] MWT: STOP
+[2018.12.16 12:11:44] [0045m.34s.701ms] [0] S: STOP

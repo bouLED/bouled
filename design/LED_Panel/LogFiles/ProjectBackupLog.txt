@@ -1,0 +1,130 @@
+[2017-10-26 20.40.12] Successfully created [AutoSave] backup [2017-10-26 20.40.11 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 13.42.14] Successfully created [AutoSave] backup [2017-11-12 13.42.14 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip] removed.
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip] removed.
+[2017-11-12 14.28.48] Successfully created [AutoSave] backup [2017-11-12 14.28.47 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.30.41] Removing (by prune) [AutoSave] backup file [F:\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip].
+[2017-11-12 14.30.41] [AutoSave] backup file [\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip] removed.
+[2018-10-21 14.54.28] Migrating iCDB upgrade backups from directory [\PROJECT_TEMPLATE\Default\default.icdb\cdbback] to Project Backup format.
+[2018-10-21 14.54.28] Migrating iCDB upgrade backup file [2018-10-21 14.52.11-4396].
+[2018-10-21 14.54.29] Successfully created [Constraints Definition Upgrade] backup [2018-10-21 14.52.11 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-10-21 14.54.29] Migrated iCDB content backup file [cdbback\2018-10-21 14.52.11-4396.zip] removed.
+[2018-10-21 14.54.29] Successfully migrated iCDB upgrade backup file [2018-10-21 14.52.11-4396] to Project Backup format [2018-10-21 14.52.11 - consDefUpgr.zip]
+[2018-10-21 14.54.29] Successfully created [AutoSave] backup [2018-10-21 14.54.29 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-11-27 14.41.55] Migrating iCDB upgrade backups from directory [Project_template\Default\default.icdb\cdbback] to Project Backup format.
+[2018-11-27 14.41.55] Migrating iCDB upgrade backup file [2018-11-27 11.09.24-8004].
+[2018-11-27 14.41.55] Successfully created [Database Upgrade] backup [2018-11-27 11.09.24 - upgrade.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-11-27 14.41.55] Migrated iCDB content backup file [cdbback\2018-11-27 11.09.24-8004.zip] removed.
+[2018-11-27 14.41.55] Successfully migrated iCDB upgrade backup file [2018-11-27 11.09.24-8004] to Project Backup format [2018-11-27 11.09.24 - upgrade.zip]
+[2018-11-27 14.41.56] Successfully created [AutoSave] backup [2018-11-27 14.41.55 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-11 17.35.36] Migrating iCDB upgrade backups from directory [LED_Panel\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-11 17.35.36] Migrating iCDB upgrade backup file [2018-12-11 17.32.52-1060].
+[2018-12-11 17.35.36] Successfully created [Constraints Definition Upgrade] backup [2018-12-11 17.32.52 - consDefUpgr.zip] requested by [LUCAS:Lucas].
+[2018-12-11 17.35.36] Removing excessive [Constraints Definition Upgrade] backup file [E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip].
+[2018-12-11 17.35.36] [Constraints Definition Upgrade] backup file [LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip] removed.
+[2018-12-11 17.35.36] Migrated iCDB content backup file [cdbback\2018-12-11 17.32.52-1060.zip] removed.
+[2018-12-11 17.35.36] Successfully migrated iCDB upgrade backup file [2018-12-11 17.32.52-1060] to Project Backup format [2018-12-11 17.32.52 - consDefUpgr.zip]
+[2018-12-11 17.35.36] Migrating iCDB upgrade backup file [2018-12-06 21.06.40-7516].
+[2018-12-11 17.35.36] iCDB upgrade backup file [2018-12-06 21.06.40-7516] is excessive.
+[2018-12-11 17.35.36] Excessive iCDB upgrade backup file [2018-12-06 21.06.40-7516] removed.
+[2018-12-11 17.35.36] Migrating iCDB upgrade backup file [2018-12-06 19.13.10-5856].
+[2018-12-11 17.35.36] iCDB upgrade backup file [2018-12-06 19.13.10-5856] is excessive.
+[2018-12-11 17.35.36] Excessive iCDB upgrade backup file [2018-12-06 19.13.10-5856] removed.
+[2018-12-11 17.35.39] Successfully created [AutoSave] backup [2018-12-11 17.35.37 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-14 08.30.08] Migrating iCDB upgrade backups from directory [LED_Panel\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-14 08.30.08] Migrating iCDB upgrade backup file [2018-12-12 15.23.10-10596].
+[2018-12-14 08.30.08] Successfully created [Constraints Definition Upgrade] backup [2018-12-12 15.23.10 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-14 08.30.08] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.32.52 - consDefUpgr.zip].
+[2018-12-14 08.30.08] [Constraints Definition Upgrade] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.32.52 - consDefUpgr.zip] removed.
+[2018-12-14 08.30.08] Migrated iCDB content backup file [cdbback\2018-12-12 15.23.10-10596.zip] removed.
+[2018-12-14 08.30.08] Successfully migrated iCDB upgrade backup file [2018-12-12 15.23.10-10596] to Project Backup format [2018-12-12 15.23.10 - consDefUpgr.zip]
+[2018-12-14 08.30.08] Migrating iCDB upgrade backup file [2018-12-12 13.29.35-5956].
+[2018-12-14 08.30.08] iCDB upgrade backup file [2018-12-12 13.29.35-5956] is excessive.
+[2018-12-14 08.30.08] Excessive iCDB upgrade backup file [2018-12-12 13.29.35-5956] removed.
+[2018-12-14 08.30.11] Successfully created [AutoSave] backup [2018-12-14 08.30.08 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-14 08.30.11] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.54.29 - auto.zip].
+[2018-12-14 08.30.11] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.54.29 - auto.zip] removed.
+[2018-12-14 14.16.38] Successfully created [AutoSave] backup [2018-12-14 14.16.33 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-14 14.16.38] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-11-27 14.41.55 - auto.zip].
+[2018-12-14 14.16.38] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-11-27 14.41.55 - auto.zip] removed.
+[2018-12-14 18.16.34] Successfully created [AutoSave] backup [2018-12-14 18.16.33 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-14 18.16.34] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.35.37 - auto.zip].
+[2018-12-14 18.16.34] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.35.37 - auto.zip] removed.
+[2018-12-14 22.16.33] Successfully created [AutoSave] backup [2018-12-14 22.16.33 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-14 22.16.33] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 08.30.08 - auto.zip].
+[2018-12-14 22.16.33] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-14 08.30.08 - auto.zip] removed.
+[2018-12-15 10.58.25] Successfully created [AutoSave] backup [2018-12-15 10.58.25 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-15 10.58.25] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 14.16.33 - auto.zip].
+[2018-12-15 10.58.25] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-14 14.16.33 - auto.zip] removed.
+[2018-12-15 19.56.20] Successfully created [AutoSave] backup [2018-12-15 19.56.17 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-15 19.56.20] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 18.16.33 - auto.zip].
+[2018-12-15 19.56.20] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-14 18.16.33 - auto.zip] removed.
+[2018-12-16 11.26.30] Successfully created [AutoSave] backup [2018-12-16 11.26.27 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-16 11.26.30] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-14 22.16.33 - auto.zip].
+[2018-12-16 11.26.30] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-14 22.16.33 - auto.zip] removed.
+[2018-12-17 11.01.12] Migrating iCDB upgrade backups from directory [LED_PANEL\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-17 11.01.12] Migrating iCDB upgrade backup file [2018-12-17 11.00.27-1848].
+[2018-12-17 11.01.12] Successfully created [Constraints Definition Upgrade] backup [2018-12-17 11.00.27 - consDefUpgr.zip] requested by [LUCAS:Lucas].
+[2018-12-17 11.01.12] Removing excessive [Constraints Definition Upgrade] backup file [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-12 15.23.10 - consDefUpgr.zip].
+[2018-12-17 11.01.12] [Constraints Definition Upgrade] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-12 15.23.10 - consDefUpgr.zip] removed.
+[2018-12-17 11.01.12] Migrated iCDB content backup file [cdbback\2018-12-17 11.00.27-1848.zip] removed.
+[2018-12-17 11.01.12] Successfully migrated iCDB upgrade backup file [2018-12-17 11.00.27-1848] to Project Backup format [2018-12-17 11.00.27 - consDefUpgr.zip]
+[2018-12-17 11.01.20] Successfully created [AutoSave] backup [2018-12-17 11.01.13 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-17 11.01.20] Removing excessive [AutoSave] backup file [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-15 10.58.25 - auto.zip].
+[2018-12-17 11.01.20] [AutoSave] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-15 10.58.25 - auto.zip] removed.
+[2018-12-17 15.57.44] Migrating iCDB upgrade backups from directory [LED_Panel\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-17 15.57.44] Migrating iCDB upgrade backup file [2018-12-17 15.57.20-10964].
+[2018-12-17 15.57.44] Successfully created [Constraints Definition Upgrade] backup [2018-12-17 15.57.20 - consDefUpgr.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-17 15.57.44] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-17 11.00.27 - consDefUpgr.zip].
+[2018-12-17 15.57.44] [Constraints Definition Upgrade] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-17 11.00.27 - consDefUpgr.zip] removed.
+[2018-12-17 15.57.44] Migrated iCDB content backup file [cdbback\2018-12-17 15.57.20-10964.zip] removed.
+[2018-12-17 15.57.44] Successfully migrated iCDB upgrade backup file [2018-12-17 15.57.20-10964] to Project Backup format [2018-12-17 15.57.20 - consDefUpgr.zip]
+[2018-12-17 15.57.47] Successfully created [AutoSave] backup [2018-12-17 15.57.44 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-17 15.57.47] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-15 19.56.17 - auto.zip].
+[2018-12-17 15.57.47] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-15 19.56.17 - auto.zip] removed.
+[2018-12-19 09.04.42] Migrating iCDB upgrade backups from directory [LED_PANEL\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-19 09.04.42] Migrating iCDB upgrade backup file [2018-12-19 08.57.46-5820].
+[2018-12-19 09.04.42] Successfully created [Constraints Definition Upgrade] backup [2018-12-19 08.57.46 - consDefUpgr.zip] requested by [LUCAS:Lucas].
+[2018-12-19 09.04.42] Removing excessive [Constraints Definition Upgrade] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-17 15.57.20 - consDefUpgr.zip].
+[2018-12-19 09.04.42] [Constraints Definition Upgrade] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-17 15.57.20 - consDefUpgr.zip] removed.
+[2018-12-19 09.04.42] Migrated iCDB content backup file [cdbback\2018-12-19 08.57.46-5820.zip] removed.
+[2018-12-19 09.04.42] Successfully migrated iCDB upgrade backup file [2018-12-19 08.57.46-5820] to Project Backup format [2018-12-19 08.57.46 - consDefUpgr.zip]
+[2018-12-19 09.04.44] Successfully created [AutoSave] backup [2018-12-19 09.04.42 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-19 09.04.44] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-16 11.26.27 - auto.zip].
+[2018-12-19 09.04.44] [AutoSave] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-16 11.26.27 - auto.zip] removed.
+[2018-12-19 13.43.04] Migrating iCDB upgrade backups from directory [LED_Panel\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-19 13.43.04] Migrating iCDB upgrade backup file [2018-12-19 13.42.12-9296].
+[2018-12-19 13.43.04] Successfully created [Constraints Definition Upgrade] backup [2018-12-19 13.42.12 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-19 13.43.04] Removing excessive [Constraints Definition Upgrade] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-19 08.57.46 - consDefUpgr.zip].
+[2018-12-19 13.43.04] [Constraints Definition Upgrade] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-19 08.57.46 - consDefUpgr.zip] removed.
+[2018-12-19 13.43.04] Migrated iCDB content backup file [cdbback\2018-12-19 13.42.12-9296.zip] removed.
+[2018-12-19 13.43.04] Successfully migrated iCDB upgrade backup file [2018-12-19 13.42.12-9296] to Project Backup format [2018-12-19 13.42.12 - consDefUpgr.zip]
+[2018-12-19 13.43.09] Successfully created [AutoSave] backup [2018-12-19 13.43.04 - auto.zip] requested by [LUCAS:Lucas].
+[2018-12-19 13.43.09] Removing excessive [AutoSave] backup file [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\ProjectBackup\backups\2018-12-17 11.01.13 - auto.zip].
+[2018-12-19 13.43.09] [AutoSave] backup file [LED_Panel\Default\ProjectBackup\backups\2018-12-17 11.01.13 - auto.zip] removed.
+[2018-12-21 17.58.18] Migrating iCDB upgrade backups from directory [LED_PANEL\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-21 17.58.18] Migrating iCDB upgrade backup file [2018-12-21 17.57.48-5112].
+[2018-12-21 17.58.19] Successfully created [Constraints Definition Upgrade] backup [2018-12-21 17.57.48 - consDefUpgr.zip] requested by [LUCAS:Lucas].
+[2018-12-21 17.58.19] Removing excessive [Constraints Definition Upgrade] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-19 13.42.12 - consDefUpgr.zip].
+[2018-12-21 17.58.19] [Constraints Definition Upgrade] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-19 13.42.12 - consDefUpgr.zip] removed.
+[2018-12-21 17.58.19] Migrated iCDB content backup file [cdbback\2018-12-21 17.57.48-5112.zip] removed.
+[2018-12-21 17.58.19] Successfully migrated iCDB upgrade backup file [2018-12-21 17.57.48-5112] to Project Backup format [2018-12-21 17.57.48 - consDefUpgr.zip]
+[2018-12-21 17.58.20] ERROR: Cannot create Project Backup file. Requested [AutoSave] backup by [DESKTOP-D6MOGOB:alexis] will not be created.
+[2018-12-21 17.58.28] Successfully created [AutoSave] backup [2018-12-21 17.58.25 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-21 17.58.28] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-17 15.57.44 - auto.zip].
+[2018-12-21 17.58.28] [AutoSave] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-17 15.57.44 - auto.zip] removed.
+[2018-12-22 20.02.11] Migrating iCDB upgrade backups from directory [LED_PANEL\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-22 20.02.11] Migrating iCDB upgrade backup file [2018-12-22 20.01.54-3128].
+[2018-12-22 20.02.11] Successfully created [Constraints Definition Upgrade] backup [2018-12-22 20.01.54 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-22 20.02.11] Removing excessive [Constraints Definition Upgrade] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-21 17.57.48 - consDefUpgr.zip].
+[2018-12-22 20.02.11] [Constraints Definition Upgrade] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-21 17.57.48 - consDefUpgr.zip] removed.
+[2018-12-22 20.02.11] Migrated iCDB content backup file [cdbback\2018-12-22 20.01.54-3128.zip] removed.
+[2018-12-22 20.02.11] Successfully migrated iCDB upgrade backup file [2018-12-22 20.01.54-3128] to Project Backup format [2018-12-22 20.01.54 - consDefUpgr.zip]
+[2018-12-22 20.02.13] Successfully created [AutoSave] backup [2018-12-22 20.02.11 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-22 20.02.13] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-19 09.04.42 - auto.zip].
+[2018-12-22 20.02.13] [AutoSave] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-19 09.04.42 - auto.zip] removed.
+[2018-12-29 21.44.56] Successfully created [AutoSave] backup [2018-12-29 21.44.54 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-29 21.44.56] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-19 13.43.04 - auto.zip].
+[2018-12-29 21.44.56] [AutoSave] backup file [LED_PANEL\Default\ProjectBackup\backups\2018-12-19 13.43.04 - auto.zip] removed.

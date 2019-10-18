@@ -1,0 +1,15 @@
+Part	Value	Device	Description	Quantity	Distributor code	Option	Part Number
+D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78	 	APA102C	RGB LED, SPI controlled, 5V, APA102C	78	 	 	20-0075
+J1	 	B2B-PH-SM4-TB	Embase mâle CMS JST 2 broches, 2mm, avec détrompeur, à sortie verticale, B2B-PH-SM4-TB	1	Fa : 9492534	 	70-0086
+C1	2.2nF	CAP C0603 2.2nF X7R 50V	Capacitor Ceramic X7R / 2.2nF / 50V / ±20% / case 0603	1	RS : 264-4573	 	10-0007
+C4	10uF	CAP C0603 10uF X5R 10V	Capacitor Ceramic X5R / 10uF / 10V / ±20% / case 0603	1	Fa : 2456110	 	10-0120
+C2	220nF	CAP C0805 220nF X7R 50V	Capacitor Ceramic X7R / 220nF / 50V / ±1.25% / case 0805	1	Fa : 8820139	 	10-0041
+C3	2.2uF	CAP C1206 2.2uF X7R 25V	Capacitor Ceramic X7R / 2.2uF / 25V / ±80% / case 1206	1	Fa : 1301808	 	10-0056
+C5	47uF	CAP C1210 47uF X5R 16V	Capacitor Ceramic X5R / 47uF / 16V / ±10% / case 1210 / Murata GRM32ER61C476KE15L 	1	Fa : 1907527	 	10-0095
+U1	 	LT1765ES8#PBF	3A 1.25 MHz Step-down Converter / Linear Tech LT1765ES8#PBF / Adj output / case SOIC8	1	Mouser : 584-LT1765ES8#PBF	 	40-0003
+D79	 	MBRS340	Diode Shottky 3A 0.5V OnSemi MBRS340 case SMC	1	Fa : 9557377	 	20-0001
+D80	 	MBR0540-T1	Diode Shottky 500mA 0.5V OnSemi MBRS540 case SOD123	1	Fa : 9556923	 	20-0019
+J2,J3	 	MICROMATCH-4	4pins smd on board connector Micromatch AMP 7-188275-4	2	Fa : 3784710	 	70-0014
+R1	10K 	RES_10.0k_0603	Resistor 10.0k ohms / 1% / case 0603	1	Fa : 1527581	 	01-0385
+R2	31.6K 	RES_31.6k_0603	Resistor 31.6k ohms / 1% / case 0603	1	Fa : 2073469	 	01-0433
+L1	8.2uH	SELF 8.2uH	Inductor blindée 8.2uH, 20%, 6.1A, 15MHz, 0.035ohms, Coilcraft XAL5050-822MEC, boitier 5.48x5.28	1	Fa : 2289072	 	50-0044

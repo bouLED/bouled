@@ -1,0 +1,6 @@
+
+Error: on opening parser input file (E:\BOULED\DESIGN\LED_PANEL\PCB\Config\LayerStackupSettings.hkp) for reading.
+(check for a file or directory permission problem)
+
+Error HKParser initialization error <3>
+Error reading LayerStackup Settings File "E:\BOULED\DESIGN\LED_PANEL\PCB\Config\LayerStackupSettings.hkp"

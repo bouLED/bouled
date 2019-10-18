@@ -1,0 +1,246 @@
+--------------------------------------------------------------------------------
+ Project integration - START (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+FE snapshot name: DCDV
+BE snapshot name: PCB_Layout_Temp
+Top level block: (2-1-5)
+Parameters: BAConnectivity,BAConstraints,FEWin,
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Connection synchronization - START (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4214-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(4247-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SCHOTTKY;8,(4266-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;9,(4335-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CON4_188275;2,(4535-1-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,RES;9,(4335-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CON4_188275;2,(4535-2-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,LT1765;1,(4308-3-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(4308-4-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(4308-5-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-6-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-7-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-8-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-9-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-10-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-11-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-12-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-13-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-14-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-15-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-16-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-17-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-18-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-19-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-20-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-21-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-22-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-23-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-24-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-25-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-26-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-27-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-28-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-29-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-30-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-31-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-32-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-33-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-34-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-35-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-36-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-37-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-38-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-39-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-40-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-41-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-42-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-43-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-44-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-45-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-46-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-47-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-48-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-49-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-50-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-51-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-52-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-53-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-54-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-55-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-56-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-57-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-58-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-59-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-60-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-61-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-62-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-63-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-64-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-65-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-66-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-67-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-68-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-69-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-70-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-71-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-72-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-73-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-74-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-75-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-76-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-77-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-78-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-79-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(4214-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-80-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,APA102;3,(4247-81-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SELF_L;2,(4214-82-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CAP_NP;5,(4214-83-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,SCHOTTKY;8,(4214-84-8)]
+	Property: Cell Name, Operation: Change
+[Ok][Modification] - [BE->FE] [P: Block,Schematic1,(2-1-5)] [O: FlatComp,CON2_S2B-PH-SM4-TB;2,(4214-85-8)]
+	Property: Cell Name, Operation: Change
+--------------------------------------------------------------------------------
+ Connection synchronization - END (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ CES synchronization - START (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - START (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ TOPOLOGY synchronization - END (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SMTOP,(4-1-23)] [O: CesConstraint,LAYER_TECH,(4-3-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SMTOP,(4-1-23)] [O: CesConstraint,HEIGHT,(4-4-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,TOP,(4-2-23)] [O: CesConstraint,LAYER_USAGE,(4-6-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,CORE,(4-3-23)] [O: CesConstraint,HEIGHT,(4-17-22)]
+[Ok][Deletion] - [BE->FE] [P: CesLayer,SMBOTTOM,(4-5-23)] [O: CesConstraint,LAYER_TECH,(4-29-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SMBOTTOM,(4-5-23)] [O: CesConstraint,HEIGHT,(4-30-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,TYP_IMPEDANCE,(4-86-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,TYP_IMPEDANCE,(4-92-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SMTOP,(4-1-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-2-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,CORE,(4-3-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-19-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayer,SMBOTTOM,(4-5-23)] [O: CesConstraint,LOSS_TAN_FREQ,(971-36-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-1-40)] [O: CesConstraint,DIFF_IMPEDANCE,(1257-1-22)]
+[Ok][Modification] - [BE->FE] [P: CesLayerRule,CesLayerRule,(4-3-40)] [O: CesConstraint,DIFF_IMPEDANCE,(1257-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SMTOP,(4-1-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(4604-1-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,TOP,(4-2-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(4604-2-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,TOP,(4-2-23)] [O: CesConstraint,POUR_DRAW_STYLE,(4604-3-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,CORE,(4-3-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(4604-4-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,BOTTOM,(4-4-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(4604-5-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,BOTTOM,(4-4-23)] [O: CesConstraint,POUR_DRAW_STYLE,(4604-6-22)]
+[Ok][Addition] - [BE->FE] [P: CesLayer,SMBOTTOM,(4-5-23)] [O: CesConstraint,ATTACHED_DIELECTRIC,(4604-7-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_AUTO_CALCULATE_ER,(4604-8-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_ENABLED,(4604-9-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_TRAPEZOIDAL_TRACE_SHAPES_ENABLED,(4604-10-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_MODEL,(4604-11-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_MODEL_FACTOR,(4604-12-22)]
+[Ok][Addition] - [BE->FE] [P: CesDesign,CesDesign,(2-1-21)] [O: CesConstraint,DSN_SURFACE_ROUGHNESS_PARAM,(4604-13-22)]
+--------------------------------------------------------------------------------
+ CES synchronization - END (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - START (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ VMVariant synchronization - END (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+ Project integration - END (2018-12-21 20:57:55) 
+--------------------------------------------------------------------------------

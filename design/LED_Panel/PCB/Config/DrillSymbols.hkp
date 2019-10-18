@@ -1,0 +1,14 @@
+.HoleName  "Rnd 0.3 +Tol 0.05 -Tol -0.1" 
+  ..AssignmentMethod  kUseDrlsymFromList 
+  ..DrillSymbolType  kCircleCircleDrlsym 
+  ..SymbolSize  1000000 
+  ..SymbolName  "" 
+
+
+.HoleName  "Rnd 1.5 +/-Tol 0.1 Non-Plated" 
+  ..AssignmentMethod  kUseCharAsDrlsym 
+  ..DrillSymbolType  kUndefinedDrlsym 
+  ..SymbolSize  1500000 
+  ..SymbolName  "H" 
+
+

@@ -1,0 +1,153 @@
+
+                                    Packager
+                                    --------
+
+                      09:57 PM Saturday, December 29, 2018
+               Job Name: E:\BOULED\DESIGN\LED_PANEL\LED_Panel.prj
+
+
+     Packager     Version: 020806.00
+
+        Commandline is: ""C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\bin\package.exe"  -jE:\BOULED\DESIGN\LED_PANEL\LED_Panel.prj -CleanBuild -NoFill"
+
+     The Common Database is at "E:\BOULED\DESIGN\LED_PANEL\Default\default.icdb".
+
+     The Root of this design is "Schematic1".
+
+     The Front End Snapshot of this design is "DCDV".
+
+     The PCB Design Path of this design is at "E:\BOULED\DESIGN\LED_PANEL\PCB\PCB.pcb".
+
+     The Central Library is at "F:\Central_Libs\ENST.lmc".
+
+     The Disable Repackage status indicates that 
+      Repackaging should be allowed.
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+     The cross mapping of symbol pin names to Part Number pin
+      numbers will be checked for packaged symbols and mapped correctly
+      for unpackaged symbols.
+
+     Properties that have been checked off in the Property Definition Editor
+      found at Library Manager/Common Properties will be checked for value
+      differences between the PartsDB and the non-null properties on symbols.
+     Those properties checked off (other than Part Number)
+      will not be transferred from the PartsDB to symbols.
+     The following properties were checked off in the Property Definition Editor:
+       "Parametric"
+       "Value2"
+       "Attachment"
+       "Verification Statut"
+       "Commentaire"
+       "Option"
+       "ESR"
+       "Imax"
+       "Place"
+       "Cout HT"
+       "Vf"
+       "Code Fournisseur"
+       "Boitier"
+       "Iac max"
+       "Voltage"
+       "Dielectric"
+       "Techno"
+       "IBIS"
+       "Model Suffix"
+       "Part Label"
+       "VHDL Model"
+       "Verilog Model"
+       "Supply Rename"
+       "Description"
+       "Simulation Model"
+       "Ref Designator"
+       "Tolerance"
+       "Part Number"
+       "Value"
+       "Part Name"
+
+	Checking for errors in the ICDB...
+
+	No errors found.  Proceeding with packaging...
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Integration\LocalPartsDB.pdb
+
+     Number of Part Numbers: 14
+          Part Numb: 01-0385 -> Vend Part: 01-0385 
+          Part Numb: 01-0433 -> Vend Part: 01-0433 
+          Part Numb: 10-0007 -> Vend Part: 10-0007 
+          Part Numb: 10-0041 -> Vend Part: 10-0041 
+          Part Numb: 10-0056 -> Vend Part: 10-0056 
+          Part Numb: 10-0095 -> Vend Part: 10-0095 
+          Part Numb: 10-0120 -> Vend Part: 10-0120 
+          Part Numb: 20-0001 -> Vend Part: 20-0001 
+          Part Numb: 20-0019 -> Vend Part: 20-0019 
+          Part Numb: 20-0075 -> Vend Part: 20-0075 
+          Part Numb: 40-0003 -> Vend Part: 40-0003 
+          Part Numb: 50-0044 -> Vend Part: 50-0044 
+          Part Numb: 70-0014 -> Vend Part: 70-0014 
+          Part Numb: 70-0086 -> Vend Part: 70-0086 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between non-null symbol properties and PartsDB properties,
+      but only for those properties checked off in the Property Definition Editor
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 92 Symbols:
+              92  *****************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     165 nets were found containing 507 pins
+     92 components were found
+
+     Parsed netlist - Augmenting..
+
+     Augmented - Adding phantom pins....
+
+     Numbering Nets....
+
+     Checking Pins....
+
+     Packaging has been successfully tested with no errors or warnings.
+
+     Updating the Common DataBase
+
+     A BAM WasIs List: Integration\CDBBackAnno.bam has been created.
+
+The Common DataBase has been successfully updated.
+
+     Packager finished successfully.
+     !THE iCDB IS UP-TO-DATE!
+     
+     An unused pin and gate report has been written to Integration\UnusedPins.txt
+     An unused gate report for gates not in schematic has been written to Integration\UnusedGates.txt
+     An augmented pin report has been written to Integration\AugmentedPins.txt.

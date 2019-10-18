@@ -1,0 +1,202 @@
+[2018.12.11 17:35:36] [0000m.00s.104ms] [0] WELCOME
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Base flow version [VX.2.4]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Machine [DESKTOP-D6MOGOB]  IP [10.0.2.15,127.0.0.1]  User [alexis]  PID [7628]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Current working dir [C:\Users\alexi\Documents\LED_Panel\PCB]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] PATH [C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\help;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\alexi\AppData\Local\Microsoft\WindowsApps]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] SDD_HOME [C:\mentorgraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] SDD_PLATFORM [win32]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] WDIR [C:\Users\alexi\Documents\WDIR;C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] Local iCDB working dir [C:\Users\alexi\Documents\WDIR\iCDB] on file system [NTFS]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.11 17:35:36] [0000m.00s.104ms] [2] S: Loading config files
+[2018.12.11 17:35:36] [0000m.00s.124ms] [1] Config file [E:\BouLED\design\LED_Panel\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.11 17:35:36] [0000m.00s.124ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.11 17:35:36] [0000m.00s.124ms] [3] S: Config loaded
+[2018.12.11 17:35:36] [0000m.00s.354ms] [0] S: Project path [E:\BouLED\design\LED_Panel\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.11 17:35:36] [0000m.00s.354ms] [0] S: Project global path [\\vboxsrv\2019\BouLED\design\LED_Panel\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.11 17:35:36] [0000m.00s.354ms] [0] S: Project file (.prj) path [\\vboxsrv\2019\BouLED\design\LED_Panel\LED_Panel.prj] on file system [UNKNOWN]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Project file (.prj) local path [E:\BouLED\design\LED_Panel\LED_Panel.prj] on file system [VBoxSharedFolderFS]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Multi-user mode (config)
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Event polling mode autodetection
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Started up automatically by iCDB Client: DESKTOP-D6MOGOB:alexis:6816
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Auto close mode
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Database ID [a413-8743-104a-b570-857e-f0cd-57ef-0c50-039f-509f-9fef-0fc8]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: BEGIN dumping
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\DESKTOP-D6MOGOB\print$]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\2019\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\mentor\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\windows\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [H:\] -> [\\vboxsrv\Windows\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [I:\] -> [\\vboxsrv\mentor\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\DESKTOP-D6MOGOB\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\vboxsrv\windows\] -> [G:\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\vboxsrv\Windows\] -> [H:\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [F:\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [I:\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: [\\vboxsrv\2019\] -> [E:\]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] PathTranslator: END dumping
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: START
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Server startup lock file created
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Listening for client connections on port [10001]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Server network ID [DESKTOP-D6MOGOB:10.0.2.15,DESKTOP-D6MOGOB:10001]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Server GUID [3a69-f40c-957a-7976-857e-f0cd-57ef-0c50-c0fd-509f-9fef-0fc8]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Project GUID [a413-8743-104a-b570-857e-f0cd-57ef-0c50-039f-509f-9fef-0fc8]
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Wrote data to server address file
+[2018.12.11 17:35:36] [0000m.00s.375ms] [0] S: Server startup lock file removed
+[2018.12.11 17:35:36] [0000m.00s.375ms] [1] ProjectBackupManager: Setting project file (.prj) path: [E:\BouLED\design\LED_Panel\LED_Panel.prj]
+[2018.12.11 17:35:36] [0000m.00s.480ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [LED_Panel\Default\default.icdb\cdbback] to Project Backup format.
+[2018.12.11 17:35:36] [0000m.00s.480ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2018-12-11 17.32.52-1060].
+[2018.12.11 17:35:36] [0000m.00s.605ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.32.52 - consDefUpgr.zip] with GUID [df05-1bfb-59ef-a23f-857e-f0cd-57ef-0c50-c0fd-509f-9fef-0fc8]
+[2018.12.11 17:35:36] [0000m.00s.626ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[4347-8c22-3cb3-13cf-4077-ccb9-077c-cb50-41cf-509f-9fef-0fc8] CreationTime[Sunday, October 21, 2018 12:52:11] Type[ConsDefUpgrade] Creator[iCDB Server (2018-10-21 14.52.18-4284)] ApplicationName[iCDB Server (2018-10-21 14.52.11-4396)] UserName[alexis] MachineName[DESKTOP-D6MOGOB] Description[Before constraint definitions upgrade using flow install:\n    Xpedition Enterprise X-ENTP VX.2.2; Xpedition Enterprise X-ENTP VX.2.2 - Update 3\n    Flow Id: EEVX.2.2\n    Install Id: 1589114; 1589126; 1632660\n    iCDB Build Id: 7609807\n    iCDB Version: 3300] FullFlowName[Xpedition Enterprise X-ENTP VX.2.2; Xpedition Enterprise X-ENTP VX.2.2 - Update 3] FlowId[EEVX.2.2] GBSInstallId[1589114; 1589126; 1632660] GBSBuildId[7609807] IcdbVersion[3300] ReferenceLogFilePath[] BackupFilePath[E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip] BackupFileSize[177971] Persistent[FALSE]
+[2018.12.11 17:35:36] [0000m.00s.626ms] [0] PrjBackupMgr: Project Backup file [E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip] with GUID [4347-8c22-3cb3-13cf-4077-ccb9-077c-cb50-41cf-509f-9fef-0fc8] removed
+[2018.12.11 17:35:36] [0000m.00s.626ms] [1] PrjBackupMgr: Migrated iCDB content backup file [E:\BouLED\design\LED_Panel\Default\default.icdb\cdbback\2018-12-11 17.32.52-1060.zip] removed
+[2018.12.11 17:35:36] [0000m.00s.626ms] [0] PrjBackupMgr: Successfully migrated iCDB upgrade backup file [2018-12-11 17.32.52-1060] to Project Backup format [2018-12-11 17.32.52 - consDefUpgr.zip]
+[2018.12.11 17:35:36] [0000m.00s.626ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2018-12-06 21.06.40-7516].
+[2018.12.11 17:35:36] [0000m.00s.709ms] [0] PrjBackupMgr: iCDB upgrade backup file [2018-12-06 21.06.40-7516] is excessive.
+[2018.12.11 17:35:36] [0000m.00s.709ms] [0] PrjBackupMgr: Excessive iCDB upgrade backup file [2018-12-06 21.06.40-7516] removed.
+[2018.12.11 17:35:36] [0000m.00s.730ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2018-12-06 19.13.10-5856].
+[2018.12.11 17:35:36] [0000m.00s.814ms] [0] PrjBackupMgr: iCDB upgrade backup file [2018-12-06 19.13.10-5856] is excessive.
+[2018.12.11 17:35:36] [0000m.00s.814ms] [0] PrjBackupMgr: Excessive iCDB upgrade backup file [2018-12-06 19.13.10-5856] removed.
+[2018.12.11 17:35:37] [0000m.00s.856ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.11 17:35:37] [0000m.00s.856ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.11 17:35:37] [0000m.00s.856ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.11 17:35:37] [0000m.00s.856ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.11 17:35:37] [0000m.00s.856ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.11 17:35:37] [0000m.00s.856ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.11 17:35:37] [0000m.00s.856ms] [0] S: Local disc access time: 31 us
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] S: File server access time: 885 us
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Single file [E:\BouLED\design\LED_Panel\Default\default.icdb\icdb.dat] size [245328 (239.6 kB)]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [1] Single file [E:\BouLED\design\LED_Panel\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Database GUARD OK: [245328]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Database GUARD OK: [245328]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Database GUARD OK: [245328]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Database GUARD OK: [245328]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] Database GUARD OK: [245328]
+[2018.12.11 17:35:37] [0000m.00s.877ms] [0] SingleFile: [2d11-e890-171a-d0a9] SFI version check [1009] [1009]
+[2018.12.11 17:35:37] [0000m.00s.939ms] [0] SingleFile: [2d11-e890-171a-d0a9] Database SFI header has been read in [38ms 279us]
+[2018.12.11 17:35:37] [0000m.00s.939ms] [0] iCDB Server PI: Server & plugin session [4274]
+[2018.12.11 17:35:37] [0000m.00s.939ms] [0] iCDB Server PI: Opening database [E:\BouLED\design\LED_Panel\Default\default.icdb]
+[2018.12.11 17:35:37] [0000m.00s.939ms] [0] iCDB Server PI: Database [E:\BouLED\design\LED_Panel\Default\default.icdb] opened
+[2018.12.11 17:35:37] [0000m.00s.960ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.11 17:35:37] [0000m.00s.960ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.11 17:35:37] [0000m.01s.023ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=ec49-fb41-b7ae-9a43-92d0-cfbe-2d0c-fb50-c20e-509f-9fef-0fc8] up to date
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] S: iCDB database loaded
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] S: Starting threads
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.11 17:35:37] [0000m.01s.089ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] IT: Session [4275] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [6816] created
+[2018.12.11 17:35:37] [0000m.01s.089ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.11 17:35:37] [0000m.01s.089ms] [1] SC[4275]: Registered sub-client [Expedition PCB_223515] with ID [1] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:37] [0000m.01s.232ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:37] [0000m.01s.357ms] [1] SC[4275]: Registered sub-client [EEVM] with ID [2] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:37] [0000m.01s.671ms] [1] SC[4275]: UnRegistered sub-client [EEVM] with ID [2] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:38] [0000m.02s.424ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_225437] with ID [3] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:38] [0000m.02s.445ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_225437] with ID [3] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:39] [0000m.02s.967ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.35.37 - auto.zip] with GUID [7531-1589-573d-ce75-957e-f0ce-57ef-0c50-0d3f-509f-9fef-0fc8]
+[2018.12.11 17:35:39] [0000m.02s.967ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[7531-1589-573d-ce75-957e-f0ce-57ef-0c50-0d3f-509f-9fef-0fc8] CreationTime[Tuesday, December 11, 2018 16:35:37] Type[Autosave] Creator[iCDB Server (2018-12-11 17.35.36-7628)] ApplicationName[iCDB Server (2018-12-11 17.35.36-7628)] UserName[alexis] MachineName[DESKTOP-D6MOGOB] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[E:\BouLED\design\LED_Panel\Default\ProjectBackup\backups\2018-12-11 17.35.37 - auto.zip] BackupFileSize[507372] Persistent[FALSE]
+[2018.12.11 17:35:39] [0000m.03s.114ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_225937] with ID [4] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:39] [0000m.03s.114ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_225937] with ID [4] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:39] [0000m.03s.652ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_226359] with ID [5] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:39] [0000m.03s.671ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_226359] with ID [5] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:40] [0000m.03s.858ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_226531] with ID [6] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:40] [0000m.03s.877ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_226531] with ID [6] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:40] [0000m.03s.971ms] [1] SC[4275]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:40] [0000m.03s.990ms] [1] SC[4275]: Registered sub-client [StartServerClient1ae0] with ID [8] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:40] [0000m.03s.990ms] [1] SC[4275]: UnRegistered sub-client [StartServerClient1ae0] with ID [8] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:46] [0000m.10s.350ms] [1] SC[4275]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:46] [0000m.10s.369ms] [1] SC[4275]: Registered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:46] [0000m.10s.369ms] [1] SC[4275]: UnRegistered sub-client [EEVM_EEVM_1700232] with ID [9] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:46] [0000m.10s.670ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_232187] with ID [10] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:46] [0000m.10s.689ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_232187] with ID [10] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:49] [0000m.13s.299ms] [1] SC[4275]: Registered sub-client [JobPrefsDBPI_234375] with ID [11] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:49] [0000m.13s.319ms] [1] SC[4275]: UnRegistered sub-client [JobPrefsDBPI_234375] with ID [11] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:50] [0000m.13s.921ms] [0] IT: Session [4276] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [7188] created
+[2018.12.11 17:35:50] [0000m.13s.921ms] [1] SC[4276]: Registered sub-client [Packager_234875] with ID [1] for session ID [4276] host [DESKTOP-D6MOGOB] user [alexis] process ID [7188]
+[2018.12.11 17:35:50] [0000m.14s.053ms] [1] CMT: There are [2] clients now: 4275, 4276
+[2018.12.11 17:35:50] [0000m.14s.392ms] [1] SC[4276]: UnRegistered sub-client [Packager_234875] with ID [1] for session ID [4276] host [DESKTOP-D6MOGOB] user [alexis] process ID [7188]
+[2018.12.11 17:35:50] [0000m.14s.523ms] [1] CMT: Removed client [4276]
+[2018.12.11 17:35:50] [0000m.14s.523ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:50] [0000m.14s.749ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\BouLED\design\LED_Panel\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2018.12.11 17:35:51] [0000m.15s.201ms] [0] IT: Session [4277] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [1748] created
+[2018.12.11 17:35:51] [0000m.15s.201ms] [1] SC[4277]: Registered sub-client [Expedition_235937] with ID [1] for session ID [4277] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:51] [0000m.15s.258ms] [1] SC[4277]: UnRegistered sub-client [Expedition_235937] with ID [1] for session ID [4277] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:51] [0000m.15s.314ms] [1] CMT: There are [2] clients now: 4275, 4277
+[2018.12.11 17:35:51] [0000m.15s.314ms] [1] CMT: Removed client [4277]
+[2018.12.11 17:35:51] [0000m.15s.314ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:52] [0000m.16s.241ms] [0] IT: Session [4278] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [1748] created
+[2018.12.11 17:35:52] [0000m.16s.241ms] [1] SC[4278]: Registered sub-client [JobPrefsDBPI_236859] with ID [1] for session ID [4278] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:52] [0000m.16s.258ms] [1] SC[4278]: UnRegistered sub-client [JobPrefsDBPI_236859] with ID [1] for session ID [4278] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:52] [0000m.16s.275ms] [1] CMT: There are [2] clients now: 4275, 4278
+[2018.12.11 17:35:52] [0000m.16s.275ms] [1] CMT: Removed client [4278]
+[2018.12.11 17:35:52] [0000m.16s.275ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:53] [0000m.16s.902ms] [0] IT: Session [4279] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [1748] created
+[2018.12.11 17:35:53] [0000m.16s.902ms] [1] SC[4279]: Registered sub-client [JobPrefsDBPI_237484] with ID [1] for session ID [4279] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:53] [0000m.16s.919ms] [1] SC[4279]: UnRegistered sub-client [JobPrefsDBPI_237484] with ID [1] for session ID [4279] host [DESKTOP-D6MOGOB] user [alexis] process ID [1748]
+[2018.12.11 17:35:53] [0000m.16s.987ms] [1] CMT: There are [2] clients now: 4275, 4279
+[2018.12.11 17:35:53] [0000m.16s.987ms] [1] CMT: Removed client [4279]
+[2018.12.11 17:35:53] [0000m.16s.987ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:54] [0000m.18s.511ms] [0] IT: Session [4280] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [7272] created
+[2018.12.11 17:35:54] [0000m.18s.528ms] [1] SC[4280]: Registered sub-client [JobPrefsDBPI_238937] with ID [1] for session ID [4280] host [DESKTOP-D6MOGOB] user [alexis] process ID [7272]
+[2018.12.11 17:35:54] [0000m.18s.545ms] [1] CMT: There are [2] clients now: 4275, 4280
+[2018.12.11 17:35:54] [0000m.18s.562ms] [1] SC[4280]: Registered sub-client [Expedition_239031] with ID [2] for session ID [4280] host [DESKTOP-D6MOGOB] user [alexis] process ID [7272]
+[2018.12.11 17:35:54] [0000m.18s.595ms] [1] SC[4280]: UnRegistered sub-client [JobPrefsDBPI_238937] with ID [1] for session ID [4280] host [DESKTOP-D6MOGOB] user [alexis] process ID [7272]
+[2018.12.11 17:35:54] [0000m.18s.697ms] [1] SC[4280]: UnRegistered sub-client [Expedition_239031] with ID [2] for session ID [4280] host [DESKTOP-D6MOGOB] user [alexis] process ID [7272]
+[2018.12.11 17:35:54] [0000m.18s.782ms] [1] CMT: Removed client [4280]
+[2018.12.11 17:35:54] [0000m.18s.782ms] [1] CMT: There are [1] clients now: 4275
+[2018.12.11 17:35:55] [0000m.19s.425ms] [1] SC[4275]: Registered sub-client [EEVM_EEVM_363149988] with ID [12] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:55] [0000m.19s.425ms] [1] SC[4275]: UnRegistered sub-client [EEVM_EEVM_363149988] with ID [12] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:55] [0000m.19s.493ms] [1] SC[4275]: Registered sub-client [EEVM_EEVM_363149988] with ID [13] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:55] [0000m.19s.493ms] [1] SC[4275]: UnRegistered sub-client [EEVM_EEVM_363149988] with ID [13] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:55] [0000m.19s.510ms] [1] SC[4275]: Registered sub-client [EEVM_EEVM_363143844] with ID [14] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:55] [0000m.19s.510ms] [1] SC[4275]: UnRegistered sub-client [EEVM_EEVM_363143844] with ID [14] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:56] [0000m.20s.018ms] [1] SC[4275]: UnRegistered sub-client [Expedition PCB_223515] with ID [1] for session ID [4275] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:56] [0000m.20s.086ms] [1] CMT: Removed client [4275]
+[2018.12.11 17:35:56] [0000m.20s.086ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.11 17:35:56] [0000m.20s.543ms] [0] IT: Session [4281] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [6816] created
+[2018.12.11 17:35:56] [0000m.20s.543ms] [1] SC[4281]: Registered sub-client [Expedition PCB_240828] with ID [1] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:56] [0000m.20s.780ms] [1] SC[4281]: Registered sub-client [JobPrefsDBPI_241093] with ID [2] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:35:56] [0000m.20s.797ms] [1] SC[4281]: UnRegistered sub-client [JobPrefsDBPI_241093] with ID [2] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:01] [0000m.25s.125ms] [1] SC[4281]: Registered sub-client [JobPrefsDBPI_245093] with ID [3] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:01] [0000m.25s.132ms] [1] SC[4281]: UnRegistered sub-client [JobPrefsDBPI_245093] with ID [3] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:01] [0000m.25s.192ms] [1] SC[4281]: Registered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:14] [0000m.37s.944ms] [0] DFAMT: File server access time: 1593 us
+[2018.12.11 17:36:14] [0000m.38s.204ms] [1] SC[4281]: UnRegistered sub-client [ExpeditionCrossProber] with ID [4] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:14] [0000m.38s.767ms] [1] SC[4281]: UnRegistered sub-client [Expedition PCB_240828] with ID [1] for session ID [4281] host [DESKTOP-D6MOGOB] user [alexis] process ID [6816]
+[2018.12.11 17:36:15] [0000m.38s.849ms] [1] CMT: Removed client [4281]
+[2018.12.11 17:36:15] [0000m.38s.849ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.11 17:36:17] [0000m.40s.879ms] [0] CMT: Starting server auto-close
+[2018.12.11 17:36:17] [0000m.40s.975ms] [0] S: Closing server
+[2018.12.11 17:36:17] [0000m.41s.112ms] [0] iCDB Server PI: Closing plugins
+[2018.12.11 17:36:17] [0000m.41s.112ms] [0] iCDB Server PI: Plugins closed
+[2018.12.11 17:36:17] [0000m.41s.112ms] [0] iCDB Server PI: Unloading database
+[2018.12.11 17:36:17] [0000m.41s.112ms] [0] iCDB Server PI: Saving storage
+[2018.12.11 17:36:17] [0000m.41s.112ms] [0] iCDB Server PI: Closing database
+[2018.12.11 17:36:17] [0000m.41s.142ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[4%] data[95%]
+[2018.12.11 17:36:17] [0000m.41s.142ms] [1] iCDB Server PI: Stats: Database file size [250456 (244.6 kB)]
+[2018.12.11 17:36:17] [0000m.41s.167ms] [0] iCDB Server PI: Database closed
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [427760] ticks
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [42776] microseconds
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [40]
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [935] commands per second
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: Mem[37126144]
+[2018.12.11 17:36:17] [0000m.41s.167ms] [1] iCDB Server PI: Stats: MemPeak[42328064]
+[2018.12.11 17:36:17] [0000m.41s.181ms] [0] Single file [E:\BouLED\design\LED_Panel\Default\default.icdb\icdb.dat] closed with size [250456 (244.6 kB)]
+[2018.12.11 17:36:17] [0000m.41s.359ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.11 17:36:17] [0000m.41s.359ms] [0] MWT: STOP
+[2018.12.11 17:36:17] [0000m.41s.359ms] [0] S: STOP

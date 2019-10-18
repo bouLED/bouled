@@ -1,0 +1,95 @@
+
+                                Circuit Paste log
+                                -----------------
+
+                       01:56 PM Sunday, November 12, 2017
+                   Job Name: C:\t\Project_template\PCB\PCB.pcb
+
+         Clipboard: C:\Users\alexi\AppData\Local\Temp\mgc_icc_clipboard_tmp\Layout\
+    
+
+    UNMAPPED NETS:
+           GND
+    1 unmapped net(s) found
+
+
+Checking Ref Des Map
+--------------------
+
+Checking Ref Des Map completed
+    Map is OK
+
+
+Checking Netlist Mapping (using schematic circuit definitions)
+--------------------------------------------------------------
+
+Checking Netlist Map completed
+    0 Error(s) fixed
+
+Updating Local Libraries
+------------------------
+
+Library update is not required
+
+
+Loading Padstacks
+-----------------
+
+0 Padstacks were created
+
+
+Synthesizing EP Components
+--------------------------
+
+EP Component synthesizing is completed
+    0 Components are synthesized
+
+
+Placing Components
+------------------
+
+Component placement complete
+    0 Components were placed
+
+
+Loading net items
+-----------------
+
+Loading of Net items complete
+    1 objects were created
+        1 plane shapes
+
+
+Loading Fiducials
+-----------------
+
+Fiducial loading completed
+    0 fiducials are created
+
+
+Loading spacers
+---------------
+
+Loading spacers complete
+    0 objects were created
+
+
+Loading Texts
+-------------
+
+Text loading complete
+    0 texts were created
+
+
+Loading Drawings
+----------------
+
+Drawing loading completed
+    0 drawings were created
+
+
+Loading Dimension Data
+----------------------
+
+Dimension Data loading completed
+    0 dimensions were created

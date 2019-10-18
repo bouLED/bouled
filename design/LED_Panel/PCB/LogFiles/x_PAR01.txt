@@ -1,0 +1,244 @@
+C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\PCB\PCB.pcb
+C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\bin\ExpeditionPCB.exe
+Computer name: LUCAS
+Local host name: Lucas
+Full computer name: Lucas (137.194.121.215)
+DNS computer name: Lucas.enst.fr
+Microsoft Windows NT Core 6.2 (Build 9200)
+RAM: 6024 Mb
+8 CPU Intel64 Family 6 Model 58 Stepping 9 2395 Mhz (Intel Core i7-3630QM 2.40GHz)
+
+
+Distributed Autorouter parameters:
+[Server]
+XAR MultiThreaded=0
+PushMode=1
+UseFreeClients=1
+UseFrames=1
+Out=0
+XDebugBreak=0
+RoutePlanning=1
+NoVia=0
+FanoutsPass2=0
+ReportOnlineHazards=0
+ReduceOnIdleCalls=1
+[Client]
+SyncOnAttempt=1
+SendObstacleMarks=0
+UnmarkObstacles=0
+AskInterruptFT=1
+XDebugBreak=0
+XRipupSleep=0
+PcbThingRefresh=1
+UpdateNetlines=0
+[Report]
+Digits=0
+Log=0
+ServiceTime=1
+
+UsedMemory: Init 90036 K ->Peak 351148 K
+
+====================================================================================================================
+Fanout 1-3 All Nets Layers:All
+====================================================================================================================
+                CPU Time CLK Time Svc Time Server FailTime SendTime Trans ExecTime LostTime Rte Time      UsedMemory
+Eff NoFTs Tries hh:mm:ss hh:mm:ss hh:mm:ss  Fails hh:mm:ss hh:mm:ss Execs hh:mm:ss hh:mm:ss hh:mm:ss   Start     End
+--------------------------------------------------------------------------------------------------------------------
+1     984   984 00:00:01 00:00:01 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:01  340668  340732
+2      12    12 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:00  340896  341060
+3      10    10 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:00  341060  341060
+--------------------------------------------------------------------------------------------------------------------
+1-3  1006  1006 00:00:01 00:00:01 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:01  340668  341060
+
+====================================================================================================================
+No Via 1-2 All Nets Layers:All
+====================================================================================================================
+                CPU Time CLK Time Svc Time Server FailTime SendTime Trans ExecTime LostTime Rte Time      UsedMemory
+Eff NoFTs Tries hh:mm:ss hh:mm:ss hh:mm:ss  Fails hh:mm:ss hh:mm:ss Execs hh:mm:ss hh:mm:ss hh:mm:ss   Start     End
+--------------------------------------------------------------------------------------------------------------------
+1     251   251 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:00  341060  341388
+2      60    60 00:00:00 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00 00:00:00 00:00:00  341388  341388
+--------------------------------------------------------------------------------------------------------------------
+1-2   311   311 00:00:01 00:00:00 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:01  341060  343000
+
+All  1317  1317 00:00:02 00:00:02 00:00:00      0 00:00:00 00:00:00     0 00:00:00-00:00:00 00:00:02  340084  343000
+
+
+############################################### Additional Route Info ##############################################
+
+====================================================================================================================
+Fanout 1-3 All Nets Layers:All
+====================================================================================================================
+                                         CPU Time CLK Time    CPU Mean    CLK Mean In Server CPU Time CLK Time
+Eff                      Func      Calls hh:mm:ss hh:mm:ss hh:mm:ss.dd hh:mm:ss.dd     Fails hh:mm:ss hh:mm:ss
+--------------------------------------------------------------------------------------------------------------------
+1  
+    Attempts                         490
+    RouteFails                         5
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                          485
+    PRF_Route                        490 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                      485 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                   485 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                     986 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                   1939 00:00:00 00:00:00
+    UpdateRouterMap                    2 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:01
+    Opens                            333 -81=252
+    TrackLength          (mm)       0.00 +648.38=648.38
+    GlobalCheckSum            83a09ab0->c2f1ceb9
+2  
+    Attempts                           5
+    RouteFails                         4
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            1
+    PRF_Route                          5 00:00:00 00:00:00 00:00:00.01 00:00:00.01
+    PRF_Resolve                        1 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                     1 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                      14 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                      3 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:00
+    Opens                            252 -1=251
+    TrackLength          (mm)     648.38 +7.71=656.09
+    GlobalCheckSum            c2f1ceb9->cecbd144
+3  
+    Attempts                           8
+    RouteFails                         8
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                            0
+    PRF_Route                          8 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                        0 00:00:00 00:00:00
+    PRF_Straighten                     0 00:00:00 00:00:00
+    xTransaction                      12 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                      0 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:00
+    Opens                            251 -0=251
+    TrackLength          (mm)     656.09 +0.00=656.09
+    GlobalCheckSum            cecbd144->cecbd144
+--------------------------------------------------------------------------------------------------------------------
+1-3
+    Attempts                         503
+    RouteFails                        17
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                          486
+    PRF_Route                        503 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                      486 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                   486 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                    1012 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                   1942 00:00:00 00:00:00
+    UpdateRouterMap                    2 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:01
+    Opens                            333 -82=251
+    TrackLength          (mm)       0.00 +656.09=656.09
+    GlobalCheckSum            83a09ab0->cecbd144
+
+====================================================================================================================
+No Via 1-2 All Nets Layers:All
+====================================================================================================================
+                                         CPU Time CLK Time    CPU Mean    CLK Mean In Server CPU Time CLK Time
+Eff                      Func      Calls hh:mm:ss hh:mm:ss hh:mm:ss.dd hh:mm:ss.dd     Fails hh:mm:ss hh:mm:ss
+--------------------------------------------------------------------------------------------------------------------
+1  
+    Attempts                         218
+    RouteFails                        27
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                          191
+    PRF_Route                        218 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                      191 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                   191 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                     252 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                    573 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:00
+    Opens                            251 -191=60
+    TrackLength          (mm)     656.09 +2187.21=2843.30
+    GlobalCheckSum            cecbd144->baff7e71
+2  
+    Attempts                          30
+    RouteFails                         2
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                           28
+    PRF_Route                         30 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                       28 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                    28 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                      61 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                     84 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                             00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:00
+    Opens                             60 -28=32
+    TrackLength          (mm)    2843.30 +54.05=2897.35
+    GlobalCheckSum            baff7e71->1073a633
+--------------------------------------------------------------------------------------------------------------------
+1-2
+    Attempts                         248
+    RouteFails                        29
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                          219
+    PRF_Route                        248 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                      219 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                   219 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                     313 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                    657 00:00:00 00:00:00
+    UpdateRouterMap                    0 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                         00:00:00
+    RouteTime                            00:00:01
+    Opens                            251 -219=32
+    TrackLength          (mm)     656.09 +2241.26=2897.35
+    GlobalCheckSum            cecbd144->1073a633
+
+All
+    Attempts                         751
+    RouteFails                        46
+    PushFails                          0
+    FatalFails                         0
+    RerouteFails                       0
+    NoFails                          705
+    PRF_Route                        751 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Resolve                      705 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    PRF_Straighten                   705 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    xTransaction                    1325 00:00:00 00:00:00 00:00:00.00 00:00:00.00
+    StraightenNet                   2599 00:00:00 00:00:00
+    UpdateRouterMap                    2 00:00:00 00:00:00
+    PumpWindowsMessages                0 00:00:00 00:00:00
+    WaitTime                            -00:00:00
+      WaitEffort                        -00:00:00
+    RouteTime                            00:00:02
+    Opens                            333 -301=32
+    TrackLength          (mm)       0.00 +2897.35=2897.35
+    GlobalCheckSum            83a09ab0->1073a633

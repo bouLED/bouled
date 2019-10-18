@@ -1,0 +1,27 @@
+=======================================================================
+Xpedition Layout - Version 118.0.112.84664
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\PCB\
+
+
+Design Units:(um)
+
+Replace Cell Log:   repCellLog07.txt
+
+Sat Dec 15 12:27:17 2018
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sat Dec 15 12:27:17 2018  ---------------
+
+
+
+
+---------------    Sat Dec 15 12:27:17 2018  ---------------
+
+

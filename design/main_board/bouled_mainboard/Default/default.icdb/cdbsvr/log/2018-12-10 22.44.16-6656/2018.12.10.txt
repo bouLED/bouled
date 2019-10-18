@@ -1,0 +1,174 @@
+[2018.12.10 22:44:16] [0000m.00s.062ms] [0] WELCOME
+[2018.12.10 22:44:16] [0000m.00s.076ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.10 22:44:16] [0000m.00s.076ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.10 22:44:16] [0000m.00s.076ms] [1] Base flow version [VX.2.4]
+[2018.12.10 22:44:16] [0000m.00s.076ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.10 22:44:16] [0000m.00s.076ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1,137.194.121.3]  User [Zor]  PID [6656]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] Current working dir [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] SDD_PLATFORM [win32]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.10 22:44:16] [0000m.00s.092ms] [2] S: Loading config files
+[2018.12.10 22:44:16] [0000m.00s.140ms] [1] Config file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.10 22:44:16] [0000m.00s.140ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.10 22:44:16] [0000m.00s.155ms] [3] S: Config loaded
+[2018.12.10 22:44:17] [0000m.00s.435ms] [0] S: Project path [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Project global path [\\vboxsrv\bouled\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Project file (.prj) path [\\vboxsrv\bouled\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\bouled_mainboard.prj] on file system [UNKNOWN]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Project file (.prj) local path [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\bouled_mainboard.prj] on file system [VBoxSharedFolderFS]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Multi-user mode (config)
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Event polling mode autodetection
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Started up automatically by iCDB Client: DESKTOP-GIDMTNA:Zor:5648
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Auto close mode
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Database ID [47cc-73ac-fb03-50c6-03ed-e0c5-3ede-0c50-db56-5635-b673-42bb]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: BEGIN dumping
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\bouled\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\mentor\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\mentor\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [\\vboxsrv\bouled\] -> [E:\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [\\VBOXSVR\mentor\] -> [F:\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [G:\]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] PathTranslator: END dumping
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: START
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Server startup lock file created
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Listening for client connections on port [10000]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Server network ID [DESKTOP-GIDMTNA:10.0.2.15,137.194.121.3,DESKTOP-GIDMTNA:10000]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Server GUID [f0cf-1852-4d01-1471-13ed-e0c6-3ede-0c50-9cf6-5635-b673-42bb]
+[2018.12.10 22:44:17] [0000m.00s.452ms] [0] S: Project GUID [47cc-73ac-fb03-50c6-03ed-e0c5-3ede-0c50-db56-5635-b673-42bb]
+[2018.12.10 22:44:17] [0000m.00s.468ms] [0] S: Wrote data to server address file
+[2018.12.10 22:44:17] [0000m.00s.468ms] [0] S: Server startup lock file removed
+[2018.12.10 22:44:17] [0000m.00s.468ms] [1] ProjectBackupManager: Setting project file (.prj) path: [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\bouled_mainboard.prj]
+[2018.12.10 22:44:17] [0000m.00s.712ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.10 22:44:17] [0000m.00s.712ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.10 22:44:17] [0000m.00s.712ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.10 22:44:17] [0000m.00s.712ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.10 22:44:17] [0000m.00s.712ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.10 22:44:17] [0000m.00s.712ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.10 22:44:17] [0000m.00s.728ms] [0] S: Local disc access time: 71 us
+[2018.12.10 22:44:17] [0000m.00s.728ms] [0] S: File server access time: 3810 us
+[2018.12.10 22:44:17] [0000m.00s.728ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.10 22:44:17] [0000m.00s.728ms] [0] S: WARNING: The last iCDB Server session [DESKTOP-GIDMTNA (2018-12-10 20.15.29-3320)] with GUID [c0f9-255b-ecea-51e6-15bb-e0c6-5bbe-0c50-ba80-df6f-60ef-fec8] shutdown unexpectedly. Database integrity check forced.
+[2018.12.10 22:44:17] [0000m.00s.743ms] [0] Single file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\icdb.dat] size [251752 (245.9 kB)]
+[2018.12.10 22:44:17] [0000m.00s.743ms] [1] Single file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.10 22:44:17] [0000m.00s.743ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.743ms] [0] Database GUARD OK: [251752]
+[2018.12.10 22:44:17] [0000m.00s.743ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.743ms] [0] Database GUARD OK: [251752]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] Database GUARD OK: [251752]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] Database GUARD OK: [251752]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] Database GUARD OK: [251752]
+[2018.12.10 22:44:17] [0000m.00s.758ms] [0] SingleFile: [1601-ca97-e065-aec2] SFI version check [1009] [1009]
+[2018.12.10 22:44:17] [0000m.00s.821ms] [0] SingleFile: [1601-ca97-e065-aec2] Reset holes information - force defragmentation
+[2018.12.10 22:44:17] [0000m.00s.821ms] [0] SingleFile: [1601-ca97-e065-aec2] Database SFI header has been read in [56ms 596us]
+[2018.12.10 22:44:17] [0000m.00s.821ms] [0] iCDB Server PI: Server & plugin session [4228]
+[2018.12.10 22:44:17] [0000m.00s.821ms] [0] iCDB Server PI: Opening database [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb]
+[2018.12.10 22:44:17] [0000m.00s.821ms] [0] iCDB Server PI: Database [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb] opened
+[2018.12.10 22:44:17] [0000m.00s.902ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.10 22:44:17] [0000m.00s.902ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.10 22:44:17] [0000m.00s.963ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8] up to date
+[2018.12.10 22:44:17] [0000m.01s.025ms] [1] iCDB Server PI: Checking database integrity
+[2018.12.10 22:44:17] [0000m.01s.059ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.076ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.10 22:44:17] [0000m.01s.076ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.091ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.10 22:44:17] [0000m.01s.170ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.170ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.10 22:44:17] [0000m.01s.170ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.186ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.10 22:44:17] [0000m.01s.202ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.202ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.10 22:44:17] [0000m.01s.202ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.217ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s6\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.10 22:44:17] [0000m.01s.217ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.10 22:44:17] [0000m.01s.217ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.10 22:44:17] [0000m.01s.217ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.10 22:44:18] [0000m.01s.249ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\s7\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.10 22:44:18] [0000m.01s.264ms] [1] iCDB Server PI: Database integrity check PASSED
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] S: iCDB database loaded
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] S: Starting threads
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.10 22:44:18] [0000m.01s.264ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.10 22:44:18] [0000m.01s.264ms] [0] IT: Session [4229] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [5648] created
+[2018.12.10 22:44:18] [0000m.01s.279ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.10 22:44:18] [0000m.01s.295ms] [1] SC[4229]: Registered sub-client [Expedition PCB_4251703] with ID [1] for session ID [4229] host [DESKTOP-GIDMTNA] user [Zor] process ID [5648]
+[2018.12.10 22:44:18] [0000m.01s.374ms] [1] CMT: There are [1] clients now: 4229
+[2018.12.10 22:44:18] [0000m.01s.467ms] [0] IT: Session [4230] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [7056] created
+[2018.12.10 22:44:18] [0000m.01s.467ms] [1] SC[4230]: Registered sub-client [DCDV] with ID [1] for session ID [4230] host [DESKTOP-GIDMTNA] user [Zor] process ID [7056]
+[2018.12.10 22:44:18] [0000m.01s.483ms] [1] CMT: There are [2] clients now: 4229, 4230
+[2018.12.10 22:44:18] [0000m.01s.530ms] [1] SC[4229]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [4229] host [DESKTOP-GIDMTNA] user [Zor] process ID [5648]
+[2018.12.10 22:44:57] [0000m.40s.427ms] [0] DFAMT: File server access time: 1256 us
+[2018.12.10 22:57:54] [0013m.37s.721ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 22.57.52 - auto.zip] with GUID [0a6b-34d6-354c-734d-061e-e0c5-61ee-0c50-dc95-5635-b673-42bb]
+[2018.12.10 22:57:54] [0013m.37s.721ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[0a6b-34d6-354c-734d-061e-e0c5-61ee-0c50-dc95-5635-b673-42bb] CreationTime[Monday, December 10, 2018 21:57:52] Type[Autosave] Creator[iCDB Server (2018-12-10 22.44.16-6656)] ApplicationName[iCDB Server (2018-12-10 22.44.16-6656)] UserName[Zor] MachineName[DESKTOP-GIDMTNA] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 22.57.52 - auto.zip] BackupFileSize[1737530] Persistent[FALSE]
+[2018.12.10 23:06:52] [0022m.35s.394ms] [1] SC[4230]: Registered sub-client [StartServerClient77c] with ID [2] for session ID [4230] host [DESKTOP-GIDMTNA] user [Zor] process ID [7056]
+[2018.12.10 23:06:52] [0022m.35s.394ms] [1] SC[4230]: UnRegistered sub-client [StartServerClient77c] with ID [2] for session ID [4230] host [DESKTOP-GIDMTNA] user [Zor] process ID [7056]
+[2018.12.10 23:52:27] [0068m.11s.124ms] [1] SC[4230]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4230] host [DESKTOP-GIDMTNA] user [Zor] process ID [7056]
+[2018.12.10 23:52:28] [0068m.11s.291ms] [1] CMT: Removed client [4230]
+[2018.12.10 23:52:28] [0068m.11s.291ms] [1] CMT: There are [1] clients now: 4229
+[2018.12.10 23:52:32] [0068m.15s.520ms] [1] SC[4229]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [4229] host [DESKTOP-GIDMTNA] user [Zor] process ID [5648]
+[2018.12.10 23:52:33] [0068m.17s.005ms] [1] SC[4229]: UnRegistered sub-client [Expedition PCB_4251703] with ID [1] for session ID [4229] host [DESKTOP-GIDMTNA] user [Zor] process ID [5648]
+[2018.12.10 23:52:33] [0068m.17s.086ms] [1] CMT: Removed client [4229]
+[2018.12.10 23:52:33] [0068m.17s.086ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.10 23:52:35] [0068m.18s.344ms] [0] CMT: Starting server auto-close
+[2018.12.10 23:52:35] [0068m.18s.843ms] [0] S: Closing server
+[2018.12.10 23:52:35] [0068m.19s.201ms] [0] iCDB Server PI: Closing plugins
+[2018.12.10 23:52:36] [0068m.19s.295ms] [0] iCDB Server PI: Plugins closed
+[2018.12.10 23:52:36] [0068m.19s.296ms] [0] iCDB Server PI: Unloading database
+[2018.12.10 23:52:36] [0068m.19s.297ms] [0] iCDB Server PI: Saving storage
+[2018.12.10 23:52:36] [0068m.19s.297ms] [0] iCDB Server PI: Closing database
+[2018.12.10 23:52:36] [0068m.19s.306ms] [1] iCDB Server PI: Stats: Database defragmentation: max[5] avg[1] holes[1%] data[94%]
+[2018.12.10 23:52:36] [0068m.19s.309ms] [1] iCDB Server PI: Stats: Database file size [257460 (251.4 kB)]
+[2018.12.10 23:52:36] [0068m.19s.309ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2018.12.10 23:52:36] [0068m.19s.364ms] [0] iCDB Server PI: Database closed
+[2018.12.10 23:52:36] [0068m.19s.436ms] [0] iCDB Server PI: Defragmenting database
+[2018.12.10 23:52:36] [0068m.19s.551ms] [0] iCDB Server PI: Creating database [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb] backup to file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbback\2018-12-10 23.52.36-6656-d.zip]
+[2018.12.10 23:52:38] [0068m.21s.852ms] [0] MWT: WM_QUERYENDSESSION
+[2018.12.10 23:52:38] [0068m.21s.937ms] [0] MWT: Requesting emergency server stop: Got a message: WM_QUERYENDSESSION
+[2018.12.10 23:52:38] [0068m.21s.937ms] [0] Removing server address file.
+[2018.12.10 23:52:40] [0068m.24s.136ms] [0] iCDB Server PI: ERROR [Data Exception: Category[Data] Error[OpenFileError] Description[Error while trying to open file] Message[Could not open file: [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\sAddress.adr]]]: Defragmenting database
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [635718] ticks
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [63571] microseconds
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [63]
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [991] commands per second
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: Mem[36986880]
+[2018.12.10 23:52:40] [0068m.24s.136ms] [1] iCDB Server PI: Stats: MemPeak[41943040]
+[2018.12.10 23:52:40] [0068m.24s.152ms] [0] Single file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\icdb.dat] closed with size [257460 (251.4 kB)]
+[2018.12.10 23:52:40] [0068m.24s.152ms] [2] SDL: Removing all connected iCDB Server Monitor
+[2018.12.10 23:52:40] [0068m.24s.152ms] [2] S: Unloading ENetGen plugin from file [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin\..\lib\ENetGen70.dll]
+[2018.12.10 23:52:40] [0068m.24s.152ms] [2] S: Unloading PIM plugin from file [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin\..\lib\PIM.dll]
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] ST: FREE
+[2018.12.10 23:52:40] [0068m.24s.204ms] [4] ST: Waiting for finish
+[2018.12.10 23:52:40] [0068m.24s.204ms] [2] ST: STOP
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] MET: FREE
+[2018.12.10 23:52:40] [0068m.24s.204ms] [4] MET: Waiting for finish
+[2018.12.10 23:52:40] [0068m.24s.204ms] [2] MET: STOP
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] MCE: FREE
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] ELMT: FREE
+[2018.12.10 23:52:40] [0068m.24s.204ms] [4] ELMT: Waiting for finish
+[2018.12.10 23:52:40] [0068m.24s.204ms] [2] ELMT: STOP
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] EventLogDataFile: EventLog data file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\events\events.dat] closed
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] EventLogIndexFile: EventLog index file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\events\events.idx] closed
+[2018.12.10 23:52:40] [0068m.24s.204ms] [4] ELMT: FINISHED
+[2018.12.10 23:52:40] [0068m.24s.204ms] [3] AT: FREE
+[2018.12.10 23:52:40] [0068m.24s.204ms] [4] AT: Waiting for finish
+[2018.12.10 23:52:41] [0068m.24s.252ms] [2] AT: Removing server address file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\sAddress.adr]
+[2018.12.10 23:52:41] [0068m.24s.252ms] [0] AT: ERROR: Could not remove server address file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\cdbsvr\sAddress.adr]
+[2018.12.10 23:52:41] [0068m.24s.252ms] [2] AT: STOP
+[2018.12.10 23:52:41] [0068m.24s.252ms] [3] BT: FREE
+[2018.12.10 23:52:41] [0068m.24s.252ms] [4] BT: Waiting for finish
+[2018.12.10 23:52:41] [0068m.24s.340ms] [4] BT: Sending broadcast on port [10000]: NotifyProjectGlobalStatus @ Version[1] # Id[Sender GUID[f0cf-1852-4d01-1471-13ed-e0c6-3ede-0c50-9cf6-5635-b673-42bb] Command number[183]] # Proxy[EMPTY] # RequestId[Sender GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Command number[0]] # ReplyPort[0] # ProjectId [GUID[47cc-73ac-fb03-50c6-03ed-e0c5-3ede-0c50-db56-5635-b673-42bb] Address[Host[DESKTOP-GIDMTNA] Port[10000]] IsLauncher[FALSE] Launcher[GUID[0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000-0000] Address[Host[] Port[0]]] Path[\\vboxsrv\bouled\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb] ReadOnly[FALSE] Server GUID[f0cf-1852-4d01-1471-13ed-e0c6-3ede-0c50-9cf6-5635-b673-42bb]] # Status [Shutdown]
+[2018.12.10 23:52:41] [0068m.24s.340ms] [2] BT: STOP
+[2018.12.10 23:52:41] [0068m.24s.340ms] [3] MWT: FREE
+[2018.12.10 23:52:41] [0068m.24s.340ms] [0] MWT: Destroy the shutdown block reason.

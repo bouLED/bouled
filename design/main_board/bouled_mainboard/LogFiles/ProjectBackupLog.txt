@@ -1,0 +1,121 @@
+[2017-10-26 20.40.12] Successfully created [AutoSave] backup [2017-10-26 20.40.11 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 13.42.14] Successfully created [AutoSave] backup [2017-11-12 13.42.14 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-10-26 20.40.11 - auto.zip] removed.
+[2017-11-12 14.20.53] Removing (by prune) [AutoSave] backup file [C:\t\Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip].
+[2017-11-12 14.20.53] [AutoSave] backup file [Project_template\Default\ProjectBackup\backups\2017-11-12 13.42.14 - auto.zip] removed.
+[2017-11-12 14.28.48] Successfully created [AutoSave] backup [2017-11-12 14.28.47 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2017-11-12 14.30.41] Removing (by prune) [AutoSave] backup file [F:\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip].
+[2017-11-12 14.30.41] [AutoSave] backup file [\Project_template\Default\ProjectBackup\backups\2017-11-12 14.28.47 - auto.zip] removed.
+[2018-10-21 14.54.28] Migrating iCDB upgrade backups from directory [\PROJECT_TEMPLATE\Default\default.icdb\cdbback] to Project Backup format.
+[2018-10-21 14.54.28] Migrating iCDB upgrade backup file [2018-10-21 14.52.11-4396].
+[2018-10-21 14.54.29] Successfully created [Constraints Definition Upgrade] backup [2018-10-21 14.52.11 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-10-21 14.54.29] Migrated iCDB content backup file [cdbback\2018-10-21 14.52.11-4396.zip] removed.
+[2018-10-21 14.54.29] Successfully migrated iCDB upgrade backup file [2018-10-21 14.52.11-4396] to Project Backup format [2018-10-21 14.52.11 - consDefUpgr.zip]
+[2018-10-21 14.54.29] Successfully created [AutoSave] backup [2018-10-21 14.54.29 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-10 18.57.49] Migrating iCDB upgrade backups from directory [bouled_mainboard\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-10 18.57.49] Migrating iCDB upgrade backup file [2018-12-05 17.44.55-5056].
+[2018-12-10 18.57.51] Successfully created [Database Upgrade] backup [2018-12-05 17.44.55 - upgrade.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-10 18.57.51] Migrated iCDB content backup file [cdbback\2018-12-05 17.44.55-5056.zip] removed.
+[2018-12-10 18.57.51] Successfully migrated iCDB upgrade backup file [2018-12-05 17.44.55-5056] to Project Backup format [2018-12-05 17.44.55 - upgrade.zip]
+[2018-12-10 18.57.57] Successfully created [AutoSave] backup [2018-12-10 18.57.52 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-10 22.57.54] Successfully created [AutoSave] backup [2018-12-10 22.57.52 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-11 10.27.57] Successfully created [AutoSave] backup [2018-12-11 10.27.53 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-11 10.27.57] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-10-21 14.54.29 - auto.zip].
+[2018-12-11 10.27.57] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-10-21 14.54.29 - auto.zip] removed.
+[2018-12-11 13.43.52] Successfully created [Project Repair] backup [2018-12-11 13.43.50 - repair.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-11 13.47.27] Migrating iCDB upgrade backups from directory [BOULED_MAINBOARD\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-11 13.47.27] Migrating iCDB upgrade backup file [2018-12-11 13.43.52-5816].
+[2018-12-11 13.47.27] Successfully created [Constraints Definition Upgrade] backup [2018-12-11 13.43.52 - consDefUpgr.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-11 13.47.27] Removing excessive [Constraints Definition Upgrade] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip].
+[2018-12-11 13.47.27] [Constraints Definition Upgrade] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-10-21 14.52.11 - consDefUpgr.zip] removed.
+[2018-12-11 13.47.27] Migrated iCDB content backup file [cdbback\2018-12-11 13.43.52-5816.zip] removed.
+[2018-12-11 13.47.27] Successfully migrated iCDB upgrade backup file [2018-12-11 13.43.52-5816] to Project Backup format [2018-12-11 13.43.52 - consDefUpgr.zip]
+[2018-12-11 14.27.55] Successfully created [AutoSave] backup [2018-12-11 14.27.53 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-11 14.27.55] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 18.57.52 - auto.zip].
+[2018-12-11 14.27.55] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 18.57.52 - auto.zip] removed.
+[2018-12-12 16.13.58] Migrating iCDB upgrade backups from directory [BOULED_MAINBOARD\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-12 16.13.58] Migrating iCDB upgrade backup file [2018-12-12 13.38.48-1476].
+[2018-12-12 16.13.58] Successfully created [Constraints Definition Upgrade] backup [2018-12-12 13.38.48 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-12 16.13.58] Removing excessive [Constraints Definition Upgrade] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 13.43.52 - consDefUpgr.zip].
+[2018-12-12 16.13.58] [Constraints Definition Upgrade] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 13.43.52 - consDefUpgr.zip] removed.
+[2018-12-12 16.13.58] Migrated iCDB content backup file [cdbback\2018-12-12 13.38.48-1476.zip] removed.
+[2018-12-12 16.13.58] Successfully migrated iCDB upgrade backup file [2018-12-12 13.38.48-1476] to Project Backup format [2018-12-12 13.38.48 - consDefUpgr.zip]
+[2018-12-12 16.13.58] Migrating iCDB upgrade backup file [2018-12-12 10.17.20-2208].
+[2018-12-12 16.13.58] iCDB upgrade backup file [2018-12-12 10.17.20-2208] is excessive.
+[2018-12-12 16.13.58] Excessive iCDB upgrade backup file [2018-12-12 10.17.20-2208] removed.
+[2018-12-12 16.13.58] Migrating iCDB upgrade backup file [2018-12-11 21.33.48-2736].
+[2018-12-12 16.13.58] iCDB upgrade backup file [2018-12-11 21.33.48-2736] is excessive.
+[2018-12-12 16.13.58] Excessive iCDB upgrade backup file [2018-12-11 21.33.48-2736] removed.
+[2018-12-12 16.14.05] Successfully created [AutoSave] backup [2018-12-12 16.13.58 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-12 16.14.05] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 22.57.52 - auto.zip].
+[2018-12-12 16.14.05] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-10 22.57.52 - auto.zip] removed.
+[2018-12-13 12.04.35] Successfully created [AutoSave] backup [2018-12-13 12.04.27 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-13 12.04.35] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 10.27.53 - auto.zip].
+[2018-12-13 12.04.35] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 10.27.53 - auto.zip] removed.
+[2018-12-13 16.04.29] Successfully created [AutoSave] backup [2018-12-13 16.04.27 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-13 16.04.29] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 14.27.53 - auto.zip].
+[2018-12-13 16.04.29] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-11 14.27.53 - auto.zip] removed.
+[2018-12-14 08.48.18] Successfully created [AutoSave] backup [2018-12-14 08.48.13 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-14 08.48.18] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-12 16.13.58 - auto.zip].
+[2018-12-14 08.48.18] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-12 16.13.58 - auto.zip] removed.
+[2018-12-14 09.32.33] Migrating iCDB upgrade backups from directory [BOULED_MAINBOARD\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-14 09.32.33] Migrating iCDB upgrade backup file [2018-12-14 09.24.16-7128].
+[2018-12-14 09.32.33] Successfully created [Constraints Definition Upgrade] backup [2018-12-14 09.24.16 - consDefUpgr.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-14 09.32.33] Removing excessive [Constraints Definition Upgrade] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-12 13.38.48 - consDefUpgr.zip].
+[2018-12-14 09.32.33] [Constraints Definition Upgrade] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-12 13.38.48 - consDefUpgr.zip] removed.
+[2018-12-14 09.32.33] Migrated iCDB content backup file [cdbback\2018-12-14 09.24.16-7128.zip] removed.
+[2018-12-14 09.32.33] Successfully migrated iCDB upgrade backup file [2018-12-14 09.24.16-7128] to Project Backup format [2018-12-14 09.24.16 - consDefUpgr.zip]
+[2018-12-14 09.39.43] Migrating iCDB upgrade backups from directory [BOULED_MAINBOARD\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-14 09.39.43] Migrating iCDB upgrade backup file [2018-12-14 09.39.04-6812].
+[2018-12-14 09.39.43] Successfully created [Constraints Definition Upgrade] backup [2018-12-14 09.39.04 - consDefUpgr.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-14 09.39.43] Removing excessive [Constraints Definition Upgrade] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 09.24.16 - consDefUpgr.zip].
+[2018-12-14 09.39.43] [Constraints Definition Upgrade] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 09.24.16 - consDefUpgr.zip] removed.
+[2018-12-14 09.39.43] Migrated iCDB content backup file [cdbback\2018-12-14 09.39.04-6812.zip] removed.
+[2018-12-14 09.39.43] Successfully migrated iCDB upgrade backup file [2018-12-14 09.39.04-6812] to Project Backup format [2018-12-14 09.39.04 - consDefUpgr.zip]
+[2018-12-14 15.29.05] Successfully created [AutoSave] backup [2018-12-14 15.28.58 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-14 15.29.05] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-13 12.04.27 - auto.zip].
+[2018-12-14 15.29.05] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-13 12.04.27 - auto.zip] removed.
+[2018-12-14 19.29.01] Successfully created [AutoSave] backup [2018-12-14 19.28.58 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-14 19.29.01] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-13 16.04.27 - auto.zip].
+[2018-12-14 19.29.01] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-13 16.04.27 - auto.zip] removed.
+[2018-12-14 23.40.04] Successfully created [AutoSave] backup [2018-12-14 23.39.54 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-14 23.40.04] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 08.48.13 - auto.zip].
+[2018-12-14 23.40.04] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 08.48.13 - auto.zip] removed.
+[2018-12-17 18.29.40] Successfully created [AutoSave] backup [2018-12-17 18.29.32 - auto.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-17 18.29.40] Removing excessive [AutoSave] backup file [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 15.28.58 - auto.zip].
+[2018-12-17 18.29.40] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 15.28.58 - auto.zip] removed.
+[2018-12-23 17.01.44] Migrating iCDB upgrade backups from directory [BOULED_MAINBOARD\Default\default.icdb\cdbback] to Project Backup format.
+[2018-12-23 17.01.44] Migrating iCDB upgrade backup file [2018-12-23 17.00.54-6012].
+[2018-12-23 17.01.45] Successfully created [Constraints Definition Upgrade] backup [2018-12-23 17.00.54 - consDefUpgr.zip] requested by [DESKTOP-GIDMTNA:Zor].
+[2018-12-23 17.01.45] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 19.28.58 - auto.zip].
+[2018-12-23 17.01.45] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 19.28.58 - auto.zip] removed.
+[2018-12-23 17.01.45] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 23.39.54 - auto.zip].
+[2018-12-23 17.01.45] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 23.39.54 - auto.zip] removed.
+[2018-12-23 17.01.45] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-17 18.29.32 - auto.zip].
+[2018-12-23 17.01.45] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-17 18.29.32 - auto.zip] removed.
+[2018-12-23 17.01.45] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-18 15.01.22 - auto.zip].
+[2018-12-23 17.01.45] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-18 15.01.22 - auto.zip] removed.
+[2018-12-23 17.01.45] Removing excessive [Constraints Definition Upgrade] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 09.39.04 - consDefUpgr.zip].
+[2018-12-23 17.01.45] [Constraints Definition Upgrade] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-14 09.39.04 - consDefUpgr.zip] removed.
+[2018-12-23 17.01.45] Migrated iCDB content backup file [cdbback\2018-12-23 17.00.54-6012.zip] removed.
+[2018-12-23 17.01.45] Successfully migrated iCDB upgrade backup file [2018-12-23 17.00.54-6012] to Project Backup format [2018-12-23 17.00.54 - consDefUpgr.zip]
+[2018-12-23 17.01.46] Successfully created [AutoSave] backup [2018-12-23 17.01.45 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-23 17.01.46] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-18 19.23.56 - auto.zip].
+[2018-12-23 17.01.46] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-18 19.23.56 - auto.zip] removed.
+[2018-12-25 07.40.44] Successfully created [AutoSave] backup [2018-12-25 07.40.40 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-25 07.40.44] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-19 08.52.27 - auto.zip].
+[2018-12-25 07.40.44] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-19 08.52.27 - auto.zip] removed.
+[2018-12-28 18.23.01] Successfully created [AutoSave] backup [2018-12-28 18.22.57 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-28 18.23.01] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-19 13.56.01 - auto.zip].
+[2018-12-28 18.23.01] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-19 13.56.01 - auto.zip] removed.
+[2018-12-28 22.33.31] Successfully created [AutoSave] backup [2018-12-28 22.33.28 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-28 22.33.31] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-23 17.01.45 - auto.zip].
+[2018-12-28 22.33.31] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-23 17.01.45 - auto.zip] removed.
+[2018-12-29 11.04.59] ERROR: Cannot create Project Backup file. Requested [AutoSave] backup by [DESKTOP-D6MOGOB:alexis] will not be created.
+[2018-12-29 11.05.07] Successfully created [AutoSave] backup [2018-12-29 11.05.03 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-29 11.05.07] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-25 07.40.40 - auto.zip].
+[2018-12-29 11.05.07] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-25 07.40.40 - auto.zip] removed.
+[2018-12-30 04.15.23] Successfully created [AutoSave] backup [2018-12-30 04.15.21 - auto.zip] requested by [DESKTOP-D6MOGOB:alexis].
+[2018-12-30 04.15.23] Removing excessive [AutoSave] backup file [E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-28 18.22.57 - auto.zip].
+[2018-12-30 04.15.23] [AutoSave] backup file [BOULED_MAINBOARD\Default\ProjectBackup\backups\2018-12-28 18.22.57 - auto.zip] removed.

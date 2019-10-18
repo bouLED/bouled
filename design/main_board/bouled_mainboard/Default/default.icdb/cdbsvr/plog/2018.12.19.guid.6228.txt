@@ -1,0 +1,30 @@
+[2018.12.19 09:19:54] [0000m.20s.002ms] [0] WELCOME
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] iCDB Database ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Base flow version [VX.2.4]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [6228]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Current working dir [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\xe\win32\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common3D\win32\lib]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] SDD_PLATFORM [win32]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [3] WARNING: Database [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\icdb.dat] was manually copied
+[2018.12.19 09:19:54] [0000m.20s.020ms] [3] File change time:        [2018-12-19 09.19.22]
+[2018.12.19 09:19:54] [0000m.20s.020ms] [3] File modification time:  [2018-12-19 09.19.22]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Last change time:        [2018-12-18 15.56.03]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Last database open information:
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Time:             [2018-12-18 15.52.03]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Location:         [E:\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\Default\default.icdb\icdb.dat]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Machine:          [DESKTOP-GIDMTNA]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] User:             [Zor]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] PID:              [228]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Application:      [iCDB Server]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Operating system: [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] WARNING: Regenerating database GUID
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Previous database GUID [24a6-ca1b-5716-e89e-b760-91c0-8609-1c50-f000-df6f-60ef-fec8]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [3] Current database GUID  [ddef-7853-cd0a-6c0d-a2ff-91cf-2ff9-1c50-f0b0-df6f-60ef-fec8]
+[2018.12.19 09:19:54] [0000m.20s.035ms] [0] .

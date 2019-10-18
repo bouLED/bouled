@@ -1,0 +1,253 @@
+[2018.10.21 14:52:09] [0000m.00s.170ms] [0] WELCOME
+[2018.10.21 14:52:09] [0000m.00s.170ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.10.21 14:52:10] [0000m.00s.186ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.10.21 14:52:10] [0000m.00s.186ms] [1] Base flow version [VX.2.4]
+[2018.10.21 14:52:10] [0000m.00s.186ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.10.21 14:52:10] [0000m.00s.186ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] Machine [DESKTOP-D6MOGOB]  IP [10.0.2.15,127.0.0.1]  User [alexis]  PID [4396]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] Current working dir [F:\Project_template]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] PATH [C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\help;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\alexi\AppData\Local\Microsoft\WindowsApps]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] SDD_HOME [C:\mentorgraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] SDD_PLATFORM [win32]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] WDIR [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.10.21 14:52:10] [0000m.00s.202ms] [1] Local iCDB working dir [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard\iCDB] on file system [NTFS]
+[2018.10.21 14:52:10] [0000m.00s.218ms] [1] S: Config file name [ServerWG.cfg]
+[2018.10.21 14:52:10] [0000m.00s.218ms] [2] S: Loading config files
+[2018.10.21 14:52:10] [0000m.00s.218ms] [1] Config file [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard\iCDB\Plugins\Plugins.cfg] not found - creating default one
+[2018.10.21 14:52:10] [0000m.00s.233ms] [0] Config: ERROR: Could not open config file [C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard\iCDB\Plugins\Plugins.cfg]
+[2018.10.21 14:52:10] [0000m.00s.249ms] [1] Config file [F:\Project_template\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.10.21 14:52:10] [0000m.00s.249ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.10.21 14:52:10] [0000m.00s.265ms] [3] S: Config loaded
+[2018.10.21 14:52:10] [0000m.00s.296ms] [0] S: Project path [F:\Project_template\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.10.21 14:52:10] [0000m.00s.296ms] [0] S: Project global path [\\vboxsrv\mentor\Project_template\Default\default.icdb] on file system [UNKNOWN]
+[2018.10.21 14:52:10] [0000m.00s.296ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.10.21 14:52:10] [0000m.00s.311ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] S: Multi-user mode (config)
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] S: Event polling mode autodetection
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] S: Started up automatically by iCDB Client: DESKTOP-D6MOGOB:alexis:8992
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] S: Auto close mode
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] S: Database ID [282b-ee4e-2c0f-41fe-e2c4-80a3-3c48-0a50-060f-509f-9fef-0fc8]
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: BEGIN dumping
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: Local -> global path prefix list
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\DESKTOP-D6MOGOB\print$]
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\mentor\]
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\windows\]
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: [H:\] -> [\\vboxsrv\2018\]
+[2018.10.21 14:52:10] [0000m.00s.311ms] [0] PathTranslator: Global -> local path prefix list
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] PathTranslator: [\\DESKTOP-D6MOGOB\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] PathTranslator: [\\vboxsrv\windows\] -> [G:\]
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [F:\]
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] PathTranslator: [\\vboxsrv\2018\] -> [H:\]
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] PathTranslator: END dumping
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] S: START
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] S: Server startup lock file created
+[2018.10.21 14:52:10] [0000m.00s.327ms] [0] S: Listening for client connections on port [10000]
+[2018.10.21 14:52:10] [0000m.00s.343ms] [0] S: Server network ID [DESKTOP-D6MOGOB:10.0.2.15,DESKTOP-D6MOGOB:10000]
+[2018.10.21 14:52:10] [0000m.00s.343ms] [0] S: Server GUID [e9a2-d335-cb33-625c-a767-ccbf-767c-cb50-876f-509f-9fef-0fc8]
+[2018.10.21 14:52:10] [0000m.00s.343ms] [0] S: Project GUID [282b-ee4e-2c0f-41fe-e2c4-80a3-3c48-0a50-060f-509f-9fef-0fc8]
+[2018.10.21 14:52:10] [0000m.00s.358ms] [0] S: Wrote data to server address file
+[2018.10.21 14:52:10] [0000m.00s.358ms] [0] S: Server startup lock file removed
+[2018.10.21 14:52:10] [0000m.00s.358ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.10.21 14:52:10] [0000m.01s.124ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.10.21 14:52:10] [0000m.01s.124ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.10.21 14:52:10] [0000m.01s.124ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.10.21 14:52:10] [0000m.01s.124ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.10.21 14:52:10] [0000m.01s.124ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.10.21 14:52:10] [0000m.01s.124ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.10.21 14:52:10] [0000m.01s.124ms] [0] S: Local disc access time: 104 us
+[2018.10.21 14:52:10] [0000m.01s.124ms] [0] S: File server access time: 500 us
+[2018.10.21 14:52:10] [0000m.01s.155ms] [0] Single file [F:\Project_template\Default\default.icdb\icdb.dat] size [194440 (189.9 kB)]
+[2018.10.21 14:52:10] [0000m.01s.155ms] [1] Single file [F:\Project_template\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.10.21 14:52:10] [0000m.01s.155ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.10.21 14:52:10] [0000m.01s.155ms] [0] Database GUARD OK: [194440]
+[2018.10.21 14:52:10] [0000m.01s.170ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.10.21 14:52:10] [0000m.01s.170ms] [0] Database GUARD OK: [194440]
+[2018.10.21 14:52:11] [0000m.01s.186ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.10.21 14:52:11] [0000m.01s.186ms] [0] Database GUARD OK: [194440]
+[2018.10.21 14:52:11] [0000m.01s.186ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.10.21 14:52:11] [0000m.01s.186ms] [0] Database GUARD OK: [194440]
+[2018.10.21 14:52:11] [0000m.01s.202ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.10.21 14:52:11] [0000m.01s.202ms] [0] Database GUARD OK: [194440]
+[2018.10.21 14:52:11] [0000m.01s.202ms] [0] SingleFile: [01fe-cf71-0847-6a18] SFI version check [1009] [1009]
+[2018.10.21 14:52:11] [0000m.01s.295ms] [0] SingleFile: [01fe-cf71-0847-6a18] Database SFI header has been read in [98ms 837us]
+[2018.10.21 14:52:11] [0000m.01s.311ms] [0] iCDB Server PI: Server & plugin session [4069]
+[2018.10.21 14:52:11] [0000m.01s.311ms] [0] iCDB Server PI: Opening database [F:\Project_template\Default\default.icdb]
+[2018.10.21 14:52:11] [0000m.01s.311ms] [0] iCDB Server PI: Database [F:\Project_template\Default\default.icdb] opened
+[2018.10.21 14:52:11] [0000m.01s.530ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.10.21 14:52:11] [0000m.01s.530ms] [0] iCDB Database: Checking constraint definitions version
+[2018.10.21 14:52:11] [0000m.01s.608ms] [0] iCDB Database: Creating database content backup before upgrade
+[2018.10.21 14:52:11] [0000m.01s.608ms] [1] iCDB Storage Server: Database backup: ProjectPath[F:\Project_template\Default\default.icdb]
+[2018.10.21 14:52:11] [0000m.01s.670ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[F:\Project_template\Default\default.icdb\cdbback\2018-10-21 14.52.11-4396.zip]
+[2018.10.21 14:52:11] [0000m.01s.702ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[F:\Project_template\Default\default.icdb\cdbback\2018-10-21 14.52.11-4396.zip]
+[2018.10.21 14:52:11] [0000m.01s.702ms] [0] iCDB Database: Database content backed up to [F:\Project_template\Default\default.icdb\cdbback\2018-10-21 14.52.11-4396.zip] of size [174 590 bytes (170.5 kB)]  in [103ms 167us]
+[2018.10.21 14:52:11] [0000m.01s.715ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.56;user.cns=55f1-7e2a-a301-bcc1-2f34-1c97-f341-c950-ce00-609f-9fef-0fc8]
+[2018.10.21 14:52:11] [0000m.01s.903ms] [0] iCDB Database: Upgrading snapshot [1:DCDV] from version [3300]
+[2018.10.21 14:52:11] [0000m.01s.919ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s1\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.01s.919ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s1\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.01s.934ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.01s.934ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.01s.934ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [1] CORE: Upgrade snapshot DCDV completed successfully.
+[2018.10.21 14:52:11] [0000m.01s.950ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s1\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s1\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [0] iCDB Database: Snapshot [1:DCDV] upgraded to version [3500] in [48ms 671us]
+[2018.10.21 14:52:11] [0000m.01s.950ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DCDV]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] iCDB Database: Constraint definitions for snapshot [1:DCDV] upgraded in [10ms 550us]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] iCDB Database: Saving upgraded snapshot [1:DCDV]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [0] iCDB Database: Upgraded snapshot [1:DCDV] saved in [5ms 855us]
+[2018.10.21 14:52:11] [0000m.01s.966ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.10.21 14:52:11] [0000m.01s.981ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:11] [0000m.01s.981ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.10.21 14:52:11] [0000m.02s.028ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s1\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.044ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.044ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.044ms] [0] iCDB Database: Upgrading snapshot [2:PCB_Layout_Temp] from version [3300]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s2\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s2\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s2\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s2\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] upgraded to version [3500] in [15ms 83us]
+[2018.10.21 14:52:11] [0000m.02s.059ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] iCDB Database: Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [9ms 65us]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] iCDB Database: Saving upgraded snapshot [2:PCB_Layout_Temp]
+[2018.10.21 14:52:11] [0000m.02s.075ms] [0] iCDB Database: Upgraded snapshot [2:PCB_Layout_Temp] saved in [4ms 124us]
+[2018.10.21 14:52:11] [0000m.02s.106ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s2\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.122ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.122ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:11] [0000m.02s.122ms] [0] iCDB Database: Upgrading snapshot [3:PCB] from version [3300]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s3\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s3\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s3\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s3\cdbcatlg\catlgatl]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [0] iCDB Database: Snapshot [3:PCB] upgraded to version [3500] in [15ms 854us]
+[2018.10.21 14:52:11] [0000m.02s.137ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:PCB]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] iCDB Database: Constraint definitions for snapshot [3:PCB] upgraded in [8ms 337us]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] iCDB Database: Saving upgraded snapshot [3:PCB]
+[2018.10.21 14:52:11] [0000m.02s.153ms] [0] iCDB Database: Upgraded snapshot [3:PCB] saved in [4ms 477us]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s3\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.200ms] [0] iCDB Database: Upgrading snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s4\cdbblks\f000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.200ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s4\cdbblks\f000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [1] CORE: Upgrade snapshot DCDV_INST_PROP_TEMPORARY_STORAGE completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.216ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s4\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s4\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded to version [3500] in [9ms 270us]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] iCDB Database: Constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [192us]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] iCDB Database: Saving upgraded snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.10.21 14:52:12] [0000m.02s.216ms] [0] iCDB Database: Upgraded snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [745us]
+[2018.10.21 14:52:12] [0000m.02s.231ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s4\cdbblks\f000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.231ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s4\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.231ms] [0] iCDB Database: Upgrading snapshot [5:RefSync] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s5\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s5\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s5\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s5\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s5\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Upgrade snapshot RefSync completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s5\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.247ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s5\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.262ms] [0] iCDB Database: Snapshot [5:RefSync] upgraded to version [3500] in [19ms 760us]
+[2018.10.21 14:52:12] [0000m.02s.262ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:RefSync]
+[2018.10.21 14:52:12] [0000m.02s.294ms] [0] iCDB Database: Constraint definitions for snapshot [5:RefSync] upgraded in [33ms 125us]
+[2018.10.21 14:52:12] [0000m.02s.294ms] [0] iCDB Database: Saving upgraded snapshot [5:RefSync]
+[2018.10.21 14:52:12] [0000m.02s.309ms] [0] iCDB Database: Upgraded snapshot [5:RefSync] saved in [12ms 997us]
+[2018.10.21 14:52:12] [0000m.02s.309ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.309ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.309ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.356ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s5\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.372ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.372ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s5\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.372ms] [0] iCDB Database: Upgrading snapshot [6:PCB_RefSync] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s6\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s6\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.387ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [1] CORE: Upgrade snapshot PCB_RefSync completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.403ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s6\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s6\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [0] iCDB Database: Snapshot [6:PCB_RefSync] upgraded to version [3500] in [20ms 775us]
+[2018.10.21 14:52:12] [0000m.02s.403ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:PCB_RefSync]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] iCDB Database: Constraint definitions for snapshot [6:PCB_RefSync] upgraded in [9ms 936us]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] iCDB Database: Saving upgraded snapshot [6:PCB_RefSync]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [0] iCDB Database: Upgraded snapshot [6:PCB_RefSync] saved in [6ms 647us]
+[2018.10.21 14:52:12] [0000m.02s.419ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.434ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.434ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.465ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s6\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.465ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s6\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.465ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.481ms] [0] iCDB Database: Upgrading snapshot [7:PCB_LDDTemp] from version [3300]
+[2018.10.21 14:52:12] [0000m.02s.481ms] [1] CORE: Upgrade atlas from version 512 [F:\Project_template\Default\default.icdb\s7\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.481ms] [1] CORE: Upgrade atlas from version 512 to 513 completed successfully [F:\Project_template\Default\default.icdb\s7\cdbblks\2000000010000050.blk\blkatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Applying a fix no 151 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Applying a fix no 152 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\cesatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Upgrade snapshot PCB_LDDTemp completed successfully.
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Applying a fix no 150 stage [fsSnapshotLoaded] to atlas [F:\Project_template\Default\default.icdb\s7\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [F:\Project_template\Default\default.icdb\s7\cdbcatlg\catlgatl]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [0] iCDB Database: Snapshot [7:PCB_LDDTemp] upgraded to version [3500] in [22ms 545us]
+[2018.10.21 14:52:12] [0000m.02s.497ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:PCB_LDDTemp]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] iCDB Database: Constraint definitions for snapshot [7:PCB_LDDTemp] upgraded in [10ms 830us]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] iCDB Database: Saving upgraded snapshot [7:PCB_LDDTemp]
+[2018.10.21 14:52:12] [0000m.02s.512ms] [0] iCDB Database: Upgraded snapshot [7:PCB_LDDTemp] saved in [4ms 572us]
+[2018.10.21 14:52:12] [0000m.02s.528ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [F:\Project_template\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.528ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.10.21 14:52:12] [0000m.02s.528ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [F:\Project_template\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.10.21 14:52:12] [0000m.02s.544ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s7\cdbblks\2000000010000050.blk\blkatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.544ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s7\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.544ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [F:\Project_template\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.10.21 14:52:12] [0000m.02s.559ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.63]
+[2018.10.21 14:52:12] [0000m.02s.685ms] [0] iCDB Server PI: Initializing plugins
+[2018.10.21 14:52:12] [0000m.02s.685ms] [0] iCDB Server PI: Plugins initialized
+[2018.10.21 14:52:12] [0000m.02s.685ms] [0] S: iCDB database loaded
+[2018.10.21 14:52:12] [0000m.02s.700ms] [0] S: Starting threads
+[2018.10.21 14:52:12] [0000m.02s.700ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.10.21 14:52:12] [0000m.02s.700ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.10.21 14:52:12] [0000m.02s.700ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.10.21 14:52:12] [0000m.02s.700ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.10.21 14:52:12] [0000m.02s.716ms] [0] IT: Session [4070] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [8992] created
+[2018.10.21 14:52:12] [0000m.02s.716ms] [1] SC[4070]: Registered sub-client [DCDV] with ID [1] for session ID [4070] host [DESKTOP-D6MOGOB] user [alexis] process ID [8992]
+[2018.10.21 14:52:12] [0000m.02s.716ms] [1] SC[4070]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4070] host [DESKTOP-D6MOGOB] user [alexis] process ID [8992]
+[2018.10.21 14:52:12] [0000m.02s.809ms] [1] CMT: There are [1] clients now: 4070
+[2018.10.21 14:52:12] [0000m.02s.809ms] [1] CMT: Removed client [4070]
+[2018.10.21 14:52:12] [0000m.02s.809ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.10.21 14:52:13] [0000m.03s.309ms] [0] IT: Session [4071] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [8992] created
+[2018.10.21 14:52:13] [0000m.03s.309ms] [1] SC[4071]: Registered sub-client [DCDV] with ID [1] for session ID [4071] host [DESKTOP-D6MOGOB] user [alexis] process ID [8992]
+[2018.10.21 14:52:13] [0000m.03s.325ms] [1] SC[4071]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4071] host [DESKTOP-D6MOGOB] user [alexis] process ID [8992]
+[2018.10.21 14:52:13] [0000m.03s.356ms] [1] CMT: Removed client [4071]
+[2018.10.21 14:52:13] [0000m.03s.356ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.10.21 14:52:15] [0000m.05s.243ms] [0] CMT: Starting server auto-close
+[2018.10.21 14:52:15] [0000m.05s.321ms] [0] S: Closing server
+[2018.10.21 14:52:15] [0000m.05s.337ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2018.10.21 14:52:15] [0000m.05s.415ms] [0] iCDB Server PI: Closing plugins
+[2018.10.21 14:52:15] [0000m.05s.415ms] [0] iCDB Server PI: Plugins closed
+[2018.10.21 14:52:15] [0000m.05s.415ms] [0] iCDB Server PI: Unloading database
+[2018.10.21 14:52:15] [0000m.05s.477ms] [0] iCDB Server PI: Saving storage
+[2018.10.21 14:52:15] [0000m.05s.477ms] [0] iCDB Server PI: Closing database
+[2018.10.21 14:52:15] [0000m.05s.477ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[0%] data[86%]
+[2018.10.21 14:52:15] [0000m.05s.477ms] [1] iCDB Server PI: Stats: Database file size [244176 (238.5 kB)]
+[2018.10.21 14:52:15] [0000m.05s.509ms] [0] iCDB Server PI: Database closed
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [85] ticks
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [32] microseconds
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [61838] commands per second
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: Mem[35508224]
+[2018.10.21 14:52:15] [0000m.05s.509ms] [1] iCDB Server PI: Stats: MemPeak[39841792]
+[2018.10.21 14:52:15] [0000m.05s.509ms] [0] Single file [F:\Project_template\Default\default.icdb\icdb.dat] closed with size [244176 (238.5 kB)]
+[2018.10.21 14:52:15] [0000m.05s.540ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.10.21 14:52:15] [0000m.05s.681ms] [0] MWT: Destroy the shutdown block reason.
+[2018.10.21 14:52:15] [0000m.05s.681ms] [0] MWT: STOP
+[2018.10.21 14:52:15] [0000m.05s.681ms] [0] S: STOP

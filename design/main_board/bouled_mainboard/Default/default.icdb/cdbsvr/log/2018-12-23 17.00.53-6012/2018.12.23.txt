@@ -1,0 +1,187 @@
+[2018.12.23 17:00:53] [0000m.00s.085ms] [0] WELCOME
+[2018.12.23 17:00:53] [0000m.00s.085ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.23 17:00:53] [0000m.00s.085ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.23 17:00:53] [0000m.00s.085ms] [1] Base flow version [VX.2.4]
+[2018.12.23 17:00:53] [0000m.00s.085ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.23 17:00:53] [0000m.00s.085ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] Machine [DESKTOP-D6MOGOB]  IP [10.0.2.15,127.0.0.1]  User [alexis]  PID [6012]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] Current working dir [E:\BouLED\design\main_board\bouled_mainboard]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] PATH [C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\help;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\alexi\AppData\Local\Microsoft\WindowsApps]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] SDD_HOME [C:\mentorgraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] SDD_PLATFORM [win32]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] WDIR [C:\Users\alexi\Documents\WDIR;C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] Local iCDB working dir [C:\Users\alexi\Documents\WDIR\iCDB] on file system [NTFS]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.23 17:00:53] [0000m.00s.102ms] [2] S: Loading config files
+[2018.12.23 17:00:53] [0000m.00s.119ms] [1] Config file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.23 17:00:53] [0000m.00s.119ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.23 17:00:53] [0000m.00s.119ms] [3] S: Config loaded
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Project path [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Project global path [\\vboxsrv\2019\BouLED\design\main_board\bouled_mainboard\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.23 17:00:54] [0000m.00s.341ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Multi-user mode (config)
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Event polling mode autodetection
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Started up automatically by iCDB Client: DESKTOP-D6MOGOB:alexis:4568
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Auto close mode
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Database ID [34c0-9ca0-6436-d102-531b-f1ca-31bf-1c50-830f-509f-9fef-0fc8]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: BEGIN dumping
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [C:\WINDOWS\system32\spool\drivers] -> [\\DESKTOP-D6MOGOB\print$]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\2019\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [F:\] -> [\\vboxsrv\mentor\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\windows\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [H:\] -> [\\vboxsrv\Windows\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [I:\] -> [\\vboxsrv\mentor\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\DESKTOP-D6MOGOB\print$] -> [C:\WINDOWS\system32\spool\drivers]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\vboxsrv\windows\] -> [G:\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\vboxsrv\Windows\] -> [H:\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [F:\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [I:\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: [\\vboxsrv\2019\] -> [E:\]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] PathTranslator: END dumping
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: START
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Server startup lock file created
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Listening for client connections on port [10000]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Server network ID [DESKTOP-D6MOGOB:10.0.2.15,DESKTOP-D6MOGOB:10000]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Server GUID [c75d-a508-d0d3-3b42-631b-f1cb-31bf-1c50-cd1f-509f-9fef-0fc8]
+[2018.12.23 17:00:54] [0000m.00s.341ms] [0] S: Project GUID [34c0-9ca0-6436-d102-531b-f1ca-31bf-1c50-830f-509f-9fef-0fc8]
+[2018.12.23 17:00:54] [0000m.00s.358ms] [0] S: Wrote data to server address file
+[2018.12.23 17:00:54] [0000m.00s.358ms] [0] S: Server startup lock file removed
+[2018.12.23 17:00:54] [0000m.00s.358ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.23 17:00:54] [0000m.00s.546ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.23 17:00:54] [0000m.00s.546ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.23 17:00:54] [0000m.00s.546ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.23 17:00:54] [0000m.00s.546ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.23 17:00:54] [0000m.00s.546ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.23 17:00:54] [0000m.00s.546ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.23 17:00:54] [0000m.00s.546ms] [0] S: Local disc access time: 37 us
+[2018.12.23 17:00:54] [0000m.00s.546ms] [0] S: File server access time: 695 us
+[2018.12.23 17:00:54] [0000m.00s.546ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.23 17:00:54] [0000m.00s.580ms] [0] Single file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] size [258016 (252.0 kB)]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [1] Single file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] Database GUARD OK: [258016]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] Database GUARD OK: [258016]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] Database GUARD OK: [258016]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.597ms] [0] Database GUARD OK: [258016]
+[2018.12.23 17:00:54] [0000m.00s.614ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.614ms] [0] Database GUARD OK: [258016]
+[2018.12.23 17:00:54] [0000m.00s.614ms] [0] SingleFile: [0bda-eefa-35d5-0d2b] SFI version check [1009] [1009]
+[2018.12.23 17:00:54] [0000m.00s.648ms] [0] SingleFile: [0bda-eefa-35d5-0d2b] Database SFI header has been read in [38ms 399us]
+[2018.12.23 17:00:54] [0000m.00s.648ms] [0] iCDB Server PI: Server & plugin session [4520]
+[2018.12.23 17:00:54] [0000m.00s.648ms] [0] iCDB Server PI: Opening database [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb]
+[2018.12.23 17:00:54] [0000m.00s.648ms] [0] iCDB Server PI: Database [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb] opened
+[2018.12.23 17:00:54] [0000m.00s.752ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.23 17:00:54] [0000m.00s.752ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.23 17:00:54] [0000m.00s.803ms] [0] iCDB Database: Creating database content backup before upgrade
+[2018.12.23 17:00:54] [0000m.00s.803ms] [1] iCDB Storage Server: Database backup: ProjectPath[E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb]
+[2018.12.23 17:00:54] [0000m.00s.837ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\cdbback\2018-12-23 17.00.54-6012.zip]
+[2018.12.23 17:00:54] [0000m.00s.871ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\cdbback\2018-12-23 17.00.54-6012.zip]
+[2018.12.23 17:00:54] [0000m.00s.888ms] [0] iCDB Database: Database content backed up to [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\cdbback\2018-12-23 17.00.54-6012.zip] of size [324 902 bytes (317.3 kB)]  in [71ms 583us]
+[2018.12.23 17:00:54] [0000m.00s.940ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8]
+[2018.12.23 17:00:54] [0000m.00s.957ms] [0] iCDB Database: Loading snapshot [1:DCDV] version [3500]
+[2018.12.23 17:00:54] [0000m.00s.974ms] [0] iCDB Database: Snapshot [1:DCDV] loaded in [17ms 157us]
+[2018.12.23 17:00:54] [0000m.00s.974ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DCDV]
+[2018.12.23 17:00:54] [0000m.01s.059ms] [0] iCDB Database: Constraint definitions for snapshot [1:DCDV] upgraded in [74ms 449us]
+[2018.12.23 17:00:54] [0000m.01s.059ms] [0] iCDB Database: Saving snapshot [1:DCDV]
+[2018.12.23 17:00:54] [0000m.01s.059ms] [0] iCDB Database: Snapshot [1:DCDV] saved in [275us]
+[2018.12.23 17:00:54] [0000m.01s.076ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.23 17:00:54] [0000m.01s.076ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.23 17:00:54] [0000m.01s.076ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.23 17:00:54] [0000m.01s.093ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.23 17:00:54] [0000m.01s.093ms] [0] iCDB Database: Loading snapshot [2:PCB_Layout_Temp] version [3500]
+[2018.12.23 17:00:54] [0000m.01s.110ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] loaded in [5ms 511us]
+[2018.12.23 17:00:54] [0000m.01s.110ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2018.12.23 17:00:54] [0000m.01s.110ms] [0] iCDB Database: Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [4ms 352us]
+[2018.12.23 17:00:54] [0000m.01s.110ms] [0] iCDB Database: Saving snapshot [2:PCB_Layout_Temp]
+[2018.12.23 17:00:54] [0000m.01s.110ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] saved in [37us]
+[2018.12.23 17:00:54] [0000m.01s.127ms] [0] iCDB Database: Loading snapshot [3:PCB] version [3500]
+[2018.12.23 17:00:54] [0000m.01s.127ms] [0] iCDB Database: Snapshot [3:PCB] loaded in [6ms 536us]
+[2018.12.23 17:00:54] [0000m.01s.145ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:PCB]
+[2018.12.23 17:00:54] [0000m.01s.145ms] [0] iCDB Database: Constraint definitions for snapshot [3:PCB] upgraded in [4ms 433us]
+[2018.12.23 17:00:54] [0000m.01s.145ms] [0] iCDB Database: Saving snapshot [3:PCB]
+[2018.12.23 17:00:54] [0000m.01s.145ms] [0] iCDB Database: Snapshot [3:PCB] saved in [30us]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Loading snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] version [3500]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [3ms 100us]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [88us]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Saving snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.12.23 17:00:54] [0000m.01s.162ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [12us]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Loading snapshot [5:RefSync] version [3500]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Snapshot [5:RefSync] loaded in [6ms 713us]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:RefSync]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Constraint definitions for snapshot [5:RefSync] upgraded in [4ms 56us]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Saving snapshot [5:RefSync]
+[2018.12.23 17:00:54] [0000m.01s.179ms] [0] iCDB Database: Snapshot [5:RefSync] saved in [22us]
+[2018.12.23 17:00:54] [0000m.01s.196ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.23 17:00:54] [0000m.01s.196ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.23 17:00:54] [0000m.01s.196ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.23 17:00:55] [0000m.01s.213ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.23 17:00:55] [0000m.01s.213ms] [0] iCDB Database: Loading snapshot [6:PCB_RefSync] version [3500]
+[2018.12.23 17:00:55] [0000m.01s.213ms] [0] iCDB Database: Snapshot [6:PCB_RefSync] loaded in [9ms 730us]
+[2018.12.23 17:00:55] [0000m.01s.213ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:PCB_RefSync]
+[2018.12.23 17:00:55] [0000m.01s.230ms] [0] iCDB Database: Constraint definitions for snapshot [6:PCB_RefSync] upgraded in [6ms 166us]
+[2018.12.23 17:00:55] [0000m.01s.230ms] [0] iCDB Database: Saving snapshot [6:PCB_RefSync]
+[2018.12.23 17:00:55] [0000m.01s.230ms] [0] iCDB Database: Snapshot [6:PCB_RefSync] saved in [30us]
+[2018.12.23 17:00:55] [0000m.01s.230ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.23 17:00:55] [0000m.01s.230ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.23 17:00:55] [0000m.01s.230ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.23 17:00:55] [0000m.01s.247ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s6\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.23 17:00:55] [0000m.01s.247ms] [0] iCDB Database: Loading snapshot [7:PCB_LDDTemp] version [3500]
+[2018.12.23 17:00:55] [0000m.01s.247ms] [0] iCDB Database: Snapshot [7:PCB_LDDTemp] loaded in [7ms 725us]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:PCB_LDDTemp]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [0] iCDB Database: Constraint definitions for snapshot [7:PCB_LDDTemp] upgraded in [4ms 566us]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [0] iCDB Database: Saving snapshot [7:PCB_LDDTemp]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [0] iCDB Database: Snapshot [7:PCB_LDDTemp] saved in [24us]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.23 17:00:55] [0000m.01s.264ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.23 17:00:55] [0000m.01s.264ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.23 17:00:55] [0000m.01s.281ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\s7\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.23 17:00:55] [0000m.01s.281ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.63;user.cns=ec49-fb41-b7ae-9a43-92d0-cfbe-2d0c-fb50-c20e-509f-9fef-0fc8]
+[2018.12.23 17:00:55] [0000m.01s.367ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.23 17:00:55] [0000m.01s.384ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.23 17:00:55] [0000m.01s.384ms] [0] S: iCDB database loaded
+[2018.12.23 17:00:55] [0000m.01s.384ms] [0] S: Starting threads
+[2018.12.23 17:00:55] [0000m.01s.401ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.23 17:00:55] [0000m.01s.401ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.23 17:00:55] [0000m.01s.401ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.23 17:00:55] [0000m.01s.401ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.23 17:00:55] [0000m.01s.418ms] [0] IT: Session [4521] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [4568] created
+[2018.12.23 17:00:55] [0000m.01s.418ms] [1] SC[4521]: Registered sub-client [DCDV] with ID [1] for session ID [4521] host [DESKTOP-D6MOGOB] user [alexis] process ID [4568]
+[2018.12.23 17:00:55] [0000m.01s.435ms] [1] SC[4521]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4521] host [DESKTOP-D6MOGOB] user [alexis] process ID [4568]
+[2018.12.23 17:00:55] [0000m.01s.520ms] [1] CMT: There are [1] clients now: 4521
+[2018.12.23 17:00:55] [0000m.01s.520ms] [1] CMT: Removed client [4521]
+[2018.12.23 17:00:55] [0000m.01s.520ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.23 17:00:55] [0000m.02s.067ms] [0] IT: Session [4522] for host [DESKTOP-D6MOGOB] user [alexis] client type[0] clsvrPluginID[0] with process ID [4568] created
+[2018.12.23 17:00:55] [0000m.02s.067ms] [1] SC[4522]: Registered sub-client [DCDV] with ID [1] for session ID [4522] host [DESKTOP-D6MOGOB] user [alexis] process ID [4568]
+[2018.12.23 17:00:55] [0000m.02s.084ms] [1] SC[4522]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4522] host [DESKTOP-D6MOGOB] user [alexis] process ID [4568]
+[2018.12.23 17:00:55] [0000m.02s.117ms] [1] CMT: Removed client [4522]
+[2018.12.23 17:00:55] [0000m.02s.117ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.23 17:00:57] [0000m.03s.302ms] [0] CMT: Starting server auto-close
+[2018.12.23 17:00:57] [0000m.03s.364ms] [0] S: Closing server
+[2018.12.23 17:00:57] [0000m.03s.394ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2018.12.23 17:00:57] [0000m.03s.456ms] [0] iCDB Server PI: Closing plugins
+[2018.12.23 17:00:57] [0000m.03s.456ms] [0] iCDB Server PI: Plugins closed
+[2018.12.23 17:00:57] [0000m.03s.456ms] [0] iCDB Server PI: Unloading database
+[2018.12.23 17:00:57] [0000m.03s.517ms] [0] iCDB Server PI: Saving storage
+[2018.12.23 17:00:57] [0000m.03s.517ms] [0] iCDB Server PI: Closing database
+[2018.12.23 17:00:57] [0000m.03s.517ms] [1] iCDB Server PI: Stats: Database defragmentation: max[4] avg[1] holes[2%] data[91%]
+[2018.12.23 17:00:57] [0000m.03s.517ms] [1] iCDB Server PI: Stats: Database file size [258016 (252.0 kB)]
+[2018.12.23 17:00:57] [0000m.03s.548ms] [0] iCDB Server PI: Database closed
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [131] ticks
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [13] microseconds
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [152671] commands per second
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: Mem[34459648]
+[2018.12.23 17:00:57] [0000m.03s.548ms] [1] iCDB Server PI: Stats: MemPeak[42344448]
+[2018.12.23 17:00:57] [0000m.03s.548ms] [0] Single file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] closed with size [258016 (252.0 kB)]
+[2018.12.23 17:00:57] [0000m.03s.563ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.23 17:00:57] [0000m.03s.733ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.23 17:00:57] [0000m.03s.733ms] [0] MWT: STOP
+[2018.12.23 17:00:57] [0000m.03s.733ms] [0] S: STOP

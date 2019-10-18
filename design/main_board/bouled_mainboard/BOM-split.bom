@@ -1,0 +1,78 @@
+Ref Des	Quantity	Value	Part Label	Part Number	Description	Distributor code	Option	Place
+R20	1	0 	RES_0_0603	00-0001	Resistor 0 ohms / 5% / case 0603	Fa : 2008343	DNP	 
+R14	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R15	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R16	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R5	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R6	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R7	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R10	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R11	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R12	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R13	1	1K 	RES_1.0k_0603	00-0074	Resistor 1.0k ohms / 5% / case 0603	Fa : 2309108	 	 
+R18	1	4.7K 	RES_4.7k_0603	00-0090	Resistor 4.7k ohms / 5% / case 0603	Fa : 2447385	 	 
+R19	1	4.7K 	RES_4.7k_0603	00-0090	Resistor 4.7k ohms / 5% / case 0603	Fa : 2447385	 	 
+R1	1	10K 	RES_10k_0603	00-0098	Resistor 10k ohms / 5% / case 0603	Fa : 2074170	 	 
+R17	1	10K 	RES_10k_0603	00-0098	Resistor 10k ohms / 5% / case 0603	Fa : 2074170	 	 
+R9	1	18K 	RES_18k_0603	00-0104	Resistor 18k ohms / 5% / case 0603	Fa : 9238638	 	 
+R2	1	20K 	RES_20k_0603	00-0105	Resistor 20k ohms / 5% / case 0603	Fa : 1527615	 	 
+R3	1	20K 	RES_20k_0603	00-0105	Resistor 20k ohms / 5% / case 0603	Fa : 1527615	 	 
+R4	1	20K 	RES_20k_0603	00-0105	Resistor 20k ohms / 5% / case 0603	Fa : 1527615	 	 
+R8	1	10K 	RES_10.0k_0603	01-0385	Resistor 10.0k ohms / 1% / case 0603	Fa : 1527581	 	 
+C4	1	2.2nF	CAP C0603 2.2nF X7R50V	10-0007	Capacitor Ceramic X7R / 2.2nF / 50V / ±20% / case 0603	Fa : 2688472	 	 
+C30	1	47uF	CAP CHIM C 47uF 6V3	10-0019	Capacitor chimical for decoupling / 47uF / 6.3V / case C	Fa : 2069145	 	 
+C22	1	15pF	CAP C0603 15pF COG 10V	10-0031	Capacitor Ceramic 15pF / 10V / ±1% / case 0603	Fa : 1856081	 	 
+C23	1	15pF	CAP C0603 15pF COG 10V	10-0031	Capacitor Ceramic 15pF / 10V / ±1% / case 0603	Fa : 1856081	 	 
+C1	1	220nF	CAP C0805 220nF X7R 50V	10-0041	Capacitor Ceramic X7R / 220nF / 50V / ±1.25% / case 0805	Fa : 8820139	 	 
+C7	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C8	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C27	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C28	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C13	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C14	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C15	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C16	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C17	1	100nF	CAP C0603 100nF X7R 16V	10-0057	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	Fa : 1414027	 	 
+C24	1	10nF	CAP C0402 10nF X7R 16V	10-0059	Capacitor Ceramic X7R / 10nF / 16V / ±10% / case 0402	Fa : 2627338	 	 
+C29	1	10nF	CAP C0402 10nF X7R 16V	10-0059	Capacitor Ceramic X7R / 10nF / 16V / ±10% / case 0402	Fa : 2627338	 	 
+C3	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C6	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C18	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C19	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C20	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C21	1	10uF	CAP C0805 10uF X5R 10V	10-0061	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	Fa : 2781411	 	 
+C2	1	10uF	CAP C0805 10uF X5R 25V	10-0102	Capacitor Ceramic X5R / 10uF / 25V / ±10% / case 0805, 	Fa : 1735530	 	 
+C5	1	2.2uF	CAP C0603 2.2uF X5R 6.3V	10-0112	Capacitor Ceramic X5R / 2.2uF / 6.3V / ±20% / case 0603	Fa : 2496924	 	 
+C9	1	2.2uF	CAP C0603 2.2uF X5R 6.3V	10-0112	Capacitor Ceramic X5R / 2.2uF / 6.3V / ±20% / case 0603	Fa : 2496924	 	 
+C25	1	10uF	CAP C0603 10uF X5R 10V	10-0120	Capacitor Ceramic X5R / 10uF / 10V / ±20% / case 0603	Fa : 2456110	 	 
+D1	1	 	MBR0540-T1	20-0019	Diode Shottky 500mA 0.5V OnSemi MBRS540 case SOD123	Fa : 9556923	 	 
+D3	1	 	HSMF-C114	20-0038	Tricolor RGB  LED, SMD case ChipLed, Avago HSMF-C114, 20mA, 70/180/85mCd, Vf=2.4/3.9/2.9V	Fa : 1058362 	 	 
+D2	1	 	B220A-13-F	20-0064	Schottky diode, Imoy=2A, Vf=0.5V, Vr=20V, Diodes Inc B220A-13-F, case SMA	Fa : 1858604	 	 
+U1	1	 	LT1765ES8#PBF	40-0003	3A 1.25 MHz Step-down Converter / Linear Tech LT1765ES8#PBF / Adj output / case SOIC8	Mouser : 584-LT1765ES8#PBF	 	 
+U3	1	 	LT1762EMS8-5#PBF	40-0166	Low noise LDO 5V regulator, 150mA, Linear Tech LT1762EMS8-5#PBF, case MSOP8	Mouser : 584-LT1762EMS8-5#PBF	 	 
+U5	1	 	74LVC4245APW	40-0234	8 bits level shifter, 3.3V --> 5V, NXP 74LVC4245APW , case TSSOP24	Fa : 1631648 	 	 
+U6	1	 	MPU9250	40-0301	3 axis gyroscope - accéléromètre - magnétomètre, +/- 250 à 2000°/s, 2-16g, +/-1200uT, 3.3V, I2C, SPI, Ivensense MPU9250, case QFN24 0.4mm	Mouser : 410-MPU-9250	 	 
+U2	1	 	STM32H743VIT6	40-0358	Cortex M7, 400MHz, ST STM32H743VIT6, case TQFP100	Fa : 2820776	 	 
+L1	1	8.2uH	SELF 8.2uH	50-0044	Inductor blindée 8.2uH, 20%, 6.1A, 15MHz, 0.035ohms, Coilcraft XAL5050-822MEC, boitier 5.48x5.28	Fa : 2289072	 	 
+J18	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J19	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J20	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J21	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J1	1	 	JAE_ST1W008S4ER1500	70-0058	Connecteur MicroSD, à charnière, JAE ST1W008S4ER1500	Mouser : 656-ST1W008S4ER1500	 	 
+J2	1	 	S2B-PH-SM4-TB	70-0066	Embase mâle CMS JST 2 broches, 2mm, avec détrompeur, à sortie horizontale, S2B-PH-SM4-TB	Fa : 9492615	 	 
+J8	1	 	FTSH-105-01-L-DV	70-0081	Dual row 1.27 CMS 2x5 points connector, Samtec FTSH-105-01-L-DV 	Fa : 1667759	 	 
+J4	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J5	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J6	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J7	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J10	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J11	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J12	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J13	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J14	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J15	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J16	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J17	1	 	PAD-1x1	70-0085	Pad for test, 1x1mm	 	 	 
+J9	1	 	JUMPER 5PTS	70-0111	Barrette droite 5 points en ligne 2.54mm 	 	 	 
+U4	1	 	ESP32_DEVKITC	80-0073	ESP32 DevKitC module, with VROOM submodule.	Mouser: 356-ESP32-DEVKITC	 	 
+QZ1	1	 	16.000 MHz	83-0028	Quartz 16.000 MHz, +/- 15ppm, 8pF, SMD, Kyocera CX2016DB16000D0FLJCC	Mouser : 581-CX2016DB16DFLJCC	 	 

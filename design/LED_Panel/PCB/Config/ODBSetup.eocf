@@ -1,0 +1,88 @@
+.FILETYPE ODBSETUP
+.VERSION "2.0"
+.SCHEMA_VERSION 1
+.DATE "20/12/2016 16:01:27"
+.USERLAYERS 
+ ..ANYINCLUDES NO
+ ..NAME "Dimensions"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_Dimensions"
+ ..NAME "Measure Drawing"
+  ...INCLUDE NO
+  ...MAPPEDTO USE_USER_LAYER
+  ....USER_LAYER_NAME "USR_Measure Drawing"
+.ODBPP_DOCUMENTATION 
+ ..ANYINCLUDES NO
+.LAYERS_TO_EXPORT 
+ ..NAME "d_1_2"
+  ...INCLUDE YES
+ ..NAME "smt"
+  ...INCLUDE YES
+ ..NAME "smb"
+  ...INCLUDE YES
+ ..NAME "sst"
+  ...INCLUDE YES
+ ..NAME "ssb"
+  ...INCLUDE YES
+ ..NAME "top"
+  ...MAPPEDTO LAYER1
+  ...INCLUDE YES
+ ..NAME "bottom"
+  ...MAPPEDTO LAYER2
+  ...INCLUDE YES
+ ..NAME "ddt"
+  ...INCLUDE YES
+ ..NAME "assemt"
+  ...INCLUDE YES
+ ..NAME "assemb"
+  ...INCLUDE YES
+ ..NAME "spt"
+  ...INCLUDE YES
+ ..NAME "spb"
+  ...INCLUDE YES
+.EPLAYERS
+.APLAYERS
+ ..EXPORT_AP NO
+.PACKAGE_OUTLINE "Assembly Outline"
+.PINS_NFP_REMOVAL "None"
+.VIAS_NFP_REMOVAL "None"
+.REMOVE_EDA_NETS NO
+.REMOVE_CADNET_NETLIST NO
+.NEUTRALIZE_NETS YES
+.UNITS ENGLISH
+.READ_DRC_FEATURES YES
+ ..DRCFEATURE ".drc_comp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_comp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_plane_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_route_keepin_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_tp_keepout_lyr"
+  ...DRCFEATURELAYER "drc_tp"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_trace_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+ ..DRCFEATURE ".drc_via_keepout_lyr"
+  ...DRCFEATURELAYER "drc_route"
+  ...PROCESSFEATURE NO
+.ROUND_CORNERS YES
+.IGNORE_COMPONENT_LAYOUT NO
+.COMPRESS NO
+.ODBPP_INSIDE YES
+.GEN_SILK_DATA YES
+.PART_NUMBER NO
+.BOARD_OUTLINE YES
+.APPEND NO
+.GEN_SEP_VAR_DATA NO
+.GEN_ACT_VAR_DATA YES
+.OutputDirectory ".\\Output"
+.OutputJobName "PCBodb"
+.LogFilePath ".\\LogFiles"
+.SchemeChanged Yes 
+.Scheme "ODBSetup"
+.SchemeLocation "System"

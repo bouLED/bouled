@@ -1,0 +1,610 @@
+
+                                DRC - (Final DRC)
+                                -----------------
+
+                       04:45 AM Sunday, December 30, 2018
+       Job Name: E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB\PCB.pcb
+
+
+
+    -------------
+    SELECTED NETS
+    -------------
+        VBAT
+
+    
+    ---------
+    PROXIMITY
+    ---------
+    
+    Use DRC Window                   : NO
+
+
+    Disable Same Cell Pad-Pad Checks : NO
+
+
+    Enable Same Net Pad-Pad Checks   : YES
+
+    
+    Layers Specifed To Check         : Layer 1
+                                       Layer 2
+
+
+
+
+    Net Class Clearances And Rules
+    ------------------------------
+
+        Components Layer 1 TO Components Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Traces Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO User Text Route Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO User Text Route Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        User Text Route Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Part Holes Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Part Holes Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Via Pads Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Via Pads Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Via Holes Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Traces Layer 1 TO Fiducial Pads Top
+            No Hazards.
+
+        User Text Route Layer 1 TO Fiducial Pads Top
+            No Hazards.
+
+        Fiducial Pads Top TO Fiducial Pads Top
+            No Hazards.
+
+        Fiducial Pads Top TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Fiducial Pads Top TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Fiducial Pads Top TO Part Holes Layer 1
+            No Hazards.
+
+        Fiducial Pads Top TO Via Pads Layer 1
+            No Hazards.
+
+        Fiducial Pads Top TO Via Holes Layer 1
+            No Hazards.
+
+        Components Layer 2 TO Components Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Traces Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Part Pads SMD Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO User Text Route Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO User Text Route Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO Part Pads SMD Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        User Text Route Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Part Pads SMD Layer 2
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Part Holes Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Part Holes Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Via Pads Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Via Pads Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Via Holes Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Traces Layer 2 TO Fiducial Pads Bottom
+            No Hazards.
+
+        User Text Route Layer 2 TO Fiducial Pads Bottom
+            No Hazards.
+
+        Fiducial Pads Bottom TO Fiducial Pads Bottom
+            No Hazards.
+
+        Fiducial Pads Bottom TO Part Pads SMD Layer 2
+            No Hazards.
+
+        Fiducial Pads Bottom TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Fiducial Pads Bottom TO Part Holes Layer 2
+            No Hazards.
+
+        Fiducial Pads Bottom TO Via Pads Layer 2
+            No Hazards.
+
+        Fiducial Pads Bottom TO Via Holes Layer 2
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+
+    Planes Clearances And Rules
+    ---------------------------
+
+        Positive Planes Layer 1 TO Mounting Holes Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Part Pads SMD Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Part Pads Thru Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Part Holes Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Route Border
+            No Hazards.
+
+        Positive Planes Layer 1 TO Traces Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO User Text Route Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Via Pads Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Via Holes Layer 1
+            No Hazards.
+
+        Positive Planes Layer 1 TO Fiducial Pads Top
+            No Hazards.
+
+        Positive Planes Layer 2 TO Mounting Holes Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Part Pads SMD Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Part Pads Thru Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Part Holes Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Route Border
+            No Hazards.
+
+        Positive Planes Layer 2 TO Traces Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO User Text Route Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Via Pads Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Via Holes Layer 2
+            No Hazards.
+
+        Positive Planes Layer 2 TO Fiducial Pads Bottom
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+
+    Bond Wire Clearances And Rules
+    ------------------------------
+
+    Bond Wire Checks Not Selected.
+
+
+
+
+    Non-Net Class Element To Element Clearances And Rules
+    -----------------------------------------------------
+
+        Route Border TO Via Pads Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Route Border TO Traces Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Route Border TO User Text Route Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Part Pads SMD Layer 1 TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Part Pads Thru Layer 1 TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Mounting Holes Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Via Pads Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Part Holes Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Part Pads SMD Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Part Pads Thru Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Via Holes Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO Traces Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 1 TO User Text Route Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Fiducial Pads Top TO Mounting Holes Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Fiducial Pads Top TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Fiducial Pads Top    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Mounting Holes Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Placement Outlines Layer 1    Clearance: 0.254mm
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Pads SMD Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Traces Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO User Text Route Layer 1    Clearance: 0mm
+            No Hazards.
+
+        Route Border TO Via Pads Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Route Border TO Traces Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Route Border TO User Text Route Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Part Pads SMD Layer 2 TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Part Pads Thru Layer 2 TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Mounting Holes Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Via Pads Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Part Holes Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Part Pads SMD Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Part Pads Thru Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Via Holes Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO Traces Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Mounting Holes Layer 2 TO User Text Route Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Fiducial Pads Bottom TO Mounting Holes Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Fiducial Pads Bottom TO Route Border    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Fiducial Pads Bottom    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Mounting Holes Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Placement Outlines Layer 2    Clearance: 0.254mm
+            No Hazards.
+
+        Board Outline TO Via Pads Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Holes Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Pads SMD Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Part Pads Thru Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Via Holes Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO Traces Layer 2    Clearance: 0mm
+            No Hazards.
+
+        Board Outline TO User Text Route Layer 2    Clearance: 0mm
+            No Hazards.
+
+
+        Total Hazards Found : 0
+
+
+
+    Total Proximity Hazards Found : 0
+
+
+
+
+    ----------------------------
+    CONNECTIVITY & SPECIAL RULES
+    ----------------------------
+
+
+    Check For Unplaced Parts                      : YES
+        No Hazards.
+
+
+    Check For Missing Parts                       : YES
+        No Hazards.
+
+
+    Check EP Component Hazards                    : YES
+        No Hazards.
+
+
+    Check Bond Wire Hazards                       : NO
+
+
+    Check Trace Hangers                           : YES
+        No Hazards.
+
+
+    Check Trace Loops                             : YES
+        No Hazards.
+
+
+    Check Trace Widths                            : YES
+        No Hazards.
+
+
+    Check Single Point Nets                       : YES
+        No Hazards.
+
+
+    Check NonPlane Unrouted/Partially Routed Nets : YES
+        No Hazards.
+
+
+    Check Plane Unrouted/Partial Routed Nets      : YES
+        No Hazards.
+
+
+    Check Routed Plane Pins                       : YES
+        No Hazards.
+
+
+    Check Plane Islands                           : YES
+        No Hazards.
+
+
+    Check Dangling Vias/Jumpers                   : YES
+        No Hazards.
+
+
+    Check Unrouted Pins                           : YES
+        No Hazards.
+
+
+    Check Routed Non-Plated Pins                  : YES
+        No Hazards.
+
+
+    Check Minimum Annular Ring                    : NO
+
+
+    Check For Vias Under SMD Pads                 : NO
+
+
+    Check For Vias Under Top Place Outlines       : NO
+
+
+    Check For Vias Under Bottom Place Outlines    : NO
+
+
+    Check For Missing Conductive Pads             : All Pads / All Layers
+        No Hazards.
+
+
+    Check For Missing Part Soldermask Pads        : YES
+        No Hazards.
+
+
+    Check For Missing Via Soldermask Pads         : NO
+
+
+    Check For Missing Part Cover Layer Pads       : NO
+
+
+    Check For Missing Via Cover Layer Pads        : NO
+
+
+    Check For Missing Solderpaste Pads            : YES
+        No Hazards.
+
+
+
+    Total Connectivity/SpecialRules Hazards Found : 0
+
+
+
+    ====================================================================
+
+
+
+    Total DRC Hazards Found : 0
+
+
+
+                         04:45 AM Sunday, December 30, 2018

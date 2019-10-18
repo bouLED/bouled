@@ -1,0 +1,157 @@
+[2018.12.17 11:00:36] [0000m.00s.039ms] [0] WELCOME
+[2018.12.17 11:00:36] [0000m.00s.052ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.17 11:00:36] [0000m.00s.052ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.17 11:00:36] [0000m.00s.052ms] [1] Base flow version [VX.2.4]
+[2018.12.17 11:00:36] [0000m.00s.052ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.17 11:00:36] [0000m.00s.052ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [7048]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] Current working dir [E:\design\LED_Panel]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] SDD_PLATFORM [win32]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.17 11:00:36] [0000m.00s.066ms] [2] S: Loading config files
+[2018.12.17 11:00:36] [0000m.00s.080ms] [1] Config file [E:\design\LED_Panel\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.17 11:00:36] [0000m.00s.080ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.17 11:00:36] [0000m.00s.080ms] [3] S: Config loaded
+[2018.12.17 11:00:37] [0000m.01s.026ms] [0] S: Project path [E:\design\LED_Panel\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.17 11:00:37] [0000m.01s.026ms] [0] S: Project global path [\\vboxsrv\bouled\design\LED_Panel\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.17 11:00:37] [0000m.01s.042ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Multi-user mode (config)
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Event polling mode autodetection
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Started up automatically by iCDB Client: DESKTOP-GIDMTNA:Zor:2620
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Auto close mode
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Database ID [d3bb-a7ec-0169-fff1-9b37-71ce-b377-1c50-b9af-cf6f-60ef-fec8]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: BEGIN dumping
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\bouled\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\mentor\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\mentor\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [\\vboxsrv\bouled\] -> [E:\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [\\VBOXSVR\mentor\] -> [F:\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [G:\]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] PathTranslator: END dumping
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: START
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Server startup lock file created
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Listening for client connections on port [10000]
+[2018.12.17 11:00:37] [0000m.01s.042ms] [0] S: Server network ID [DESKTOP-GIDMTNA:10.0.2.15,DESKTOP-GIDMTNA:10000]
+[2018.12.17 11:00:37] [0000m.01s.056ms] [0] S: Server GUID [9810-8cc1-a158-551f-5c37-71ca-c377-1c50-bec0-df6f-60ef-fec8]
+[2018.12.17 11:00:37] [0000m.01s.056ms] [0] S: Project GUID [d3bb-a7ec-0169-fff1-9b37-71ce-b377-1c50-b9af-cf6f-60ef-fec8]
+[2018.12.17 11:00:37] [0000m.01s.056ms] [0] S: Wrote data to server address file
+[2018.12.17 11:00:37] [0000m.01s.056ms] [0] S: Server startup lock file removed
+[2018.12.17 11:00:37] [0000m.01s.056ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.17 11:00:37] [0000m.01s.099ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.17 11:00:37] [0000m.01s.112ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.17 11:00:37] [0000m.01s.112ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.17 11:00:37] [0000m.01s.112ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.17 11:00:37] [0000m.01s.112ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.17 11:00:37] [0000m.01s.112ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] S: Local disc access time: 52 us
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] S: File server access time: 642 us
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] size [335640 (327.8 kB)]
+[2018.12.17 11:00:37] [0000m.01s.125ms] [1] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.125ms] [0] Database GUARD OK: [335640]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] Database GUARD OK: [335640]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] Database GUARD OK: [335640]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] Database GUARD OK: [335640]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] Database GUARD OK: [335640]
+[2018.12.17 11:00:37] [0000m.01s.140ms] [0] SingleFile: [1992-f81b-35b0-1b2b] SFI version check [1009] [1009]
+[2018.12.17 11:00:37] [0000m.01s.213ms] [0] SingleFile: [1992-f81b-35b0-1b2b] Database SFI header has been read in [89ms 141us]
+[2018.12.17 11:00:37] [0000m.01s.227ms] [0] iCDB Server PI: Server & plugin session [4495]
+[2018.12.17 11:00:37] [0000m.01s.227ms] [0] iCDB Server PI: Opening database [E:\design\LED_Panel\Default\default.icdb]
+[2018.12.17 11:00:37] [0000m.01s.227ms] [0] iCDB Server PI: Database [E:\design\LED_Panel\Default\default.icdb] opened
+[2018.12.17 11:00:37] [0000m.01s.287ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.17 11:00:37] [0000m.01s.306ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.17 11:00:37] [0000m.01s.362ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8] up to date
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] S: iCDB database loaded
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] S: Starting threads
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.17 11:00:37] [0000m.01s.398ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.17 11:00:37] [0000m.01s.398ms] [0] IT: Session [4496] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [2620] created
+[2018.12.17 11:00:37] [0000m.01s.411ms] [1] SC[4496]: Registered sub-client [DCDV] with ID [1] for session ID [4496] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:00:37] [0000m.01s.411ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.17 11:00:37] [0000m.01s.539ms] [1] CMT: There are [1] clients now: 4496
+[2018.12.17 11:00:38] [0000m.02s.275ms] [0] IT: Session [4497] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6132] created
+[2018.12.17 11:00:38] [0000m.02s.275ms] [1] CMT: There are [2] clients now: 4496, 4497
+[2018.12.17 11:00:38] [0000m.02s.275ms] [1] SC[4497]: Registered sub-client [ICDBC] with ID [1] for session ID [4497] host [DESKTOP-GIDMTNA] user [Zor] process ID [6132]
+[2018.12.17 11:00:38] [0000m.02s.302ms] [1] SC[4497]: Registered sub-client [ConsReuseSubClient] with ID [2] for session ID [4497] host [DESKTOP-GIDMTNA] user [Zor] process ID [6132]
+[2018.12.17 11:00:38] [0000m.02s.471ms] [1] SC[4497]: UnRegistered sub-client [ICDBC] with ID [1] for session ID [4497] host [DESKTOP-GIDMTNA] user [Zor] process ID [6132]
+[2018.12.17 11:00:38] [0000m.02s.471ms] [1] SC[4497]: UnRegistered sub-client [ConsReuseSubClient] with ID [2] for session ID [4497] host [DESKTOP-GIDMTNA] user [Zor] process ID [6132]
+[2018.12.17 11:00:38] [0000m.02s.568ms] [1] CMT: Removed client [4497]
+[2018.12.17 11:00:38] [0000m.02s.568ms] [1] CMT: There are [1] clients now: 4496
+[2018.12.17 11:00:39] [0000m.03s.609ms] [0] IT: Session [4498] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [4944] created
+[2018.12.17 11:00:39] [0000m.03s.609ms] [1] SC[4498]: Registered sub-client [Packager_111843] with ID [1] for session ID [4498] host [DESKTOP-GIDMTNA] user [Zor] process ID [4944]
+[2018.12.17 11:00:39] [0000m.03s.720ms] [1] CMT: There are [2] clients now: 4496, 4498
+[2018.12.17 11:00:40] [0000m.04s.502ms] [1] SC[4498]: UnRegistered sub-client [Packager_111843] with ID [1] for session ID [4498] host [DESKTOP-GIDMTNA] user [Zor] process ID [4944]
+[2018.12.17 11:00:40] [0000m.04s.587ms] [1] CMT: Removed client [4498]
+[2018.12.17 11:00:40] [0000m.04s.587ms] [1] CMT: There are [1] clients now: 4496
+[2018.12.17 11:01:12] [0000m.35s.962ms] [0] IT: Session [4499] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [6740] created
+[2018.12.17 11:01:12] [0000m.35s.962ms] [1] ProjectBackupManager: Client [ClientData[ClientNetAddress[DESKTOP-GIDMTNA] # ClientUserName[Zor] # ClientProcessID[6740] # SessionID[4499] # Type[0]] # SubClientData[SubClientName[] # SubClientID[0]]] set project file (.prj): local path [E:\DESIGN\LED_PANEL\LED_Panel.prj], global path [\\vboxsrv\bouled\DESIGN\LED_PANEL\LED_Panel.prj]
+[2018.12.17 11:01:12] [0000m.36s.056ms] [1] CMT: There are [2] clients now: 4496, 4499
+[2018.12.17 11:01:12] [0000m.36s.181ms] [0] PrjBackupMgr: Migrating iCDB upgrade backups from directory [LED_PANEL\Default\default.icdb\cdbback] to Project Backup format.
+[2018.12.17 11:01:12] [0000m.36s.197ms] [0] PrjBackupMgr: Migrating iCDB upgrade backup file [2018-12-17 11.00.27-1848].
+[2018.12.17 11:01:12] [0000m.36s.681ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-17 11.00.27 - consDefUpgr.zip] with GUID [8778-2a2b-70a2-965d-8e37-71cd-e377-1c50-f9c0-df6f-60ef-fec8]
+[2018.12.17 11:01:12] [0000m.36s.681ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[181e-d0f5-ecc8-80ad-00c5-31c5-0c53-1c50-062a-86c4-8670-eca8] CreationTime[Wednesday, December 12, 2018 14:23:10] Type[ConsDefUpgrade] Creator[iCDB Server (2018-12-14 08.29.49-8712)] ApplicationName[iCDB Server (2018-12-12 15.23.10-10596)] UserName[alexis] MachineName[DESKTOP-D6MOGOB] Description[Before constraint definitions upgrade using flow install:\n    Xpedition Enterprise X-ENTP VX.2.4\n    Flow Id: EEVX.2.4\n    Install Id: 1845723; 1845717\n    iCDB Build Id: 11282694\n    iCDB Version: 3500] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-12 15.23.10 - consDefUpgr.zip] BackupFileSize[344336] Persistent[FALSE]
+[2018.12.17 11:01:12] [0000m.36s.696ms] [0] PrjBackupMgr: Project Backup file [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-12 15.23.10 - consDefUpgr.zip] with GUID [181e-d0f5-ecc8-80ad-00c5-31c5-0c53-1c50-062a-86c4-8670-eca8] removed
+[2018.12.17 11:01:12] [0000m.36s.711ms] [1] PrjBackupMgr: Migrated iCDB content backup file [E:\DESIGN\LED_PANEL\Default\default.icdb\cdbback\2018-12-17 11.00.27-1848.zip] removed
+[2018.12.17 11:01:12] [0000m.36s.711ms] [0] PrjBackupMgr: Successfully migrated iCDB upgrade backup file [2018-12-17 11.00.27-1848] to Project Backup format [2018-12-17 11.00.27 - consDefUpgr.zip]
+[2018.12.17 11:01:12] [0000m.36s.743ms] [1] SC[4499]: Registered sub-client [Expedition PCB_144093] with ID [1] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:13] [0000m.37s.055ms] [1] SC[4499]: Registered sub-client [EEVM] with ID [2] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:13] [0000m.37s.305ms] [1] SC[4499]: UnRegistered sub-client [EEVM] with ID [2] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:15] [0000m.39s.440ms] [1] SC[4499]: Registered sub-client [JobPrefsDBPI_147656] with ID [3] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:15] [0000m.39s.457ms] [1] SC[4499]: UnRegistered sub-client [JobPrefsDBPI_147656] with ID [3] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:17] [0000m.41s.416ms] [1] SC[4499]: Registered sub-client [JobPrefsDBPI_149625] with ID [4] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:17] [0000m.41s.512ms] [1] SC[4499]: UnRegistered sub-client [JobPrefsDBPI_149625] with ID [4] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:19] [0000m.43s.365ms] [1] SC[4499]: Registered sub-client [JobPrefsDBPI_151593] with ID [5] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:19] [0000m.43s.412ms] [1] SC[4499]: UnRegistered sub-client [JobPrefsDBPI_151593] with ID [5] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:19] [0000m.43s.694ms] [1] SC[4499]: Registered sub-client [JobPrefsDBPI_151921] with ID [6] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:19] [0000m.43s.741ms] [1] SC[4499]: UnRegistered sub-client [JobPrefsDBPI_151921] with ID [6] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:20] [0000m.43s.977ms] [1] SC[4499]: Registered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:20] [0000m.44s.008ms] [1] SC[4499]: Registered sub-client [StartServerClient1918] with ID [8] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:20] [0000m.44s.008ms] [1] SC[4499]: UnRegistered sub-client [StartServerClient1918] with ID [8] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:01:20] [0000m.44s.679ms] [1] PrjBackupMgr: Successfully created Project Backup [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-17 11.01.13 - auto.zip] with GUID [5390-c799-6b12-173e-8e37-71cd-e377-1c50-328f-cf6f-60ef-fec8]
+[2018.12.17 11:01:20] [0000m.44s.679ms] [0] PrjBackupMgr: Removing excessive backup:  BackupGUID[960f-4783-5947-6222-140d-41c6-40d4-1c50-6df9-76a4-83fc-1da8] CreationTime[Saturday, December 15, 2018 09:58:25] Type[Autosave] Creator[iCDB Server (2018-12-15 10.58.09-240)] ApplicationName[iCDB Server (2018-12-15 10.58.09-240)] UserName[Lucas] MachineName[LUCAS] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-15 10.58.25 - auto.zip] BackupFileSize[743060] Persistent[FALSE]
+[2018.12.17 11:01:20] [0000m.44s.679ms] [0] PrjBackupMgr: Project Backup file [E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-15 10.58.25 - auto.zip] with GUID [960f-4783-5947-6222-140d-41c6-40d4-1c50-6df9-76a4-83fc-1da8] removed
+[2018.12.17 11:01:20] [0000m.44s.679ms] [0] PrjBackupEngine: Successfully created backup:  BackupGUID[5390-c799-6b12-173e-8e37-71cd-e377-1c50-328f-cf6f-60ef-fec8] CreationTime[Monday, December 17, 2018 10:01:13] Type[Autosave] Creator[iCDB Server (2018-12-17 11.00.36-7048)] ApplicationName[iCDB Server (2018-12-17 11.00.36-7048)] UserName[Zor] MachineName[DESKTOP-GIDMTNA] Description[Autosave] FullFlowName[Xpedition Enterprise X-ENTP VX.2.4] FlowId[EEVX.2.4] GBSInstallId[1845723; 1845717] GBSBuildId[11282694] IcdbVersion[3500] ReferenceLogFilePath[] BackupFilePath[E:\DESIGN\LED_PANEL\Default\ProjectBackup\backups\2018-12-17 11.01.13 - auto.zip] BackupFileSize[717060] Persistent[FALSE]
+[2018.12.17 11:03:00] [0002m.23s.862ms] [0] DFAMT: File server access time: 801 us
+[2018.12.17 11:29:24] [0028m.47s.764ms] [1] SC[4499]: UnRegistered sub-client [ExpeditionCrossProber] with ID [7] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:29:25] [0028m.49s.360ms] [1] SC[4499]: UnRegistered sub-client [Expedition PCB_144093] with ID [1] for session ID [4499] host [DESKTOP-GIDMTNA] user [Zor] process ID [6740]
+[2018.12.17 11:29:25] [0028m.49s.487ms] [1] CMT: Removed client [4499]
+[2018.12.17 11:29:25] [0028m.49s.487ms] [1] CMT: There are [1] clients now: 4496
+[2018.12.17 11:29:29] [0028m.53s.407ms] [1] SC[4496]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4496] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:29:29] [0028m.53s.537ms] [1] CMT: Removed client [4496]
+[2018.12.17 11:29:29] [0028m.53s.537ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.17 11:29:31] [0028m.54s.759ms] [0] CMT: Starting server auto-close
+[2018.12.17 11:29:31] [0028m.54s.823ms] [0] S: Closing server
+[2018.12.17 11:29:31] [0028m.54s.966ms] [0] iCDB Server PI: Closing plugins
+[2018.12.17 11:29:31] [0028m.54s.966ms] [0] iCDB Server PI: Plugins closed
+[2018.12.17 11:29:31] [0028m.54s.966ms] [0] iCDB Server PI: Unloading database
+[2018.12.17 11:29:31] [0028m.54s.966ms] [0] iCDB Server PI: Saving storage
+[2018.12.17 11:29:31] [0028m.54s.966ms] [0] iCDB Server PI: Closing database
+[2018.12.17 11:29:31] [0028m.54s.966ms] [1] iCDB Server PI: Stats: Database defragmentation: max[4] avg[1] holes[13%] data[90%]
+[2018.12.17 11:29:31] [0028m.54s.966ms] [1] iCDB Server PI: Stats: Database file size [357920 (349.5 kB)]
+[2018.12.17 11:29:31] [0028m.55s.000ms] [0] iCDB Server PI: Database closed
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1616369] ticks
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [161636] microseconds
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [80]
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [494] commands per second
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: Mem[35966976]
+[2018.12.17 11:29:31] [0028m.55s.000ms] [1] iCDB Server PI: Stats: MemPeak[43376640]
+[2018.12.17 11:29:31] [0028m.55s.000ms] [0] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] closed with size [357920 (349.5 kB)]
+[2018.12.17 11:29:31] [0028m.55s.177ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.17 11:29:31] [0028m.55s.177ms] [0] MWT: STOP
+[2018.12.17 11:29:31] [0028m.55s.177ms] [0] S: STOP

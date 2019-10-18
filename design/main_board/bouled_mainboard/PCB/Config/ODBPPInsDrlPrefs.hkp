@@ -1,0 +1,59 @@
+.FILETYPE NC_DRILL_PREFERENCES
+.VERSION "WG2004"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Tuesday December 20 16:01:35 2016"
+
+.Units IN
+
+.DrillOutputDir  ".\\Output\\ODBPPIns_GN\\"
+
+.SelectMillingLayer NO
+
+.DataOffset (0, 0)
+
+.StepAndRepeat
+  ..DataCopies   (1, 1)
+  ..OriginOffset (0, 0)
+
+.Optimize
+  ..SweepAxis HORIZONTAL
+  ..BandWidth 0.1
+  ..SortByBoard NO
+
+.PreDrill OFF
+  ..HoleSize 0
+
+.OutputFiles
+  ..MachineFormat  "Sys: DrillEnglish.dff"
+  ..MachineFileExt ".ncd"
+
+.DrillSymbols
+  ..AutoAssign PREFER_CHARACTERS
+
+.DrillCharts
+  ..ChartUnits IN
+  ..Columns SYMBOL
+  ..DisplayAs "SYMBOL"
+  ..Alignment CENTER
+  ..FontName         "Veribest Gerber 0"
+  ..FontSize          0.05
+  ..LineSpacing       0.05
+  ..PenWidth          0.005
+  ..PosTolerance      0
+  ..NegTolerance      0
+  ..Precision         1, 4
+  ..SingleChart       0
+  ..SeparateLayers    0
+  ..HorizontalLSep    0
+  ..VerticalLSep      0
+  ..UpperCaseText     0
+  ..IncludeContours   1
+
+
+
+  ..FCFFontName ""
+
+  ..FCFData
+.SymbolScheme    ""
+.SchemeLocation    ""
+

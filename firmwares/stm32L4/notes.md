@@ -1,0 +1,11 @@
+#SPI
+## STM32
+MISO   PA6
+MOSI   PA7
+SCK    PA5
+NSS    PA4
+## ESP32
+MISO   12
+MOSI   13
+SCK    14
+NSS    15

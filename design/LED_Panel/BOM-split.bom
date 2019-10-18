@@ -1,0 +1,93 @@
+Ref Des	Quantity	Value	Part Label	Part Number	Description	Distributor code	Option	Place
+R1	1	10K 	RES_10.0k_0603	01-0385	Resistor 10.0k ohms / 1% / case 0603	Fa : 1527581	 	 
+R2	1	31.6K 	RES_31.6k_0603	01-0433	Resistor 31.6k ohms / 1% / case 0603	Fa : 2073469	 	 
+C1	1	2.2nF	CAP C0603 2.2nF X7R 50V	10-0007	Capacitor Ceramic X7R / 2.2nF / 50V / ±20% / case 0603	RS : 264-4573	 	 
+C2	1	220nF	CAP C0805 220nF X7R 50V	10-0041	Capacitor Ceramic X7R / 220nF / 50V / ±1.25% / case 0805	Fa : 8820139	 	 
+C3	1	2.2uF	CAP C1206 2.2uF X7R 25V	10-0056	Capacitor Ceramic X7R / 2.2uF / 25V / ±80% / case 1206	Fa : 1301808	 	 
+C5	1	47uF	CAP C1210 47uF X5R 16V	10-0095	Capacitor Ceramic X5R / 47uF / 16V / ±10% / case 1210 / Murata GRM32ER61C476KE15L 	Fa : 1907527	 	 
+C4	1	10uF	CAP C0603 10uF X5R 10V	10-0120	Capacitor Ceramic X5R / 10uF / 10V / ±20% / case 0603	Fa : 2456110	 	 
+D79	1	 	MBRS340	20-0001	Diode Shottky 3A 0.5V OnSemi MBRS340 case SMC	Fa : 9557377	 	 
+D80	1	 	MBR0540-T1	20-0019	Diode Shottky 500mA 0.5V OnSemi MBRS540 case SOD123	Fa : 9556923	 	 
+D1	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D2	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D3	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D4	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D5	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D6	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D7	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D8	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D9	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D10	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D11	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D12	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D13	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D14	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D15	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D16	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D17	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D18	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D19	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D20	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D21	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D22	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D23	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D24	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D25	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D26	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D27	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D28	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D29	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D30	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D31	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D32	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D33	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D34	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D35	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D36	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D37	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D38	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D39	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D40	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D41	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D42	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D43	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D44	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D45	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D46	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D47	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D48	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D49	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D50	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D51	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D52	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D53	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D54	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D55	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D56	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D57	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D58	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D59	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D60	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D61	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D62	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D63	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D64	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D65	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D66	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D67	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D68	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D69	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D70	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D71	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D72	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D73	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D74	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D75	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D76	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D77	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+D78	1	 	APA102C	20-0075	RGB LED, SPI controlled, 5V, APA102C	 	 	 
+U1	1	 	LT1765ES8#PBF	40-0003	3A 1.25 MHz Step-down Converter / Linear Tech LT1765ES8#PBF / Adj output / case SOIC8	Mouser : 584-LT1765ES8#PBF	 	 
+L1	1	8.2uH	SELF 8.2uH	50-0044	Inductor blindée 8.2uH, 20%, 6.1A, 15MHz, 0.035ohms, Coilcraft XAL5050-822MEC, boitier 5.48x5.28	Fa : 2289072	 	 
+J3	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J2	1	 	MICROMATCH-4	70-0014	4pins smd on board connector Micromatch AMP 7-188275-4	Fa : 3784710	 	 
+J1	1	 	B2B-PH-SM4-TB	70-0086	Embase mâle CMS JST 2 broches, 2mm, avec détrompeur, à sortie verticale, B2B-PH-SM4-TB	Fa : 9492534	 	 

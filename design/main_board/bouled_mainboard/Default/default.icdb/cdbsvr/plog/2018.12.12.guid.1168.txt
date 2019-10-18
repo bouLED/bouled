@@ -1,0 +1,30 @@
+[2018.12.12 13:38:46] [0000m.08s.885ms] [0] WELCOME
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] iCDB Database ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Base flow version [VX.2.4]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [1168]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Current working dir [E:\design\main_board\bouled_mainboard]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] SDD_PLATFORM [win32]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.12 13:38:46] [0000m.08s.885ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] WARNING: Database [E:\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] was manually copied
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] File change time:        [2018-12-12 13.33.34]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] File modification time:  [2018-12-12 13.33.34]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Last change time:        [2018-12-12 13.22.19]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Last database open information:
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Time:             [2018-12-12 12.34.07]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Location:         [E:\bouLED\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Machine:          [DESKTOP-D6MOGOB]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] User:             [alexis]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] PID:              [7748]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Application:      [iCDB Server]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Operating system: [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] WARNING: Regenerating database GUID
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Previous database GUID [fd92-a2e7-4309-6a27-f12d-01c4-22d0-1c50-88ff-509f-9fef-0fc8]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [3] Current database GUID  [f76f-0c38-e00b-390d-6510-11cb-5101-1c50-baef-cf6f-60ef-fec8]
+[2018.12.12 13:38:46] [0000m.08s.902ms] [0] .

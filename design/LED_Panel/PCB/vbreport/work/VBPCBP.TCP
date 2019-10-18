@@ -1,0 +1,66 @@
+PropID  	PartNumberID	PropertyName                    	PropertyValue
+1       	13          	Type                            	Resistor
+2       	13          	Value                           	10000
+3       	13          	Tolerance                       	1%
+4       	13          	Power Dissipation               	0.0625
+5       	13          	Cout HT                         	0.045
+6       	13          	Code Fournisseur                	Fa : 1527581
+7       	14          	Type                            	Resistor
+8       	14          	Value                           	31600
+9       	14          	Tolerance                       	1%
+10      	14          	Power Dissipation               	0.0625
+11      	14          	Cout HT                         	0.045
+12      	14          	Code Fournisseur                	Fa : 2073469
+13      	1           	Type                            	Capacitor
+14      	1           	Cout HT                         	0.0412
+15      	1           	Code Fournisseur                	Fa : 2688472
+16      	1           	Value                           	0.0000000022
+17      	1           	Tolerance                       	20%
+18      	1           	Sous Techno                     	X7R
+19      	2           	Type                            	Capacitor
+20      	2           	Value                           	0.00000022
+21      	2           	Tolerance                       	1.25%
+22      	2           	Cout HT                         	0.3
+23      	2           	Code Fournisseur                	Fa : 8820139
+24      	2           	Sous Techno                     	X7R
+25      	3           	Type                            	Capacitor
+26      	3           	Value                           	0.0000022
+27      	3           	Cout HT                         	0.56
+28      	3           	Tolerance                       	80%
+29      	3           	Code Fournisseur                	Fa : 1301808
+30      	3           	Dielectric                      	X7R
+31      	4           	Type                            	Capacitor
+32      	4           	Value                           	0.000047
+33      	4           	Tolerance                       	10%
+34      	4           	Cout HT                         	0.83
+35      	4           	Code Fournisseur                	Fa : 1907527
+36      	4           	Dielectric                      	X5R
+37      	5           	Type                            	Capacitor
+38      	5           	Cout HT                         	0.117
+39      	5           	Code Fournisseur                	Fa : 2456110
+40      	5           	Value                           	0.00001
+41      	5           	Tolerance                       	20%
+42      	5           	Sous Techno                     	X7R
+43      	8           	Type                            	Diode
+44      	8           	Code Fournisseur                	Fa : 9557377
+45      	8           	Cout HT                         	0.45
+46      	8           	Vf                              	0.5
+47      	9           	Type                            	Diode
+48      	9           	Code Fournisseur                	Fa : 9556923
+49      	9           	Cout HT                         	0.75
+50      	9           	Vf                              	0.5
+51      	10          	Type                            	Diode
+52      	11          	Type                            	IC
+53      	11          	Code Fournisseur                	Mouser : 584-LT1765ES8#PBF
+54      	11          	Cout HT                         	10.08
+55      	12          	Type                            	Inductor
+56      	12          	Code Fournisseur                	Fa : 2289072
+57      	12          	Cout HT                         	1.09
+58      	12          	Value                           	0.0000082
+59      	12          	Tolerance                       	20%
+60      	6           	Type                            	Connector
+61      	6           	Code Fournisseur                	Fa : 3784710
+62      	6           	Cout HT                         	0.895
+63      	7           	Type                            	Connector
+64      	7           	Code Fournisseur                	Fa : 9492534
+65      	7           	Cout HT                         	0.32

@@ -1,0 +1,5 @@
+.FILETYPE "TestPoint Placement: Log File" 
+.CREATOR "Mentor Graphics"
+.DATE "Fri Dec 14 09:38:25 2018"
+
+Error at line: 1 :Invalid number of tokens: 1

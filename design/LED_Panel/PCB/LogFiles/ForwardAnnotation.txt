@@ -1,0 +1,141 @@
+
+                               Forward Annotation
+                               ------------------
+
+                      09:57 PM Saturday, December 29, 2018
+                Job Name: E:\BOULED\DESIGN\LED_PANEL\PCB\PCB.pcb
+
+
+Version:  01.01.00
+
+     A new Target PDB will be created from the Central Library to satisfy the parts
+      requirements of the iCDB.
+
+     The schematic source is a Common Data Base.
+
+     The AllowAlphaRefDes status indicates that reference
+      designators containing all alpha characters should be deleted
+      and the relevant symbols repackaged.
+
+
+
+     Common Data Base has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 14
+          Part Numb: 01-0385 -> Vend Part: 01-0385 
+          Part Numb: 01-0433 -> Vend Part: 01-0433 
+          Part Numb: 10-0007 -> Vend Part: 10-0007 
+          Part Numb: 10-0041 -> Vend Part: 10-0041 
+          Part Numb: 10-0056 -> Vend Part: 10-0056 
+          Part Numb: 10-0095 -> Vend Part: 10-0095 
+          Part Numb: 10-0120 -> Vend Part: 10-0120 
+          Part Numb: 20-0001 -> Vend Part: 20-0001 
+          Part Numb: 20-0019 -> Vend Part: 20-0019 
+          Part Numb: 20-0075 -> Vend Part: 20-0075 
+          Part Numb: 40-0003 -> Vend Part: 40-0003 
+          Part Numb: 50-0044 -> Vend Part: 50-0044 
+          Part Numb: 70-0014 -> Vend Part: 70-0014 
+          Part Numb: 70-0086 -> Vend Part: 70-0086 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+     Checking for value differences between symbol properties and PartsDB properties
+
+     Checking the validity of the packaging of prepackaged schematic
+      symbols.  Only the first error in symbols having the same
+      Reference Designator will be reported.
+
+     The packaging of all prepackaged schematic symbols is consistent
+      with the Parts DataBase data for the cross mapping of
+      symbol pin names to Part Number pin numbers.
+      Symbols that were not prepackaged will now be packaged correctly.
+      
+     No errors in Existing Schematic Packaging.
+
+     WARNING: Unable to find the following cell(s) in central library
+	(_VB_DRILL_DRAWING_)THRU
+	(_VB_DRILL_SYMBOLS_)THRU
+	DXF_SVG battery
+	
+
+
+     The Common DataBase has been read and will be packaged.
+     Clustering 92 Symbols:
+              92  *****************************************
+              50  **************************************************
+     Clustering is Complete
+
+     Packager Assignments successfully completed
+
+
+
+     165 nets were found containing 507 pins
+     92 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase has been compiled from the Schematic Design.
+      Use Netload to bring the Component Design into sync.
+
+     This Logic Data was Compiled with 1 warnings.
+      Erroneous results may occur if not fixed.
+
+                                     NetLoad
+                                     -------
+
+                      09:58 PM Saturday, December 29, 2018
+                Job Name: E:\BOULED\DESIGN\LED_PANEL\PCB\PCB.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+     Netload completed successfully with 0 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     No changes made to Existing Schematic Packaging.
+
+
+     There is no symbol data to be back annotated to the schematic source.
+
+
+     The Logic DataBase has been updated and the Common DataBase has
+      automatically been brought into sync with the Logic DataBase.
+      Please proceed with your design.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+            Creating a new netlist text file (LogFiles\KeyinNetList.txt)
+            from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new netlist text file has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 0 reassignments of nets.
+There were 0 traces broken back.
+There were 0 nets removed from the Layout Design.

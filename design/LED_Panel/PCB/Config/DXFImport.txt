@@ -1,0 +1,11 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "12/14/2018 09:11:58"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "C:\\Users\\Lucas\\Documents\\Travail\\Telecom\\bouled\\openscad\\78leds.dxf"
+.UNITS mm
+
+.SCALE 1
+

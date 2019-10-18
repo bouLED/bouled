@@ -1,0 +1,21 @@
+HoleID	Name                                                            	Shape 	X           	Y           	PositiveTol 	NegativeTol 	Plated	Method    
+1     	Rnd 19 +Tol 0 -Tol -3                                           	ROUND 	0.483       	0.000       	0.000       	-0.076      	YES   	DRILLED   
+2     	Rnd 0.3 +Tol 0.05 -Tol -0.1                                     	ROUND 	0.300       	0.000       	0.050       	-0.100      	YES   	DRILLED   
+3     	Rnd 0.35 +Tol 0.05 -Tol -0.1                                    	ROUND 	0.350       	0.000       	0.050       	-0.100      	YES   	DRILLED   
+4     	Rnd 1.85 +/-Tol 0.1                                             	ROUND 	1.850       	0.000       	0.100       	-0.100      	YES   	DRILLED   
+5     	Rnd 1.6 +Tol 0.15 -Tol -0.1                                     	ROUND 	1.600       	0.000       	0.150       	-0.100      	YES   	DRILLED   
+6     	Rnd 0.4 +Tol 0.05 -Tol -0.1                                     	ROUND 	0.400       	0.000       	0.050       	-0.100      	YES   	DRILLED   
+7     	Rnd 1.5 +/-Tol 0.1 Non-Plated                                   	ROUND 	1.500       	0.000       	0.100       	-0.100      	NO    	DRILLED   
+8     	Rnd 0.2 +/-Tol 0.01                                             	ROUND 	0.200       	0.000       	0.010       	-0.010      	YES   	DRILLED   
+9     	Rnd 1.6 +Tol 0.15 -Tol -0.1 Non-Plated                          	ROUND 	1.600       	0.000       	0.150       	-0.100      	NO    	DRILLED   
+10    	Rnd 1.4 +/-Tol 0.01 Non-Plated                                  	ROUND 	1.400       	0.000       	0.010       	-0.010      	NO    	DRILLED   
+11    	Rnd 0.991 +/-Tol 0.076 Non-Plated                               	ROUND 	0.991       	0.000       	0.076       	-0.076      	NO    	DRILLED   
+12    	Rnd 1 +Tol 0.1 -Tol -0.05                                       	ROUND 	1.000       	0.000       	0.100       	-0.050      	YES   	DRILLED   
+13    	Rnd 0.9 +Tol 0.1 -Tol -0.05                                     	ROUND 	0.900       	0.000       	0.100       	-0.050      	YES   	DRILLED   
+14    	Rnd 1.1 +Tol 0.15 -Tol -0.1                                     	ROUND 	1.100       	0.000       	0.150       	-0.100      	YES   	DRILLED   
+15    	Rnd 3.25 +/-Tol 0.1 Non-Plated                                  	ROUND 	3.250       	0.000       	0.100       	-0.100      	NO    	DRILLED   
+16    	Rnd 0.8 +Tol 0.1 -Tol -0.05                                     	ROUND 	0.800       	0.000       	0.100       	-0.050      	YES   	DRILLED   
+17    	Rnd 1.2 +Tol 0.15 -Tol -0.1                                     	ROUND 	1.200       	0.000       	0.150       	-0.100      	YES   	DRILLED   
+18    	Rnd 3.4 +/-Tol 0.025 Non-Plated                                 	ROUND 	3.400       	0.000       	0.025       	-0.025      	NO    	DRILLED   
+19    	Rnd 2.8 +/-Tol 0.05 Non-Plated                                  	ROUND 	2.800       	0.000       	0.050       	-0.050      	NO    	DRILLED   
+20    	Rnd 5,5 +/-Tol 0,1 Non-Plated                                   	ROUND 	5.500       	0.000       	0.100       	-0.100      	NO    	DRILLED   

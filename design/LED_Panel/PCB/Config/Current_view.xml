@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE DCML SYSTEM "dcml.dtd">
+<DCML Type="EzPrintConfig">
+
+  <Name></Name>
+
+  <ScreenName>EzPrint</ScreenName>
+
+  <ShortDescription>This file is for storing printing options for EDA Designs.</ShortDescription>
+
+  <Object Type="">
+    <Name>EzPrint</Name>
+    <ScreenName>EzPrint</ScreenName>
+    <ShortDescription>Printing configuration object.</ShortDescription>
+    <SubObjects>
+      <Object Type="">
+        <Name>EzPrint.Output</Name>
+        <ScreenName>General Output settings</ScreenName>
+        <ShortDescription>This Printing Config Object is for General Output Printing Settings</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.Output.OutputPaper</Name>
+            <ScreenName>Paper</ScreenName>
+            <ShortDescription>Setting Paper Configurations</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.Margins</Name>
+                <ScreenName>Margins</ScreenName>
+                <ShortDescription>This Sets the Margins of the Paper</ShortDescription>
+                <Value DataType="Margins">
+                  <Margins>
+                    <MarginTop>2.000</MarginTop>
+                    <MarginLeft>2.000</MarginLeft>
+                    <MarginBottom>2.000</MarginBottom>
+                    <MarginRight>2.000</MarginRight>
+                    <MarginUnits>cm</MarginUnits>
+                  </Margins>
+                </Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.Paper</Name>
+                <ScreenName>Paper</ScreenName>
+                <ShortDescription>This Sets the size of the Paper</ShortDescription>
+                <Value DataType="String">SupportedPapers.Papers.A4</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.PaperMedia</Name>
+                <ScreenName>Paper Media</ScreenName>
+                <ShortDescription>This selects the Media for Paper</ShortDescription>
+                <Value DataType="String">Plain</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.Autofit</Name>
+                <ScreenName>Autofit</ScreenName>
+                <ShortDescription>This is for Automatic fitting the contents in the output file</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.AutoRotate</Name>
+                <ScreenName>AutoRotate</ScreenName>
+                <ShortDescription>This is for rotation of contents while automatic fitting them in the output file</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.UseSourcePageSize</Name>
+                <ScreenName>UseSourcePageSize</ScreenName>
+                <ShortDescription>This is for using the source document page sizes for printing</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.GenerateMultipleFiles</Name>
+                <ScreenName>GenerateMultipleFiles</ScreenName>
+                <ShortDescription>If multiple input documents are given, this can be used to generate multiple output files for each input document</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.Scaling</Name>
+                <ScreenName>Scaling</ScreenName>
+                <ShortDescription>This is for Scaling of the contents in the output file</ShortDescription>
+                <Value DataType="Integer">100</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.Orientation</Name>
+                <ScreenName>Orientation</ScreenName>
+                <ShortDescription>This Sets the Orientation (Portrait/Landscape/Landscape and Rotated) of the Paper</ShortDescription>
+                <Value DataType="String">Portrait</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Output.OutputPaper.ColorPrinting</Name>
+                <ScreenName>Color Printing</ScreenName>
+                <ShortDescription>This can be Color/Gray Scale/Black and White</ShortDescription>
+                <Value DataType="String">Color</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.DocumentManager</Name>
+        <ScreenName> Customize documents </ScreenName>
+        <ShortDescription> Customize documents </ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.DocumentManager.Header</Name>
+            <ScreenName>Header</ScreenName>
+            <ShortDescription>Customize header</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.Enable</Name>
+                <ScreenName>Enable header</ScreenName>
+                <ShortDescription>Enable header generation in output</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.Left</Name>
+                <ScreenName>Left header field</ScreenName>
+                <ShortDescription>Left header field</ShortDescription>
+                <Value DataType="String">None</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.Center</Name>
+                <ScreenName>Center header field</ScreenName>
+                <ShortDescription>Center header field</ShortDescription>
+                <Value DataType="String">Design Name</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.Right</Name>
+                <ScreenName>Right header field</ScreenName>
+                <ShortDescription>Right header field</ShortDescription>
+                <Value DataType="String">None</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.Size</Name>
+                <ScreenName>Size of header field</ScreenName>
+                <ShortDescription>Size of header field</ShortDescription>
+                <Value DataType="RealNumber">0.500</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.SizeUnit</Name>
+                <ScreenName>Size unit of header field</ScreenName>
+                <ShortDescription>Size unit of header field</ShortDescription>
+                <Value DataType="String">inch</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Header.CustomText</Name>
+                <ScreenName>Custom header text</ScreenName>
+                <ShortDescription>Custom header text</ShortDescription>
+                <Value DataType="String"></Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.DocumentManager.Footer</Name>
+            <ScreenName>Footer</ScreenName>
+            <ShortDescription>Customize footer</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.Enable</Name>
+                <ScreenName>Enable footer</ScreenName>
+                <ShortDescription>Enable footer generation in output</ShortDescription>
+                <Value DataType="Boolean">true</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.Left</Name>
+                <ScreenName>Left footer field</ScreenName>
+                <ShortDescription>Left footer field</ShortDescription>
+                <Value DataType="String">None</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.Center</Name>
+                <ScreenName>Center footer field</ScreenName>
+                <ShortDescription>Center footer field</ShortDescription>
+                <Value DataType="String">Company Name</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.Right</Name>
+                <ScreenName>Right footer field</ScreenName>
+                <ShortDescription>Right footer field</ShortDescription>
+                <Value DataType="String">None</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.Size</Name>
+                <ScreenName>Size of footer field</ScreenName>
+                <ShortDescription>Size of footer field</ShortDescription>
+                <Value DataType="RealNumber">0.500</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.SizeUnit</Name>
+                <ScreenName>Size unit of footer field</ScreenName>
+                <ShortDescription>Size unit of footer field</ShortDescription>
+                <Value DataType="String">inch</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Footer.CustomText</Name>
+                <ScreenName>Custom footer text</ScreenName>
+                <ShortDescription>Custom footer text</ShortDescription>
+                <Value DataType="String"></Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.DocumentManager.Document</Name>
+            <ScreenName>Document</ScreenName>
+            <ShortDescription>Customize document settings</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Document.DateFormat</Name>
+                <ScreenName>Date format</ScreenName>
+                <ShortDescription>Date format</ShortDescription>
+                <Value DataType="String">mm-dd-yyyy</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Document.StartPageNumber</Name>
+                <ScreenName>Start page numbering at</ScreenName>
+                <ShortDescription>Start page numbering at</ShortDescription>
+                <Value DataType="Integer">1</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.DocumentManager.Document.CompanyName</Name>
+                <ScreenName>Company name</ScreenName>
+                <ShortDescription>Company name</ShortDescription>
+                <Value DataType="String">Footbar</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.Action</Name>
+        <ScreenName>Action</ScreenName>
+        <ShortDescription>Action</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.Action.Process</Name>
+            <ScreenName>Process</ScreenName>
+            <ShortDescription>Process</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Action.Process.Job</Name>
+                <ScreenName>Export/Print</ScreenName>
+                <ShortDescription>This printing configuration for selecting Job type export/print  </ShortDescription>
+                <Value DataType="String">Export</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Action.Process.Format</Name>
+                <ScreenName>Export/Print</ScreenName>
+                <ShortDescription>This printing configuration for selecting the PDF/PS2/PS3/HPGL2/svg format of the Jobtype export/print</ShortDescription>
+                <Value DataType="String">PDF</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.Action.InputOutput</Name>
+            <ScreenName>Action Input Output</ScreenName>
+            <ShortDescription>Input Output</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Action.InputOutput.ExportToPDFFilePath</Name>
+                <ScreenName>PDF FilePath</ScreenName>
+                <ShortDescription>PDF Output will be saved at this location</ShortDescription>
+                <Value DataType="String">$EZP_USER_HOME/out.pdf</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Action.InputOutput.ExportToPostScript3FilePath</Name>
+                <ScreenName>Postscript3 FilePath</ScreenName>
+                <ShortDescription>Postscript3 Output will be saved at this location</ShortDescription>
+                <Value DataType="String">$EZP_USER_HOME/out.ps</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Action.InputOutput.ExportToHPGL2FilePath</Name>
+                <ScreenName>HPGL2 FilePath</ScreenName>
+                <ShortDescription>HPGL2 Output will be saved at this location</ShortDescription>
+                <Value DataType="String">$EZP_USER_HOME/out.hpgl2</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Action.InputOutput.ExportToPostScript2FilePath</Name>
+                <ScreenName>Postscript2 FilePath</ScreenName>
+                <ShortDescription>Postscript2 Output will be saved at this location</ShortDescription>
+                <Value DataType="String">$EZP_USER_HOME/out.ps</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.Graphics</Name>
+        <ScreenName>GraphicsOption</ScreenName>
+        <ShortDescription>Graphics Option</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.Graphics.Transformations</Name>
+            <ScreenName>Transformations</ScreenName>
+            <ShortDescription>Transformations Parameters</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Graphics.Transformations.MaintainAspectRatio</Name>
+                <ScreenName>MaintainAspectRatio</ScreenName>
+                <ShortDescription>This is for maintaining AspectRatio of the contents in the output file</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Transformations.OpacityMode</Name>
+                <ScreenName>Opacity Mode</ScreenName>
+                <ShortDescription>To outline geoms as lines and emulate opaque areas</ShortDescription>
+                <Value DataType="Integer">0</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.Graphics.Brush</Name>
+            <ScreenName>Brush</ScreenName>
+            <ShortDescription>Brush Parameters</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Graphics.Brush.BackgroundColor</Name>
+                <ScreenName>BackgroundColor</ScreenName>
+                <ShortDescription>Background Color</ShortDescription>
+                <Value DataType="Color">
+                  <Color>
+                    <Red>255</Red>
+                    <Green>255</Green>
+                    <Blue>255</Blue>
+                  </Color>
+                </Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Brush.ForegroundColor</Name>
+                <ScreenName>ForegroundColor</ScreenName>
+                <ShortDescription>Foreground Color</ShortDescription>
+                <Value DataType="Color">
+                  <Color>
+                    <Red>0</Red>
+                    <Green>0</Green>
+                    <Blue>0</Blue>
+                  </Color>
+                </Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Brush.Economode</Name>
+                <ScreenName>Color Printing</ScreenName>
+                <ShortDescription>This can be Color/Gray Scale/Black and White</ShortDescription>
+                <Value DataType="String">SolidFillsAsSolidFill</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.Graphics.Pen</Name>
+            <ScreenName>Pen</ScreenName>
+            <ShortDescription>Pen Parameters</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Graphics.Pen.ScalePenWidth</Name>
+                <ScreenName>Pen Width Scale [ % ]</ScreenName>
+                <ShortDescription>It will scale up/down the pen width. Expressed in percentage i.e. 100 means no scaling.</ShortDescription>
+                <Value DataType="Integer">100</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Pen.ScaleZeroPenWidth</Name>
+                <ScreenName>Scale zero pen width</ScreenName>
+                <ShortDescription>Enable if zero pen width should be scaled as one pen width.</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Pen.ScaleOnePenWidth</Name>
+                <ScreenName>Scale One pen width</ScreenName>
+                <ShortDescription>Enable if One pen width should be scaled as one pen width.</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.Graphics.Colormap</Name>
+            <ScreenName>Colormap</ScreenName>
+            <ShortDescription>Colormap</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Graphics.Colormap.List</Name>
+                <ScreenName>Colormap List</ScreenName>
+                <ShortDescription>list of color map</ShortDescription>
+                <Value DataType="List">
+                  <List DataType="String"/>
+                </Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Colormap.ListIndex</Name>
+                <ScreenName>Colormap List Index</ScreenName>
+                <ShortDescription>index of currently used colormap</ShortDescription>
+                <Value DataType="Integer">0</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.Colormap.EnableColormap</Name>
+                <ScreenName>Enable Colormap</ScreenName>
+                <ShortDescription>Enable Colormap</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+          <ParameterGroup>
+            <Name>EzPrint.Graphics.FalconStrokeFonts</Name>
+            <ScreenName>File Paths</ScreenName>
+            <ShortDescription>Graphics File Paths</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Graphics.FalconStrokeFonts.ReplaceTtfForStroke</Name>
+                <ScreenName>Use true type</ScreenName>
+                <ShortDescription>Use true type replacement for stroke fonts</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.FalconStrokeFonts.StrokeFont</Name>
+                <ScreenName>Stroke Font File Path</ScreenName>
+                <ShortDescription>Stroke Font File</ShortDescription>
+                <Value DataType="String">$EZP_HOME/fonts/stroke</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.FalconStrokeFonts.ReplaceTtfForMgcStroke</Name>
+                <ScreenName>Use true type font</ScreenName>
+                <ShortDescription>true type font replacement for mgc v1 stroke fonts</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Graphics.FalconStrokeFonts.MgcStrokeFont</Name>
+                <ScreenName>MGC Stroke Font File Path</ScreenName>
+                <ShortDescription>MGC Stroke Font File</ShortDescription>
+                <Value DataType="String">$EZP_HOME/fonts/mgc-v1-stroke</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.ExportToPDF</Name>
+        <ScreenName>Adobe PDF</ScreenName>
+        <ShortDescription>Export to Adobe PDF format</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.ExportToPDF.PDFOutput</Name>
+            <ScreenName>PDFOutput &lt;!-- There is no group, only one parameter exists--&gt;</ScreenName>
+            <ShortDescription>PDFOutput</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.PDFA1b</Name>
+                <ScreenName>PDF/A-1b standard compliance</ScreenName>
+                <ShortDescription>Allows generated PDF to be of PDF/A-1b standard compliant.</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.EmbedFonts</Name>
+                <ScreenName>Embed fonts</ScreenName>
+                <ShortDescription>Allows embedding of fonts in generated PDF file. If disabled,fonts cannot be embedded in generated PDF file.</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.EnableLayers</Name>
+                <ScreenName>Generate PDF with layers</ScreenName>
+                <ShortDescription>Extended Print can generate PDF output with or without layers. When layers are enabled, each page in generated PDF will have layer wise graphical data which can be selected to view in a PDF viewer. When layers are disabled, generated PDF will not have any layer and every graphical entity will be rendered on a page.</ShortDescription>
+                <Value DataType="Boolean">true</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.Mirror</Name>
+                <ScreenName>Generate PDF with mirrored graphics</ScreenName>
+                <ShortDescription>Extended Print can generate PDF output with mirrored graphics. When mirror is enabled, each page in generated PDF will have graphical data mirrored with respect to vertical axis. When mirror is disabled, generated PDF will not have any mirroring of graphical entity will be rendered on a page.</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.TextSelection</Name>
+                <ScreenName>TextSelection</ScreenName>
+                <ShortDescription>TextSelection</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.DocumentEditing</Name>
+                <ScreenName>DocumentEditing</ScreenName>
+                <ShortDescription>DocumentEditing</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.EnablePrinting</Name>
+                <ScreenName>EnablePrinting</ScreenName>
+                <ShortDescription>EnablePrinting</ShortDescription>
+                <Value DataType="Boolean">yes</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.InvokeViewer</Name>
+                <ScreenName>Invoke Viewer </ScreenName>
+                <ShortDescription>On Setting this, PDF output will be viewed in viewer</ShortDescription>
+                <Value DataType="Boolean">true</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.ExportToPDF.PDFOutput.Transparency</Name>
+                <ScreenName>Transparency</ScreenName>
+                <ShortDescription>On Setting this, PDF Output will be transparent as per set value</ShortDescription>
+                <Value DataType="Integer">0</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.Print</Name>
+        <ScreenName> Adobe PostScript Printing </ScreenName>
+        <ShortDescription>For Printing graphics data to a printer in Postscript Format</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.Print.Options</Name>
+            <ScreenName> PS3 Output</ScreenName>
+            <ShortDescription>PS3 output</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.Print.Options.ManualFeed</Name>
+                <ScreenName>Manual Feed</ScreenName>
+                <ShortDescription>Selecting this option will prompt user to manually feed the paper into printer</ShortDescription>
+                <Value DataType="Boolean">false</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Print.Options.UseForms</Name>
+                <ScreenName>Generate Postscript with forms</ScreenName>
+                <ShortDescription>Extended Print can generate postscript output with or without forms. When forms are enabled, file size on disk and spooling time will be less but it requires good amount of memory on printer or plotter. When forms are disabled, file size on disk and spooling time will be more but it requires small memory on printer or plotter.</ShortDescription>
+                <Value DataType="Boolean">no</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Print.Options.DuplexPrinting</Name>
+                <ScreenName>Duplex Printing</ScreenName>
+                <ShortDescription>User can control duplex printing option by selecting one of the following values: Disabled/Flipped on Horizontal side/Flipped on Vertical Side</ShortDescription>
+                <Value DataType="String">Disabled</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Print.Options.SelectTray</Name>
+                <ScreenName>Select Tray</ScreenName>
+                <ShortDescription>User can Specify the Output Tray from Automatic/Tray1/Tray2/Tray3/Tray4/Tray5/Tray0</ShortDescription>
+                <Value DataType="String">Automatic</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.Print.Options.NumberOfCopies</Name>
+                <ScreenName>Number of Copies</ScreenName>
+                <ShortDescription>User can give number of copies of the output document</ShortDescription>
+                <Value DataType="Integer">1</Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+      <Object Type="">
+        <Name>EzPrint.SystemSettings</Name>
+        <ScreenName> System Settings</ScreenName>
+        <ShortDescription>For retrieving information about various files required to run the application</ShortDescription>
+        <ParameterGroups>
+          <ParameterGroup>
+            <Name>EzPrint.SystemSettings.SpoolCommands</Name>
+            <ScreenName>Spool Commands</ScreenName>
+            <ShortDescription>System specific spool commands</ShortDescription>
+            <Parameters>
+              <Parameter>
+                <Name>EzPrint.SystemSettings.SpoolCommands.Platform</Name>
+                <ScreenName>Platform for selecting Spool Command</ScreenName>
+                <ShortDescription>You can choose the platfrom to view spooling command for</ShortDescription>
+                <Value DataType="String">Windows</Value>
+              </Parameter>
+              <Parameter>
+                <Name>EzPrint.SystemSettings.SpoolCommands.Windows</Name>
+                <ScreenName>Spool Command for Windows platform</ScreenName>
+                <ShortDescription>Command to spool files to print on Windows platform</ShortDescription>
+                <Value DataType="Program">
+                  <Program>
+                    <Executable>lpr</Executable>
+                    <Options></Options>
+                  </Program>
+                </Value>
+              </Parameter>
+            </Parameters>
+          </ParameterGroup>
+        </ParameterGroups>
+      </Object>
+    </SubObjects>
+  </Object>
+
+</DCML>

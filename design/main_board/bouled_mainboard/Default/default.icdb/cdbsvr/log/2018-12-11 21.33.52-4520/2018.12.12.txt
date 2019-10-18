@@ -1,0 +1,27 @@
+[2018.12.12 00:06:18] [0152m.26s.675ms] [1] SC[4271]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4271] host [DESKTOP-D6MOGOB] user [alexis] process ID [7444]
+[2018.12.12 00:06:19] [0152m.26s.925ms] [1] CMT: Removed client [4271]
+[2018.12.12 00:06:19] [0152m.26s.925ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.12 00:06:21] [0152m.29s.005ms] [0] CMT: Starting server auto-close
+[2018.12.12 00:06:21] [0152m.29s.114ms] [0] S: Closing server
+[2018.12.12 00:06:21] [0152m.29s.129ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2018.12.12 00:06:21] [0152m.29s.270ms] [0] iCDB Server PI: Closing plugins
+[2018.12.12 00:06:21] [0152m.29s.270ms] [0] iCDB Server PI: Plugins closed
+[2018.12.12 00:06:21] [0152m.29s.270ms] [0] iCDB Server PI: Unloading database
+[2018.12.12 00:06:21] [0152m.29s.270ms] [0] iCDB Server PI: Saving storage
+[2018.12.12 00:06:21] [0152m.29s.270ms] [0] iCDB Server PI: Closing database
+[2018.12.12 00:06:21] [0152m.29s.270ms] [1] Hole: zero line at 288316 of size 8 bytes.
+[2018.12.12 00:06:21] [0152m.29s.317ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[13%] data[84%]
+[2018.12.12 00:06:21] [0152m.29s.317ms] [1] iCDB Server PI: Stats: Database file size [288376 (281.6 kB)]
+[2018.12.12 00:06:21] [0152m.29s.317ms] [1] Hole: zero line at 288316 of size 8 bytes.
+[2018.12.12 00:06:21] [0152m.29s.348ms] [0] iCDB Server PI: Database closed
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [10013] ticks
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1001] microseconds
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5]
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4993] commands per second
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: Mem[33067008]
+[2018.12.12 00:06:21] [0152m.29s.348ms] [1] iCDB Server PI: Stats: MemPeak[36892672]
+[2018.12.12 00:06:21] [0152m.29s.348ms] [0] Single file [E:\BouLED\design\main_board\bouled_mainboard\Default\default.icdb\icdb.dat] closed with size [288376 (281.6 kB)]
+[2018.12.12 00:06:21] [0152m.29s.364ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.12 00:06:21] [0152m.29s.567ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.12 00:06:21] [0152m.29s.567ms] [0] MWT: STOP
+[2018.12.12 00:06:21] [0152m.29s.567ms] [0] S: STOP

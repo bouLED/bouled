@@ -1,0 +1,22 @@
+; Version : LOCAL
+; Job     : E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB\PCB.pcb
+; User    : DESKTOP-D6MOGOB:alexis
+; Date    : Sun Dec 30 04:46:03 2018
+; Format  : 3.3 / Absolute / MM / Leading
+; Contents: Thru / Drill / Non-Plated
+M48
+METRIC,TZ
+FMAT,2
+ICI,OFF
+T04C1.5000
+%
+M71
+G90
+G93X0Y0
+T04
+X5465Y32207
+Y44743
+Y57252
+Y69781
+T00
+M30

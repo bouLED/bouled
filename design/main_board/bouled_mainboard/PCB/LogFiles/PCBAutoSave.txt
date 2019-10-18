@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       04:43 AM Sunday, December 30, 2018
+       Job Name: E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB\PCB.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       04:47 AM Sunday, December 30, 2018
+       Job Name: E:\BOULED\DESIGN\MAIN_BOARD\BOULED_MAINBOARD\PCB\PCB.pcb
+

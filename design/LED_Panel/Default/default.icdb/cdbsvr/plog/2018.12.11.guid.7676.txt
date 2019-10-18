@@ -1,0 +1,30 @@
+[2018.12.11 17:32:52] [0000m.02s.742ms] [0] WELCOME
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] iCDB Database ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Base flow version [VX.2.4]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Machine [DESKTOP-D6MOGOB]  IP [10.0.2.15,127.0.0.1]  User [alexis]  PID [7676]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Operating system [Microsoft Business Edition, 64-bit (build 9200)]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Current working dir [E:\BouLED\design\LED_Panel]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] PATH [C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\mentorgraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\mentorgraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\mentorgraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\alexi\AppData\Local\Microsoft\WindowsApps]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] SDD_HOME [C:\mentorgraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] SDD_PLATFORM [win32]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] WDIR [C:\Users\alexi\Documents\WDIR;C:\mentorgraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [1] Local iCDB working dir [C:\Users\alexi\Documents\WDIR\iCDB] on file system [NTFS]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] WARNING: Database [E:\BouLED\design\LED_Panel\Default\default.icdb\icdb.dat] was manually copied
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] File change time:        [2018-12-11 15.03.36]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] File modification time:  [2018-12-11 15.03.36]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Last change time:        [2018-12-10 16.24.57]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Last database open information:
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Time:             [2018-12-10 16.17.25]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Location:         [C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\Default\default.icdb\icdb.dat]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Machine:          [LUCAS]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] User:             [Lucas]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] PID:              [8908]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Application:      [iCDB Server]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Operating system: [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] WARNING: Regenerating database GUID
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Previous database GUID [d0fa-cad0-b26e-0bd8-00d7-e0c5-0d7e-0c50-0ca9-86c4-8670-eca8]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [3] Current database GUID  [2443-b584-14e3-d546-4b6e-f0c9-b6ef-0c50-85cf-509f-9fef-0fc8]
+[2018.12.11 17:32:52] [0000m.02s.742ms] [0] .

@@ -1,0 +1,3 @@
+*.o
+controller_constants.h
+gen_controller_constants

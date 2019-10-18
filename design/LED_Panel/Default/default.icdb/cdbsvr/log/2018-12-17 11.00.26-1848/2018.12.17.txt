@@ -1,0 +1,203 @@
+[2018.12.17 11:00:26] [0000m.00s.044ms] [0] WELCOME
+[2018.12.17 11:00:26] [0000m.00s.044ms] [1] iCDB Server ver.2.204, w6NMT3m1DsvvLxNhuorv0Q, build:11282694 created 2018-08-20 09:52:51, sources stamp:w6NMT3m1DsvvLxNhuorv0Q
+[2018.12.17 11:00:26] [0000m.00s.044ms] [1] Copyright 2018 Mentor Graphics Corporation.  All Rights Reserved.
+[2018.12.17 11:00:26] [0000m.00s.044ms] [1] Base flow version [VX.2.4]
+[2018.12.17 11:00:26] [0000m.00s.044ms] [1] Install Id [1845723], Flow Id [X-ENTP VX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.17 11:00:26] [0000m.00s.044ms] [1] Install Id [1845717], Flow Id [X-ENTP DCVX.2.4], Full Flow Name [Xpedition Enterprise X-ENTP VX.2.4], Exact Access Date [2018/08/01]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] Machine [DESKTOP-GIDMTNA]  IP [10.0.2.15,127.0.0.1]  User [Zor]  PID [1848]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] Operating system [Microsoft Home Premium Edition, 64-bit (build 9200)]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] Current working dir [E:\design\LED_Panel]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] PATH [C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\help;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin;C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\lib;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\bin;C:\MentorGraphics\EEVX.2.4\MGC_HOME.ixn\lib;C:\MentorGraphics\EEVX.2.4\SDD_HOME\wg\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\OpenVPN\bin;C:\Program Files\PuTTY\;C:\Users\Zor\AppData\Local\Microsoft\WindowsApps;]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] SDD_HOME [C:\MentorGraphics\EEVX.2.4\SDD_HOME] on file system [NTFS]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] SDD_PLATFORM [win32]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] WDIR [C:\WDIR\EEVX.2.4;C:\MentorGraphics\EEVX.2.4\SDD_HOME\standard;]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] Local iCDB working dir [C:\WDIR\EEVX.2.4\iCDB] on file system [NTFS]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [1] S: Config file name [ServerWG.cfg]
+[2018.12.17 11:00:26] [0000m.00s.059ms] [2] S: Loading config files
+[2018.12.17 11:00:26] [0000m.00s.075ms] [1] Config file [E:\design\LED_Panel\Default\default.icdb\cdbsvr\ServerWG.cfg] not found
+[2018.12.17 11:00:26] [0000m.00s.075ms] [1] Config: Non-default value [System.SingleUserMode] = [no]
+[2018.12.17 11:00:26] [0000m.00s.075ms] [3] S: Config loaded
+[2018.12.17 11:00:26] [0000m.00s.715ms] [0] S: Project path [E:\design\LED_Panel\Default\default.icdb] on file system [VBoxSharedFolderFS]
+[2018.12.17 11:00:26] [0000m.00s.715ms] [0] S: Project global path [\\vboxsrv\bouled\design\LED_Panel\Default\default.icdb] on file system [UNKNOWN]
+[2018.12.17 11:00:26] [0000m.00s.715ms] [1] S: WARNING: No project file (.prj) path specified
+[2018.12.17 11:00:26] [0000m.00s.730ms] [1] S: WARNING: Database auto-repair support DISABLED
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: Multi-user mode (config)
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: Event polling mode autodetection
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: Started up automatically by iCDB Client: DESKTOP-GIDMTNA:Zor:2620
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: Auto close mode
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: Database ID [d3bb-a7ec-0169-fff1-9b37-71ce-b377-1c50-b9af-cf6f-60ef-fec8]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: BEGIN dumping
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: Local -> global path prefix list
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [E:\] -> [\\vboxsrv\bouled\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [F:\] -> [\\VBOXSVR\mentor\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [G:\] -> [\\vboxsrv\mentor\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: Global -> local path prefix list
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [\\vboxsrv\bouled\] -> [E:\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [\\VBOXSVR\mentor\] -> [F:\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: [\\vboxsrv\mentor\] -> [G:\]
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] PathTranslator: END dumping
+[2018.12.17 11:00:26] [0000m.00s.730ms] [0] S: START
+[2018.12.17 11:00:26] [0000m.00s.746ms] [0] S: Server startup lock file created
+[2018.12.17 11:00:26] [0000m.00s.746ms] [0] S: Listening for client connections on port [10000]
+[2018.12.17 11:00:26] [0000m.00s.746ms] [0] S: Server network ID [DESKTOP-GIDMTNA:10.0.2.15,DESKTOP-GIDMTNA:10000]
+[2018.12.17 11:00:26] [0000m.00s.746ms] [0] S: Server GUID [b767-86c6-d1c4-6c22-ab37-71cf-b377-1c50-b09f-cf6f-60ef-fec8]
+[2018.12.17 11:00:26] [0000m.00s.746ms] [0] S: Project GUID [d3bb-a7ec-0169-fff1-9b37-71ce-b377-1c50-b9af-cf6f-60ef-fec8]
+[2018.12.17 11:00:26] [0000m.00s.762ms] [0] S: Wrote data to server address file
+[2018.12.17 11:00:26] [0000m.00s.762ms] [0] S: Server startup lock file removed
+[2018.12.17 11:00:26] [0000m.00s.762ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.17 11:00:27] [0000m.01s.264ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2018.12.17 11:00:27] [0000m.01s.264ms] [1] ServerToolkit: INFO: Plugin not found in SDD_ICDB_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\iCDB\win32\bin]
+[2018.12.17 11:00:27] [0000m.01s.276ms] [1] ServerToolkit: INFO: Plugin not found in SDD_COMMON_BIN [C:\MentorGraphics\EEVX.2.4\SDD_HOME\common\win32\bin]
+[2018.12.17 11:00:27] [0000m.01s.276ms] [1] ServerToolkit: INFO: Plugin not found in PATH
+[2018.12.17 11:00:27] [0000m.01s.276ms] [1] ServerToolkit: INFO: Plugin not found in CWD
+[2018.12.17 11:00:27] [0000m.01s.276ms] [1] ServerToolkit: INFO: returning just plugin exe name!
+[2018.12.17 11:00:27] [0000m.01s.276ms] [0] S: Local disc access time: 55 us
+[2018.12.17 11:00:27] [0000m.01s.276ms] [0] S: File server access time: 645 us
+[2018.12.17 11:00:27] [0000m.01s.276ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2018.12.17 11:00:27] [0000m.01s.289ms] [0] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] size [255608 (249.6 kB)]
+[2018.12.17 11:00:27] [0000m.01s.305ms] [1] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] opened in read-write mode
+[2018.12.17 11:00:27] [0000m.01s.305ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.305ms] [0] Database GUARD OK: [255608]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] Database GUARD OK: [255608]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] Database GUARD OK: [255608]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] Database GUARD OK: [255608]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] Database GUARD OK: [255608]
+[2018.12.17 11:00:27] [0000m.01s.320ms] [0] SingleFile: [1992-f81b-35b0-1b2b] SFI version check [1009] [1009]
+[2018.12.17 11:00:27] [0000m.01s.421ms] [0] SingleFile: [1992-f81b-35b0-1b2b] Database SFI header has been read in [106ms 523us]
+[2018.12.17 11:00:27] [0000m.01s.436ms] [0] iCDB Server PI: Server & plugin session [4492]
+[2018.12.17 11:00:27] [0000m.01s.436ms] [0] iCDB Server PI: Opening database [E:\design\LED_Panel\Default\default.icdb]
+[2018.12.17 11:00:27] [0000m.01s.436ms] [0] iCDB Server PI: Database [E:\design\LED_Panel\Default\default.icdb] opened
+[2018.12.17 11:00:27] [0000m.01s.628ms] [0] iCDB Database: Checking existence of constraint definitions
+[2018.12.17 11:00:27] [0000m.01s.628ms] [0] iCDB Database: Checking constraint definitions version
+[2018.12.17 11:00:27] [0000m.01s.730ms] [0] iCDB Database: Creating database content backup before upgrade
+[2018.12.17 11:00:27] [0000m.01s.730ms] [1] iCDB Storage Server: Database backup: ProjectPath[E:\design\LED_Panel\Default\default.icdb]
+[2018.12.17 11:00:27] [0000m.01s.794ms] [0] iCDB Storage Server Backup Thread: Database backup: BackupPath[E:\design\LED_Panel\Default\default.icdb\cdbback\2018-12-17 11.00.27-1848.zip]
+[2018.12.17 11:00:27] [0000m.01s.828ms] [0] iCDB Storage Server Backup Thread: Backup database DONE: Result[ Succeeded[TRUE]] BackupPath[E:\design\LED_Panel\Default\default.icdb\cdbback\2018-12-17 11.00.27-1848.zip]
+[2018.12.17 11:00:27] [0000m.01s.828ms] [0] iCDB Database: Database content backed up to [E:\design\LED_Panel\Default\default.icdb\cdbback\2018-12-17 11.00.27-1848.zip] of size [304 169 bytes (297.0 kB)]  in [106ms 715us]
+[2018.12.17 11:00:27] [0000m.01s.843ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.10.63;user.cns=621c-f847-796c-93ac-4d71-dfb9-d71d-fb50-8289-86c4-d640-eca8]
+[2018.12.17 11:00:27] [0000m.01s.859ms] [0] iCDB Database: Loading snapshot [1:DCDV] version [3500]
+[2018.12.17 11:00:27] [0000m.01s.892ms] [0] iCDB Database: Snapshot [1:DCDV] loaded in [26ms 806us]
+[2018.12.17 11:00:27] [0000m.01s.892ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [1:DCDV]
+[2018.12.17 11:00:28] [0000m.02s.001ms] [0] iCDB Database: Constraint definitions for snapshot [1:DCDV] upgraded in [112ms 149us]
+[2018.12.17 11:00:28] [0000m.02s.001ms] [0] iCDB Database: Saving snapshot [1:DCDV]
+[2018.12.17 11:00:28] [0000m.02s.016ms] [0] iCDB Database: Snapshot [1:DCDV] saved in [10ms 740us]
+[2018.12.17 11:00:28] [0000m.02s.016ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\design\LED_Panel\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.016ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.17 11:00:28] [0000m.02s.016ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\design\LED_Panel\Default\default.icdb\s1\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.095ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.112ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s1\cdbcatlg\grpobj] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.112ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.112ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.112ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s1\uids] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.112ms] [0] iCDB Database: Loading snapshot [2:PCB_Layout_Temp] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.128ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] loaded in [10ms 6us]
+[2018.12.17 11:00:28] [0000m.02s.128ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2018.12.17 11:00:28] [0000m.02s.128ms] [0] iCDB Database: Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [10ms 72us]
+[2018.12.17 11:00:28] [0000m.02s.145ms] [0] iCDB Database: Saving snapshot [2:PCB_Layout_Temp]
+[2018.12.17 11:00:28] [0000m.02s.145ms] [0] iCDB Database: Snapshot [2:PCB_Layout_Temp] saved in [9ms 664us]
+[2018.12.17 11:00:28] [0000m.02s.182ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.197ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.197ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.197ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.213ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s2\uids] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.213ms] [0] iCDB Database: Loading snapshot [3:PCB] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.229ms] [0] iCDB Database: Snapshot [3:PCB] loaded in [14ms 413us]
+[2018.12.17 11:00:28] [0000m.02s.229ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [3:PCB]
+[2018.12.17 11:00:28] [0000m.02s.244ms] [0] iCDB Database: Constraint definitions for snapshot [3:PCB] upgraded in [10ms 82us]
+[2018.12.17 11:00:28] [0000m.02s.244ms] [0] iCDB Database: Saving snapshot [3:PCB]
+[2018.12.17 11:00:28] [0000m.02s.259ms] [0] iCDB Database: Snapshot [3:PCB] saved in [10ms 220us]
+[2018.12.17 11:00:28] [0000m.02s.274ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s3\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.274ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s3\cdbcatlg\grpobj] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.274ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.290ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s3\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.290ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s3\uids] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.290ms] [0] iCDB Database: Loading snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] loaded in [6ms 477us]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Constraint definitions for snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] upgraded in [114us]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Saving snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Snapshot [4:DCDV_INST_PROP_TEMPORARY_STORAGE] saved in [17us]
+[2018.12.17 11:00:28] [0000m.02s.305ms] [0] iCDB Database: Loading snapshot [5:RefSync] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [0] iCDB Database: Snapshot [5:RefSync] loaded in [8ms 486us]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [5:RefSync]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [0] iCDB Database: Constraint definitions for snapshot [5:RefSync] upgraded in [5ms 968us]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [0] iCDB Database: Saving snapshot [5:RefSync]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [0] iCDB Database: Snapshot [5:RefSync] saved in [39us]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\design\LED_Panel\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.320ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.17 11:00:28] [0000m.02s.320ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\design\LED_Panel\Default\default.icdb\s5\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.353ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s5\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.353ms] [0] iCDB Database: Loading snapshot [6:PCB_RefSync] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.370ms] [0] iCDB Database: Snapshot [6:PCB_RefSync] loaded in [14ms 578us]
+[2018.12.17 11:00:28] [0000m.02s.370ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [6:PCB_RefSync]
+[2018.12.17 11:00:28] [0000m.02s.385ms] [0] iCDB Database: Constraint definitions for snapshot [6:PCB_RefSync] upgraded in [10ms 66us]
+[2018.12.17 11:00:28] [0000m.02s.385ms] [0] iCDB Database: Saving snapshot [6:PCB_RefSync]
+[2018.12.17 11:00:28] [0000m.02s.400ms] [0] iCDB Database: Snapshot [6:PCB_RefSync] saved in [10ms 192us]
+[2018.12.17 11:00:28] [0000m.02s.400ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\design\LED_Panel\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.400ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.17 11:00:28] [0000m.02s.400ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\design\LED_Panel\Default\default.icdb\s6\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.431ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s6\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.431ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s6\cdbcatlg\grpobj] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.446ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.446ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s6\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.446ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s6\uids] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.462ms] [0] iCDB Database: Loading snapshot [7:PCB_LDDTemp] version [3500]
+[2018.12.17 11:00:28] [0000m.02s.462ms] [0] iCDB Database: Snapshot [7:PCB_LDDTemp] loaded in [13ms 257us]
+[2018.12.17 11:00:28] [0000m.02s.477ms] [0] iCDB Database: Upgrading constraint definitions for snapshot [7:PCB_LDDTemp]
+[2018.12.17 11:00:28] [0000m.02s.477ms] [0] iCDB Database: Constraint definitions for snapshot [7:PCB_LDDTemp] upgraded in [9ms 995us]
+[2018.12.17 11:00:28] [0000m.02s.477ms] [0] iCDB Database: Saving snapshot [7:PCB_LDDTemp]
+[2018.12.17 11:00:28] [0000m.02s.493ms] [0] iCDB Database: Snapshot [7:PCB_LDDTemp] saved in [10ms 222us]
+[2018.12.17 11:00:28] [0000m.02s.493ms] [1] CORE: Applying a fix no 110 stage [fsAtlasLoaded] to atlas [E:\design\LED_Panel\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.493ms] [1] CORE: Fix: cleared overlapping drawing order!
+[2018.12.17 11:00:28] [0000m.02s.493ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [E:\design\LED_Panel\Default\default.icdb\s7\cdbcmps\dxdatl]
+[2018.12.17 11:00:28] [0000m.02s.539ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s7\cdbcatlg\catlgatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.539ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s7\cdbcatlg\grpobj] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.539ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.555ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s7\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.555ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [E:\design\LED_Panel\Default\default.icdb\s7\uids] - auto-saving it
+[2018.12.17 11:00:28] [0000m.02s.555ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.10.63;user.cns=9a82-8917-91f3-60c3-821d-60cd-21d6-0c50-b3bf-cf6f-60ef-fec8]
+[2018.12.17 11:00:28] [0000m.02s.617ms] [0] iCDB Server PI: Initializing plugins
+[2018.12.17 11:00:28] [0000m.02s.633ms] [0] iCDB Server PI: Plugins initialized
+[2018.12.17 11:00:28] [0000m.02s.633ms] [0] S: iCDB database loaded
+[2018.12.17 11:00:28] [0000m.02s.633ms] [0] S: Starting threads
+[2018.12.17 11:00:28] [0000m.02s.633ms] [0] BT: Listening for broadcast messages on port [10000]
+[2018.12.17 11:00:28] [0000m.02s.633ms] [0] ProjectBackupManager: WARNING: Could not startup Project Backup engine - functionality not initialized
+[2018.12.17 11:00:28] [0000m.02s.633ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2018.12.17 11:00:28] [0000m.02s.648ms] [0] MWT: WindowProc: WM_NCCREATE
+[2018.12.17 11:00:28] [0000m.02s.663ms] [0] IT: Session [4493] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [2620] created
+[2018.12.17 11:00:28] [0000m.02s.663ms] [1] SC[4493]: Registered sub-client [DCDV] with ID [1] for session ID [4493] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:00:28] [0000m.02s.679ms] [1] SC[4493]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4493] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:00:28] [0000m.02s.757ms] [1] CMT: There are [1] clients now: 4493
+[2018.12.17 11:00:28] [0000m.02s.757ms] [1] CMT: Removed client [4493]
+[2018.12.17 11:00:28] [0000m.02s.757ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.17 11:00:29] [0000m.03s.288ms] [0] IT: Session [4494] for host [DESKTOP-GIDMTNA] user [Zor] client type[0] clsvrPluginID[0] with process ID [2620] created
+[2018.12.17 11:00:29] [0000m.03s.288ms] [1] SC[4494]: Registered sub-client [DCDV] with ID [1] for session ID [4494] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:00:29] [0000m.03s.303ms] [1] SC[4494]: UnRegistered sub-client [DCDV] with ID [1] for session ID [4494] host [DESKTOP-GIDMTNA] user [Zor] process ID [2620]
+[2018.12.17 11:00:29] [0000m.03s.415ms] [1] CMT: Removed client [4494]
+[2018.12.17 11:00:29] [0000m.03s.415ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2018.12.17 11:00:31] [0000m.05s.026ms] [0] CMT: Starting server auto-close
+[2018.12.17 11:00:31] [0000m.05s.074ms] [0] S: Closing server
+[2018.12.17 11:00:31] [0000m.05s.092ms] [0] ProjectBackupManager: WARNING: Could not shutdown Project Backup engine - not started yet
+[2018.12.17 11:00:31] [0000m.05s.158ms] [0] iCDB Server PI: Closing plugins
+[2018.12.17 11:00:31] [0000m.05s.158ms] [0] iCDB Server PI: Plugins closed
+[2018.12.17 11:00:31] [0000m.05s.158ms] [0] iCDB Server PI: Unloading database
+[2018.12.17 11:00:31] [0000m.05s.175ms] [0] iCDB Server PI: Saving storage
+[2018.12.17 11:00:31] [0000m.05s.175ms] [0] iCDB Server PI: Closing database
+[2018.12.17 11:00:31] [0000m.05s.175ms] [1] iCDB Server PI: Stats: Database defragmentation: max[4] avg[1] holes[4%] data[91%]
+[2018.12.17 11:00:31] [0000m.05s.175ms] [1] iCDB Server PI: Stats: Database file size [335640 (327.8 kB)]
+[2018.12.17 11:00:31] [0000m.05s.191ms] [0] iCDB Server PI: Database closed
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [157] ticks
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [15] microseconds
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [2]
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [127388] commands per second
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: Mem[34709504]
+[2018.12.17 11:00:31] [0000m.05s.191ms] [1] iCDB Server PI: Stats: MemPeak[42246144]
+[2018.12.17 11:00:31] [0000m.05s.191ms] [0] Single file [E:\design\LED_Panel\Default\default.icdb\icdb.dat] closed with size [335640 (327.8 kB)]
+[2018.12.17 11:00:31] [0000m.05s.207ms] [0] ProjectBackupManager: WARNING: Could not create Project Backup - functionality not initialized
+[2018.12.17 11:00:31] [0000m.05s.508ms] [0] MWT: Destroy the shutdown block reason.
+[2018.12.17 11:00:31] [0000m.05s.508ms] [0] MWT: STOP
+[2018.12.17 11:00:31] [0000m.05s.508ms] [0] S: STOP

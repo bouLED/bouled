@@ -1,0 +1,35 @@
+Part	Value	Device	Description	Quantity	Distributor code	Option	Part Number
+D2	 	B220A-13-F	Schottky diode, Imoy=2A, Vf=0.5V, Vr=20V, Diodes Inc B220A-13-F, case SMA	1	Fa : 1858604	 	20-0064
+C30	47uF	CAP CHIM C 47uF 6V3	Capacitor chimical for decoupling / 47uF / 6.3V / case C	1	Fa : 2069145	 	10-0019
+C24,C29	10nF	CAP C0402 10nF X7R 16V	Capacitor Ceramic X7R / 10nF / 16V / ±10% / case 0402	2	Fa : 2627338	 	10-0059
+C4	2.2nF	CAP C0603 2.2nF X7R50V	Capacitor Ceramic X7R / 2.2nF / 50V / ±20% / case 0603	1	Fa : 2688472	 	10-0007
+C5,C9	2.2uF	CAP C0603 2.2uF X5R 6.3V	Capacitor Ceramic X5R / 2.2uF / 6.3V / ±20% / case 0603	2	Fa : 2496924	 	10-0112
+C25	10uF	CAP C0603 10uF X5R 10V	Capacitor Ceramic X5R / 10uF / 10V / ±20% / case 0603	1	Fa : 2456110	 	10-0120
+C22,C23	15pF	CAP C0603 15pF COG 10V	Capacitor Ceramic 15pF / 10V / ±1% / case 0603	2	Fa : 1856081	 	10-0031
+C7,C8,C13,C14,C15,C16,C17,C27,C28	100nF	CAP C0603 100nF X7R 16V	Capacitor Ceramic X7R / 100nF / 16V / ±10% / case 0603	9	Fa : 1414027	 	10-0057
+C3,C6,C18,C19,C20,C21	10uF	CAP C0805 10uF X5R 10V	Capacitor Ceramic X5R / 10uF / 10V / ±10% / case 0805	6	Fa : 2781411	 	10-0061
+C2	10uF	CAP C0805 10uF X5R 25V	Capacitor Ceramic X5R / 10uF / 25V / ±10% / case 0805, 	1	Fa : 1735530	 	10-0102
+C1	220nF	CAP C0805 220nF X7R 50V	Capacitor Ceramic X7R / 220nF / 50V / ±1.25% / case 0805	1	Fa : 8820139	 	10-0041
+U4	 	ESP32_DEVKITC	ESP32 DevKitC module, with VROOM submodule.	1	Mouser: 356-ESP32-DEVKITC	 	80-0073
+J8	 	FTSH-105-01-L-DV	Dual row 1.27 CMS 2x5 points connector, Samtec FTSH-105-01-L-DV 	1	Fa : 1667759	 	70-0081
+D3	 	HSMF-C114	Tricolor RGB  LED, SMD case ChipLed, Avago HSMF-C114, 20mA, 70/180/85mCd, Vf=2.4/3.9/2.9V	1	Fa : 1058362 	 	20-0038
+J1	 	JAE_ST1W008S4ER1500	Connecteur MicroSD, à charnière, JAE ST1W008S4ER1500	1	Mouser : 656-ST1W008S4ER1500	 	70-0058
+J9	 	JUMPER 5PTS	Barrette droite 5 points en ligne 2.54mm 	1	 	 	70-0111
+U3	 	LT1762EMS8-5#PBF	Low noise LDO 5V regulator, 150mA, Linear Tech LT1762EMS8-5#PBF, case MSOP8	1	Mouser : 584-LT1762EMS8-5#PBF	 	40-0166
+U1	 	LT1765ES8#PBF	3A 1.25 MHz Step-down Converter / Linear Tech LT1765ES8#PBF / Adj output / case SOIC8	1	Mouser : 584-LT1765ES8#PBF	 	40-0003
+D1	 	MBR0540-T1	Diode Shottky 500mA 0.5V OnSemi MBRS540 case SOD123	1	Fa : 9556923	 	20-0019
+J18,J19,J20,J21	 	MICROMATCH-4	4pins smd on board connector Micromatch AMP 7-188275-4	4	Fa : 3784710	 	70-0014
+U6	 	MPU9250	3 axis gyroscope - accéléromètre - magnétomètre, +/- 250 à 2000°/s, 2-16g, +/-1200uT, 3.3V, I2C, SPI, Ivensense MPU9250, case QFN24 0.4mm	1	Mouser : 410-MPU-9250	 	40-0301
+J4,J5,J6,J7,J10,J11,J12,J13,J14,J15,J16,J17	 	PAD-1x1	Pad for test, 1x1mm	12	 	 	70-0085
+R20	0 	RES_0_0603	Resistor 0 ohms / 5% / case 0603	1	Fa : 2008343	DNP	00-0001
+R5,R6,R7,R10,R11,R12,R13,R14,R15,R16	1K 	RES_1.0k_0603	Resistor 1.0k ohms / 5% / case 0603	10	Fa : 2309108	 	00-0074
+R18,R19	4.7K 	RES_4.7k_0603	Resistor 4.7k ohms / 5% / case 0603	2	Fa : 2447385	 	00-0090
+R8	10K 	RES_10.0k_0603	Resistor 10.0k ohms / 1% / case 0603	1	Fa : 1527581	 	01-0385
+R1,R17	10K 	RES_10k_0603	Resistor 10k ohms / 5% / case 0603	2	Fa : 2074170	 	00-0098
+R9	18K 	RES_18k_0603	Resistor 18k ohms / 5% / case 0603	1	Fa : 9238638	 	00-0104
+R2,R3,R4	20K 	RES_20k_0603	Resistor 20k ohms / 5% / case 0603	3	Fa : 1527615	 	00-0105
+L1	8.2uH	SELF 8.2uH	Inductor blindée 8.2uH, 20%, 6.1A, 15MHz, 0.035ohms, Coilcraft XAL5050-822MEC, boitier 5.48x5.28	1	Fa : 2289072	 	50-0044
+U2	 	STM32H743VIT6	Cortex M7, 400MHz, ST STM32H743VIT6, case TQFP100	1	Fa : 2820776	 	40-0358
+J2	 	S2B-PH-SM4-TB	Embase mâle CMS JST 2 broches, 2mm, avec détrompeur, à sortie horizontale, S2B-PH-SM4-TB	1	Fa : 9492615	 	70-0066
+QZ1	 	16.000 MHz	Quartz 16.000 MHz, +/- 15ppm, 8pF, SMD, Kyocera CX2016DB16000D0FLJCC	1	Mouser : 581-CX2016DB16DFLJCC	 	83-0028
+U5	 	74LVC4245APW	8 bits level shifter, 3.3V --> 5V, NXP 74LVC4245APW , case TSSOP24	1	Fa : 1631648 	 	40-0234

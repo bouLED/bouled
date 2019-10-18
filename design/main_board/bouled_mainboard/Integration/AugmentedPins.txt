@@ -1,0 +1,23 @@
+
+------------------------------------------------------------------------
+            Part/Reference             | Pin | Augmented Net Name
+------------------------------------------------------------------------
+ Part 83-0028                          |
+       QZ1                             |    2| <unconnected pin>
+       QZ1                             |    4| <unconnected pin>
+ Part 70-0081                          |
+       J8                              |    7| <unconnected pin>
+ Part 40-0301                          |
+       U6                              |    2| <unconnected pin>
+       U6                              |    3| <unconnected pin>
+       U6                              |    4| <unconnected pin>
+       U6                              |    5| <unconnected pin>
+       U6                              |    6| <unconnected pin>
+       U6                              |   14| <unconnected pin>
+       U6                              |   15| <unconnected pin>
+       U6                              |   16| <unconnected pin>
+       U6                              |   17| <unconnected pin>
+       U6                              |   19| <unconnected pin>
+ Part 40-0166                          |
+       U3                              |    6| <unconnected pin>
+       U3                              |    7| <unconnected pin>

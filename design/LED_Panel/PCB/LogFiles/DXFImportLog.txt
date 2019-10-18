@@ -1,0 +1,14 @@
+
+                                    DXFImport
+                                    ---------
+
+                       09:11 AM Friday, December 14, 2018
+Job Name: C:\Users\Lucas\Documents\Travail\Telecom\bouled\design\LED_Panel\PCB\PCB.pcb
+
+    DXFile "C:\Users\Lucas\Documents\Travail\Telecom\bouled\openscad\78leds.dxf" loaded successfully.
+    
+
+    DXF data has been imported onto a new layer. 
+    To make this data visible select the checkbox for the new user layer in Display Control.    
+    DXFile "C:\Users\Lucas\Documents\Travail\Telecom\bouled\openscad\78leds.dxf" imported successfully.
+    

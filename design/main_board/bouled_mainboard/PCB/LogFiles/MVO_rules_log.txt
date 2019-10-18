@@ -1,0 +1,6 @@
+WARNING! MVO rules have been described in an obsolete format.
+         Not all features are supported for this version of the format.
+         Please refer to Help for the proper description of the actual format.
+
+
+ Reading MVO Rules file

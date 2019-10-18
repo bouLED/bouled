@@ -1,0 +1,12 @@
+Filename: Fiducials.txt
+
+Lage der Leiterplatte:
+untere linke Ecke: X=0 / Y=0
+RefDesignator	X	Y	Rot	Value	Package	Side
+FID1	68.584	87.382	0.000	1mm	round 1mm	TOP
+FID2	148.234	12.021	0.000	1mm	round 1mm	TOP
+FID3	35.417	12.023	0.000	1mm	round 1mm	TOP
+FID4	101.474	111.651	0.000	1mm	round 1mm	TOP
+FID5	140.055	12.374	0.000	1mm	round 1mm	BOTTOM
+FID6	53.665	12.872	0.000	1mm	round 1mm	BOTTOM
+FID7	101.487	111.665	0.000	1mm	round 1mm	BOTTOM

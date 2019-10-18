@@ -1,0 +1,16 @@
+
+                                Autosave Log File
+                                -----------------
+
+                      09:58 PM Saturday, December 29, 2018
+                Job Name: E:\BOULED\DESIGN\LED_PANEL\PCB\PCB.pcb
+
+Autosave pending at 22:03:15 Sat  Attempting...
+Autosave completed successfully.  22:03:16 Sat
+
+                               Autosave log closed
+                               -------------------
+
+                      10:13 PM Saturday, December 29, 2018
+                Job Name: E:\BOULED\DESIGN\LED_PANEL\PCB\PCB.pcb
+
